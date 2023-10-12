@@ -2,8 +2,13 @@ title: Coral Bleaching - BIOL 417
 author: Kaede Ito
 execute:
   execute_notebooks: cache
+  allow_errors: true
+
 exclude_patterns:
 - .venv/*
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-  - references.bib
+- src/references.bib
+sphinx:
+  config:
+    bibtex_reference_style: author_year

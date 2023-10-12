@@ -1,5 +1,18 @@
 format: jb-book
-root: index
-chapters:
-- file: 'src/exploratory'
-- file: 'src/main'
+root: readme
+parts:
+- caption: Exploring Literature
+  chapters:
+    - file: 'src/exploratory/index'
+    - file: 'src/exploratory/Pollock_2018'
+    - file: 'src/exploratory/Ziegler_2019'
+    - file: 'src/exploratory/Leite_2018'
+    - file: 'src/exploratory/Swain_2021'
+    - file: 'src/exploratory/van_Oppen_2019'
+- caption: Proposal
+  chapters:
+  - file: 'src/proposal'
+  - file: 'src/main'
+- caption: End
+  chapters:
+  - file: 'src/references'
