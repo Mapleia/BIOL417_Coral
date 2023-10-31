@@ -2,3 +2,7 @@
 _build
 .ipynb_checkpoints
 *.bib.sav
+*.bkp
+ncbi_dataset
+**/raxml_out
+**/*.fasta
