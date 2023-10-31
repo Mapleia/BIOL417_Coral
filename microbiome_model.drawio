@@ -1,0 +1,1199 @@
+<mxfile host="Electron" modified="2023-10-31T05:05:13.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="E9qNHvCGpDX59iZmO3Ji" version="22.0.3" type="device">
+  <diagram name="Page-1" id="SrsBESo9AjqtTDw2GIQ7">
+    <mxGraphModel dx="2620" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-1" target="a2jRWgbLZBjzN9J-Ek2x-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-1" target="SC-9HDF_wmnJlH-YETM0-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-1" value="scleractinian (‘stony’) corals" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="290" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-2" target="a2jRWgbLZBjzN9J-Ek2x-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-2" value="dinoflagellates, fungi, bacteria, and archaea" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="305" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="200" />
+              <mxPoint x="365" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="280" />
+            </Array>
+            <mxPoint x="490" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="220" />
+              <mxPoint x="-120" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-1" target="a2jRWgbLZBjzN9J-Ek2x-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="250" />
+              <mxPoint x="470" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="340" />
+              <mxPoint x="210" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="a2jRWgbLZBjzN9J-Ek2x-129" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-4" target="SC-9HDF_wmnJlH-YETM0-94" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="20" />
+              <mxPoint x="210" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-4" value="coral microbiome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="150" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-8" target="SC-9HDF_wmnJlH-YETM0-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-8" value="Shifts in the composition of the coral microbiome and virome are linked &lt;br/&gt;to changes in coral health, disease, and resistance to stressors" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="390" y="-65" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-10" target="a2jRWgbLZBjzN9J-Ek2x-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-10" value="host-microbial symbiosis" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="590" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-12" target="a2jRWgbLZBjzN9J-Ek2x-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-12" target="a2jRWgbLZBjzN9J-Ek2x-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-12" target="NuF6uCkKGm2GZKv_JF5o-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-12" value="correlations between host phylogenetic relationships and microbial community composition" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="1042.5" y="1075" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-14" target="a2jRWgbLZBjzN9J-Ek2x-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-14" target="a2jRWgbLZBjzN9J-Ek2x-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1105" />
+              <mxPoint x="680" y="1205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-14" target="a2jRWgbLZBjzN9J-Ek2x-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="818" y="930" />
+              <mxPoint x="410" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-14" target="a2jRWgbLZBjzN9J-Ek2x-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-14" target="a2jRWgbLZBjzN9J-Ek2x-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-14" target="SC-9HDF_wmnJlH-YETM0-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-14" target="SC-9HDF_wmnJlH-YETM0-142" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1133" />
+              <mxPoint x="730" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-14" value="phylosymbiosis" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1065" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-16" target="a2jRWgbLZBjzN9J-Ek2x-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-16" target="a2jRWgbLZBjzN9J-Ek2x-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-16" target="a2jRWgbLZBjzN9J-Ek2x-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-16" value="mechanisms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="510" y="1175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-18" target="a2jRWgbLZBjzN9J-Ek2x-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-18" target="a2jRWgbLZBjzN9J-Ek2x-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-18" value="codiversification of abundant microbial lineages with their hosts" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="510" y="1325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-41" target="a2jRWgbLZBjzN9J-Ek2x-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-20" value="filtering of microbial communities by host traits" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="510" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-22" target="a2jRWgbLZBjzN9J-Ek2x-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-22" value="coupling between host phylogeography and environmental effects on the microbiome&lt;sup&gt;&lt;a id=&quot;ref-link-section-d191042177e666&quot; href=&quot;https://www.nature.com/articles/s41467-018-07275-x#ref-CR7&quot; title=&quot;Brooks, A. W., Kohl, K. D., Brucker, R. M., Opstal, E. Jvan &amp;amp; Bordenstein, S. R. Phylosymbiosis: relationships and functional effects of microbial communities across host evolutionary history. PLoS Biol. 14, e2000225 (2016).&quot; aria-label=&quot;Reference 7&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;&lt;/a&gt;&lt;/sup&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1160" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-24" target="a2jRWgbLZBjzN9J-Ek2x-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-24" value="different animal secretions, tissues and organs typically harbor distinct microbiomes" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="90" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-26" value="Coral mucus, tissue, and skeleton show distinct microbial community composition" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="-10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-28" target="a2jRWgbLZBjzN9J-Ek2x-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-28" value="be partially species-specific" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-146.25" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-31" target="a2jRWgbLZBjzN9J-Ek2x-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-31" target="a2jRWgbLZBjzN9J-Ek2x-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-31" value="Cnidaria" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-33" target="a2jRWgbLZBjzN9J-Ek2x-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-33" value="gorgonians" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-35" target="NuF6uCkKGm2GZKv_JF5o-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="1770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="1600" />
+              <mxPoint x="-390" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-35" value="potential codiversification with &lt;i&gt;Endozoicomonas&lt;/i&gt; symbionts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-38" target="a2jRWgbLZBjzN9J-Ek2x-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="965" />
+              <mxPoint x="-110" y="965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-38" value="six species of coral and an octocoral outgroup found microbiome &lt;br/&gt;similarities that seemed to better align with morphology than phylogeny" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="900" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-41" target="a2jRWgbLZBjzN9J-Ek2x-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-45" target="a2jRWgbLZBjzN9J-Ek2x-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="-90" />
+              <mxPoint x="1360" y="1437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-45" target="a2jRWgbLZBjzN9J-Ek2x-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-45" target="a2jRWgbLZBjzN9J-Ek2x-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-45" value="Across all compartments, host species was the single most important variable structuring the coral microbiome" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-166.25" y="-140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-47" target="a2jRWgbLZBjzN9J-Ek2x-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-47" target="a2jRWgbLZBjzN9J-Ek2x-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-47" target="a2jRWgbLZBjzN9J-Ek2x-139" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-47" target="a2jRWgbLZBjzN9J-Ek2x-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-47" value="coral mucus microbiome" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-50" target="SC-9HDF_wmnJlH-YETM0-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="-250" />
+              <mxPoint x="800" y="-250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-50" target="SC-9HDF_wmnJlH-YETM0-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="-220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-50" value="notable for their relative stability between &lt;br/&gt;colonies and their high abundance of core vs. variable microbes" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="540" y="-65" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-52" value="confirmed the presence of Candidatus &lt;i&gt;Amoebophilus&lt;/i&gt; (an intracellular symbiont of eukaryotes) as present in&amp;gt;50% of tissue microbiomes" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="660" y="-75" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-54" target="a2jRWgbLZBjzN9J-Ek2x-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-54" value="more specific taxonomic levels always explaining more microbiome variance than more general taxonomic levels" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1408.75" width="120" height="111.25" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-139" target="a2jRWgbLZBjzN9J-Ek2x-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-57" value="&amp;nbsp;had a stronger influence on mucus microbiomes than tissue or skeleton microbiomes" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="670" y="500" width="120" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-59" target="a2jRWgbLZBjzN9J-Ek2x-139" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="990" />
+              <mxPoint x="520" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-59" target="a2jRWgbLZBjzN9J-Ek2x-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="710" />
+              <mxPoint x="210" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-59" value="coral species and its functional traits had a stronger influence on tissue and skeletal microbiomes than mucus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="210" y="940" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-65" value="diverse endolithic skeletal microbiomes were nearly as responsive to many host traits as the tissue microbiome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="150" y="550" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-68" target="a2jRWgbLZBjzN9J-Ek2x-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="490" />
+              <mxPoint x="70" y="820" />
+              <mxPoint x="240" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-68" target="a2jRWgbLZBjzN9J-Ek2x-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="475" />
+              <mxPoint x="120" y="629" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-68" target="a2jRWgbLZBjzN9J-Ek2x-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-68" target="a2jRWgbLZBjzN9J-Ek2x-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-68" target="a2jRWgbLZBjzN9J-Ek2x-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-68" target="a2jRWgbLZBjzN9J-Ek2x-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-68" value="coral tissue microbiome" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-71" target="a2jRWgbLZBjzN9J-Ek2x-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-71" target="a2jRWgbLZBjzN9J-Ek2x-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-71" target="a2jRWgbLZBjzN9J-Ek2x-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-71" target="a2jRWgbLZBjzN9J-Ek2x-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-71" value="coral skeleton microbiome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="163.75" y="360" width="92.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-76" target="a2jRWgbLZBjzN9J-Ek2x-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1250" y="720" />
+              <mxPoint x="1250" y="1355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-76" target="a2jRWgbLZBjzN9J-Ek2x-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-76" value="showed the strongest response to the divide between Robust and Complex clade corals" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="810" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-80" value="tissue microbiomes were better predictors of host factors like host genus and vertical transmission of &lt;i&gt;Symbiodinium&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="410" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-82" target="a2jRWgbLZBjzN9J-Ek2x-139" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-82" target="a2jRWgbLZBjzN9J-Ek2x-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-82" target="a2jRWgbLZBjzN9J-Ek2x-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-82" value="much better predictors of environmental features like contact with turf algae and sampling location" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="990" y="25" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-85" value="&amp;nbsp;useful for detecting environmental perturbations" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="52.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-141" target="a2jRWgbLZBjzN9J-Ek2x-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-87" value="&amp;nbsp;significantly influenced the richness and composition of coral microbiomes;&lt;br&gt;significant for coral mucus and tissue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="310" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-91" value="small but significant influence on microbiome composition, accounting for between 1–4% of variance in microbiome composition" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="165" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-93" value="coral relative size on microbiome richness were significant in coral tissue and skeleton" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="20" y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-20" target="a2jRWgbLZBjzN9J-Ek2x-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1030" as="sourcePoint" />
+            <mxPoint x="-220" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="1055" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-41" value="Many host traits are highly correlated with one another due to phylogenetic constraints" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="20" y="995" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-98" value="significant signal of phylosymbiosis in skeleton" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="350" y="572.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-101" target="a2jRWgbLZBjzN9J-Ek2x-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-101" value="richness was significantly more similar among closely related corals than expected by chance" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="1037.5" y="1220" width="155" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-104" value="most microbial genera showed host-specific abundance patterns" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-166.25" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-106" value="coral-associated microbes were correlated with host identity, not host phylogeny" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="-135" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-108" value="Overall, 276/446 (62%) of microbial genera were associated with a host mitotype, but only 13/446 (3%) of genera in coral tissue were associated with host phylogeny" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="955" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-110" value="meaning individual coral mitotypes were significantly associated with clades of related bacteria" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="125" y="1404.38" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-112" target="NuF6uCkKGm2GZKv_JF5o-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-112" value="Four bacterial groups exhibited significant cophylogenetic effects &lt;br/&gt;(i.e., host phylogeny by bacterial phylogeny interaction): &lt;br/&gt;Clostridiaceae, &lt;i&gt;Endozoicomonas&lt;/i&gt;-like bacteria (Endozoicomonaceae in Greengenes), unclassified Kiloniellales, and unclassified Myxococcales (Fig.&amp;nbsp;&lt;a href=&quot;https://www.nature.com/articles/s41467-018-07275-x#Fig3&quot; data-track-action=&quot;figure anchor&quot; data-track-label=&quot;link&quot; data-track=&quot;click&quot;&gt;3&lt;/a&gt;, red box). Cophylogeny in &lt;i&gt;Endozoicomonas&lt;/i&gt;-like bacteria was detected in both tissue and mucus (ICCs, 95% lower bounds: 0.20 and 0.17, respectively)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1450" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-114" target="a2jRWgbLZBjzN9J-Ek2x-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-114" target="a2jRWgbLZBjzN9J-Ek2x-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-114" target="NuF6uCkKGm2GZKv_JF5o-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-145" y="810" />
+              <mxPoint x="-240" y="810" />
+              <mxPoint x="-240" y="1600" />
+              <mxPoint x="-330" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-114" value="&lt;i&gt;Endozoicomonas&lt;/i&gt;-like bacteria are important coral symbionts&lt;sup&gt;&lt;a id=&quot;ref-link-section-d191042177e1395&quot; href=&quot;https://www.nature.com/articles/s41467-018-07275-x#ref-CR35&quot; title=&quot;Neave, M. J. et al. Differential specificity between closely related corals and abundant Endozoicomonas endosymbionts across global scales. ISME J. 11, 186–200 (2017).&quot; aria-label=&quot;Reference 35&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;35&lt;/a&gt;&lt;/sup&gt;, and in our data showed the strongest signal of cophylogeny among bacteria found in coral tissues" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="590" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-117" target="NuF6uCkKGm2GZKv_JF5o-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="1780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-320" y="610" />
+              <mxPoint x="-320" y="1580" />
+              <mxPoint x="-360" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-117" value="&lt;i&gt;Endozoicomonas&lt;/i&gt;-like bacteria have formed novel associations with scleractinian corals multiple times throughout their evolution" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-119" target="a2jRWgbLZBjzN9J-Ek2x-121" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="2084" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-119" target="a2jRWgbLZBjzN9J-Ek2x-123" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-137" target="a2jRWgbLZBjzN9J-Ek2x-136" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990.0000000000005" y="1910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="1590" />
+              <mxPoint x="1200" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-119" target="a2jRWgbLZBjzN9J-Ek2x-137" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1005" y="1659" />
+              <mxPoint x="1005" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-119" target="a2jRWgbLZBjzN9J-Ek2x-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;exitX=0.881;exitY=0.998;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-119" target="a2jRWgbLZBjzN9J-Ek2x-161" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-119" target="a2jRWgbLZBjzN9J-Ek2x-167" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-119" target="a2jRWgbLZBjzN9J-Ek2x-166" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-119" target="a2jRWgbLZBjzN9J-Ek2x-173" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-119" target="a2jRWgbLZBjzN9J-Ek2x-178" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-119" value="observations of phylosymbiosis be accompanied by finer-scale tests of &lt;br/&gt;host-microbe cophylogeny in order to identify specific microbial &lt;br/&gt;lineages that may have coevolved or codiversified with their hosts" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1635" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-121" target="NuF6uCkKGm2GZKv_JF5o-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-310" y="2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-121" value=". We identified four bacterial lineages displaying signs of cophylogeny &lt;br/&gt;with their coral hosts, all of which represent important targets for &lt;br/&gt;future study. One lineage, the &lt;i&gt;Endozoicomonas&lt;/i&gt;-like bacteria, has &lt;br/&gt;previously been hypothesized to have codiversified with their coral &lt;br/&gt;hosts throughout the evolution of Scleractinia&lt;sup&gt;&lt;a id=&quot;ref-link-section-d191042177e1474&quot; href=&quot;https://www.nature.com/articles/s41467-018-07275-x#ref-CR37&quot; title=&quot;Bayer, T. et al. The microbiome of the Red Sea coral Stylophora pistillata is dominated by tissue-associated Endozoicomonas Bacteria. Appl. Environ. Microbiol. 79, 4759–4762 (2013).&quot; aria-label=&quot;Reference 37&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;37&lt;/a&gt;&lt;/sup&gt;. These results are relatively consistent with this hypothesis for one subclade of &lt;i&gt;Endozoicomonas&lt;/i&gt;, but suggest that the abundant variants found in well-studied &lt;i&gt;Porites&lt;/i&gt; corals are more cosmopolitan in their distribution" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="270" y="2010" width="380" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-123" value="three other groups of functionally distinct bacteria showed significant &lt;br/&gt;patterns of cophylogeny: the proposed mutualist Kilioniellales&lt;sup&gt;&lt;a id=&quot;ref-link-section-d191042177e1493&quot; href=&quot;https://www.nature.com/articles/s41467-018-07275-x#ref-CR38&quot; title=&quot;Soffer, N. et al. Potential role of viruses in white plague coral disease. ISME J. 8, 271–283 (2014).&quot; aria-label=&quot;Reference 38&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;38&lt;/a&gt;&lt;/sup&gt;,&lt;br/&gt; the predatory ‘wolf pack’ bacteria Myxococcales, and a group of &lt;br/&gt;organisms generally hypothesized to be pathogens of corals, the &lt;br/&gt;Clostridiaceae" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1760" width="240" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-127" target="a2jRWgbLZBjzN9J-Ek2x-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-127" target="SC-9HDF_wmnJlH-YETM0-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-127" value="endosymbiotic dinoflagellates of the family Symbiodiniaceae" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="305" y="-440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-129" value="metaorganism:&amp;nbsp;coral holobiont" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-132" target="SC-9HDF_wmnJlH-YETM0-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-132" value="meet their energetic demands by the transfer of photosynthetically fixed carbon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="485" y="-440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-136" value="abundance of coral host species was associated with the presence/absence of specific bacteria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="1545" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-137" value="&lt;i&gt;Ctenactis echinata&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-139" target="a2jRWgbLZBjzN9J-Ek2x-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-139" target="a2jRWgbLZBjzN9J-Ek2x-144" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-139" target="a2jRWgbLZBjzN9J-Ek2x-149" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="470" />
+              <mxPoint x="1000" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-139" target="a2jRWgbLZBjzN9J-Ek2x-151" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="470" />
+              <mxPoint x="1030" y="470" />
+              <mxPoint x="1030" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-139" target="SC-9HDF_wmnJlH-YETM0-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="-520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-139" value="environmental factors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="700" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-141" target="a2jRWgbLZBjzN9J-Ek2x-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-141" value="latitude of the sampling location" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="990" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-144" target="a2jRWgbLZBjzN9J-Ek2x-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-144" value="depth of sampling location" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-146" value="microbial diversity was shown to increase with depth in several coral species" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-149" value="seasonal fluctuations,&amp;nbsp;&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e667&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR16&quot; title=&quot;Roder, C., Bayer, T., Aranda, M., Kruse, M. &amp;amp; Voolstra, C. R. Microbiome structure of the fungid coral Ctenactis echinata aligns with environmental differences. Mol. Ecol. 24, 3501–3511 (2015).&quot; aria-label=&quot;Reference 16&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;16&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d279992490e670&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR18&quot; title=&quot;Koren, O. &amp;amp; Rosenberg, E. Bacteria associated with mucus and tissues of the coral Oculina patagonica in summer and winter. Appl. Environ. Microbiol 72, 5254–5259 (2006).&quot; aria-label=&quot;Reference 18&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;18&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d279992490e673&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR19&quot; title=&quot;Li, J. et al. Bacterial dynamics within the mucus, tissue and skeleton of the coral Porites lutea during different seasons. Sci. Rep. 4, 7320 (2014).&quot; aria-label=&quot;Reference 19&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;19&lt;/a&gt;&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="970" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-151" value="tide-related shifts on much shorter time scales&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e678&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR20&quot; title=&quot;Sweet, M. J., Brown, B. E., Dunne, R. P., Singleton, I. &amp;amp; Bulling, M. Evidence for rapid, tide-related shifts in the microbiome of the coral Coelastrea aspera. Coral Reefs 36, 815–828 (2017).&quot; aria-label=&quot;Reference 20&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;20&lt;/a&gt;&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-153" target="a2jRWgbLZBjzN9J-Ek2x-155" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-153" target="a2jRWgbLZBjzN9J-Ek2x-158" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1205" y="1875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-153" target="a2jRWgbLZBjzN9J-Ek2x-180" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-153" target="a2jRWgbLZBjzN9J-Ek2x-192" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="1973" />
+              <mxPoint x="1210" y="2190" />
+              <mxPoint x="1260" y="2190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-153" target="SC-9HDF_wmnJlH-YETM0-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="2080.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-153" target="a2jRWgbLZBjzN9J-Ek2x-189" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-153" value="&lt;i&gt;Pocillopora verrucosa&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="1916.25" width="130" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-155" target="a2jRWgbLZBjzN9J-Ek2x-121" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1465" y="2040" />
+              <mxPoint x="1005" y="2040" />
+              <mxPoint x="1005" y="2121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-155" target="NuF6uCkKGm2GZKv_JF5o-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="1910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-330" y="1970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-155" value="globally conserved association with its main bacterial symbiont &lt;i&gt;Endozoicomonas&lt;/i&gt;&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e714&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR14&quot; title=&quot;Neave, M. J. et al. Differential specificity between closely related corals and abundant Endozoicomonas endosymbionts across global scales. ISME J. 11, 186–200 (2017).&quot; aria-label=&quot;Reference 14&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;14&lt;/a&gt;&lt;/sup&gt; that remains unchanged even under conditions of bleaching and mortality&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e718&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR24&quot; title=&quot;Pogoreutz, C. et al. Dominance of Endozoicomonas bacteria throughout coral bleaching and mortality suggests structural inflexibility of the Pocillopora verrucosa microbiome. Ecol. Evol. 8, 2240–2252 (2018).&quot; aria-label=&quot;Reference 24&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;24&lt;/a&gt;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1940" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-158" value="maintain a stable Symbiodiniaceae community during a cross-transplantation experiment over depth&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e729&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR25&quot; title=&quot;Ziegler, M., Roder, C. M., Büchel, C. &amp;amp; Voolstra, C. R. Limits to physiological plasticity of the coral Pocillopora verrucosa from the central Red Sea. Coral Reefs 33, 1115–1129 (2014).&quot; aria-label=&quot;Reference 25&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;25&lt;/a&gt;&lt;/sup&gt; and between seasons and reefs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1820" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-161" target="a2jRWgbLZBjzN9J-Ek2x-163" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-161" value="&lt;i&gt;Porites lutea&lt;/i&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-163" target="a2jRWgbLZBjzN9J-Ek2x-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-163" value="sampled under the same conditions had a highly flexible Symbiodiniaceae community&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e736&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR26&quot; title=&quot;Ziegler, M., Roder, C., Büchel, C. &amp;amp; Voolstra, C. R. Niche acclimatization in Red Sea corals is dependent on flexibility of host-symbiont association. Mar. Ecol. Prog. Ser. 533, 149–161 (2015).&quot; aria-label=&quot;Reference 26&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;26&lt;/a&gt;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1770" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-166" target="a2jRWgbLZBjzN9J-Ek2x-168" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="1740" />
+              <mxPoint x="1260" y="1685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-166" target="a2jRWgbLZBjzN9J-Ek2x-163" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="1740" />
+              <mxPoint x="1260" y="1793" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-166" value="&lt;i&gt;Acropora muricata&lt;/i&gt;&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e688&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR22&quot; title=&quot;Casey, J. M., Connolly, S. R. &amp;amp; Ainsworth, T. D. Coral transplantation triggers shift in microbiome and promotion of coral disease associated potential pathogens. Sci. Rep. 5, 11903 (2015).&quot; aria-label=&quot;Reference 22&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;22&lt;/a&gt;&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-167" target="a2jRWgbLZBjzN9J-Ek2x-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-167" value="&lt;i&gt;Porites cylindrica&lt;/i&gt;&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e694&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR23&quot; title=&quot;Garren, M., Raymundo, L., Guest, J., Harvell, C. D. &amp;amp; Azam, F. Resilience of coral-associated bacterial communities exposed to fish farm effluent. PLoS ONE 4, e7319 (2009).&quot; aria-label=&quot;Reference 23&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;23&lt;/a&gt;&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1635" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-168" value="transplantation experiments&amp;nbsp;from a pristine site to impacted or modified sites further illustrate &lt;br/&gt;that microbiomes change under adverse environmental conditions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="1640" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-173" target="a2jRWgbLZBjzN9J-Ek2x-175" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-173" value="&lt;i&gt;Acropora hyacinthus&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-175" value="microbiomes of heat tolerant indv can be acquired by heat sensitive corals upon environmental transplantation over the course of 17 months&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e702&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR11&quot; title=&quot;Ziegler, M., Seneca, F. O., Yum, L. K., Palumbi, S. R. &amp;amp; Voolstra, C. R. Bacterial community dynamics are linked to patterns of coral heat tolerance. Nat. Commun. 8, 14213 (2017).&quot; aria-label=&quot;Reference 11&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1305" y="1482.5" width="270" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-178" target="a2jRWgbLZBjzN9J-Ek2x-180" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-178" target="a2jRWgbLZBjzN9J-Ek2x-193" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-178" target="a2jRWgbLZBjzN9J-Ek2x-187" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-178" value="&lt;i&gt;Acropora hemprichii&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="870" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-180" target="a2jRWgbLZBjzN9J-Ek2x-184" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-180" value="long-term large-scale reciprocal transplantation experiment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1040" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-184" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;suspected to differ in the flexibility of their association with different microbial communities across environmental gradients&lt;sup&gt;&lt;a id=&quot;ref-link-section-d279992490e752&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR14&quot; title=&quot;Neave, M. J. et al. Differential specificity between closely related corals and abundant Endozoicomonas endosymbionts across global scales. ISME J. 11, 186–200 (2017).&quot; aria-label=&quot;Reference 14&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;14&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d279992490e755&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR24&quot; title=&quot;Pogoreutz, C. et al. Dominance of Endozoicomonas bacteria throughout coral bleaching and mortality suggests structural inflexibility of the Pocillopora verrucosa microbiome. Ecol. Evol. 8, 2240–2252 (2018).&quot; aria-label=&quot;Reference 24&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;24&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d279992490e758&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR27&quot; title=&quot;Jessen, C. et al. In-situ effects of eutrophication and overfishing on physiology and bacterial diversity of the Red Sea coral Acropora hemprichii. Plos One 8, e62091 (2013).&quot; aria-label=&quot;Reference 27&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;27&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d279992490e761&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR28&quot; title=&quot;Ziegler, M. et al. Coral microbial community dynamics in response to anthropogenic impacts near a major city in the central Red Sea. Mar. Pollut. Bull. 105, 629–640 (2016).&quot; aria-label=&quot;Reference 28&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;28&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="2240" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-187" value="harbors a highly flexible bacterial community that is characterized by &lt;br/&gt;many differentially abundant bacterial taxa between impacts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="640" y="2240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-189" value="remains remarkably stable between impacts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1335" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-192" value="differences in the bacterial community between sites were far less pronounced, with only fragments transplanted&amp;nbsp;to the most highly impacted site (municipal sewage and sedimentation&amp;nbsp;and oil—site E) being significantly different from coral fragments at&amp;nbsp;the unimpacted sites A and B&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="2220" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-193" target="a2jRWgbLZBjzN9J-Ek2x-195" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-193" target="SC-9HDF_wmnJlH-YETM0-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-193" value="differed significantly between all individual sites" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="870" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="a2jRWgbLZBjzN9J-Ek2x-195" target="SC-9HDF_wmnJlH-YETM0-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2jRWgbLZBjzN9J-Ek2x-195" value="pronounced microbiome restructuring: aligned with large shifts in abundance of 60 specific bacterial lineages" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="875" y="2350" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-1" target="a2jRWgbLZBjzN9J-Ek2x-158" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1617" y="-320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SC-9HDF_wmnJlH-YETM0-1" target="SC-9HDF_wmnJlH-YETM0-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="-370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-1" target="SC-9HDF_wmnJlH-YETM0-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-1" value="core microbiome" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="840" y="-350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-2" target="a2jRWgbLZBjzN9J-Ek2x-163" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1590" y="-220" />
+              <mxPoint x="1590" y="1793" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-2" value="variable microbiome" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="1042.5" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-12" target="SC-9HDF_wmnJlH-YETM0-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-12" target="SC-9HDF_wmnJlH-YETM0-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-12" value="increased bacterial&amp;nbsp;diversity and decreased evenness (i.e., the loss of dominant taxa from the unimpacted site)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="845" y="2530" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-14" value="emerging opportunistic taxa that are otherwise absent or suppressed&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3097&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR33&quot; title=&quot;Vega Thurber, R. et al. Metagenomic analysis of stressed coral holobionts. Environ. Microbiol. 11, 2148–2163 (2009).&quot; aria-label=&quot;Reference 33&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;33&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d288291724e3100&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR34&quot; title=&quot;Zaneveld, J. R., McMinds, R. &amp;amp; Vega Thurber, R. Stress and stability: applying the Anna Karenina principle to animal microbiomes. Nat. Microbiol. 2, 17121 (2017).&quot; aria-label=&quot;Reference 34&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;34&lt;/a&gt;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="870" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-16" target="SC-9HDF_wmnJlH-YETM0-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-16" target="SC-9HDF_wmnJlH-YETM0-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-16" target="SC-9HDF_wmnJlH-YETM0-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-16" target="SC-9HDF_wmnJlH-YETM0-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="SC-9HDF_wmnJlH-YETM0-16" target="NuF6uCkKGm2GZKv_JF5o-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1195" y="2720" />
+              <mxPoint x="-390" y="2720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-16" value="decreased relative abundances and potential loss of Endozoicomonadaceae,&lt;br/&gt; the bacterial family containing the enigmatic coral symbiont genus &lt;i&gt;Endozoicomonas&lt;/i&gt;&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3120&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR37&quot; title=&quot;Neave, M. J., Apprill, A., Ferrier-Pages, C. &amp;amp; Voolstra, C. R. Diversity and function of prevalent symbiotic marine bacteria in the genus Endozoicomonas. Appl. Microbiol. Biotechnol. 100, 8315–8324 (2016).&quot; aria-label=&quot;Reference 37&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;37&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d288291724e3123&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR38&quot; title=&quot;Bartz, J.-O. et al. Parendozoicomonas haliclonae gen. nov. sp. nov. isolated from a marine sponge of the genus Haliclona and description of the family Endozoicomonadaceae fam. nov. comprising the genera Endozoicomonas, Parendozoicomonas, and Kistimonas. Syst. Appl. Microbiol. 41, 73–84 (2018).&quot; aria-label=&quot;Reference 38&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;38&lt;/a&gt;&lt;/sup&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="2485" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-19" value="Rhodobacteraceae have been found on corals with white plague disease&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3133&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR35&quot; title=&quot;Roder, C., Arif, C., Daniels, C., Weil, E. &amp;amp; Voolstra, C. R. Bacterial profiling of White Plague disease across corals and oceans indicates a conserved and distinct disease microbiome. Mol. Ecol. 23, 965–974 (2014).&quot; aria-label=&quot;Reference 35&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;35&lt;/a&gt;&lt;/sup&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1315" y="2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-22" value="family Flavobacteraceae also contains potentially pathogenic taxa&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3137&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR36&quot; title=&quot;Sunagawa, S. et al. Bacterial diversity and White Plague disease-associated community changes in the Caribbean coral Montastraea faveolata. ISME J. 3, 512–521 (2009).&quot; aria-label=&quot;Reference 36&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;36&lt;/a&gt;&lt;/sup&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1315" y="2610" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-24" value="do not exclusively&amp;nbsp;or necessarily reflect a pathobiome, but rather an environmentally sel ected, putatively&amp;nbsp;more beneficial microbiome&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3148&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR39&quot; title=&quot;Kvennefors, E. C. E., Sampayo, E., Ridgway, T., Barnes, A. C. &amp;amp; Hoegh-Guldberg, O. Bacterial communities of two ubiquitous Great Barrier Reef corals reveals both site-and species-specificity of common bacterial associates. PLoS ONE 5, e10401 (2010).&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;39&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d288291724e3148_1&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR40&quot; title=&quot;Sunagawa, S., Woodley, C. M. &amp;amp; Medina, M. Threatened corals provide underexplored microbial habitats. PLoS ONE 5, e9554 (2010).&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;40&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d288291724e3151&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR41&quot; title=&quot;van Oppen, M. J. H. et al. Adaptation to reef habitats through selection on the coral animal and its associated microbiome. Mol. Ecol. 27, 2956–2971 (2018).&quot; aria-label=&quot;Reference 41&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;41&lt;/a&gt;&lt;/sup&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1465" y="2505" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-26" target="SC-9HDF_wmnJlH-YETM0-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-26" value="because of their long generation times, evolutionary change is supposedly slow&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3248&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR43&quot; title=&quot;Torda, G. et al. Rapid adaptive responses to climate change in corals. Nat. Clim. Change 7, 627–636 (2017).&quot; aria-label=&quot;Reference 43&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;43&lt;/a&gt;&lt;/sup&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-505" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-28" target="SC-9HDF_wmnJlH-YETM0-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-28" value="Strategies to cope with and survive rapid environmental change" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="390" y="-550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-32" target="SC-9HDF_wmnJlH-YETM0-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-32" value="by changing their association&amp;nbsp;with different bacterial taxa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="390" y="-695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SC-9HDF_wmnJlH-YETM0-34" target="SC-9HDF_wmnJlH-YETM0-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-34" value="“microbiome flexibility” to describe a coral species’ potential for &lt;br/&gt;dynamic microbiome restructuring in the face of environmental change" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="-950" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-36" target="SC-9HDF_wmnJlH-YETM0-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="2840" />
+              <mxPoint x="1680" y="2840" />
+              <mxPoint x="1680" y="-910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="SC-9HDF_wmnJlH-YETM0-36" target="SC-9HDF_wmnJlH-YETM0-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-36" target="SC-9HDF_wmnJlH-YETM0-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-730" y="2430" />
+              <mxPoint x="-730" y="-890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-36" value="High microbiome flexibility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="710" y="2400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-39" target="SC-9HDF_wmnJlH-YETM0-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-39" target="SC-9HDF_wmnJlH-YETM0-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-39" value="presumably supports holobiont adaptation to environmental change and&amp;nbsp;follows a generalist strategy albeit with the risk of losing important associates/functions or acquiring pathogens" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="550" y="2540" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-42" target="SC-9HDF_wmnJlH-YETM0-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-42" target="SC-9HDF_wmnJlH-YETM0-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1730" y="2090" />
+              <mxPoint x="1730" y="-930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-42" value="low microbiome flexibility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="1335" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SC-9HDF_wmnJlH-YETM0-44" target="SC-9HDF_wmnJlH-YETM0-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-44" target="SC-9HDF_wmnJlH-YETM0-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-44" target="SC-9HDF_wmnJlH-YETM0-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1870" y="2220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1875" y="2980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SC-9HDF_wmnJlH-YETM0-44" target="SC-9HDF_wmnJlH-YETM0-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-44" target="SC-9HDF_wmnJlH-YETM0-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-44" target="SC-9HDF_wmnJlH-YETM0-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-44" value="helps to maintain stable and robust relationships with conserved microbial functions reflecting a more specialized strategy at the expense of a putatively low capacity for microbiome adaptation and potential susceptibility to rapid environmental change" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1760" y="2050" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-46" target="SC-9HDF_wmnJlH-YETM0-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-46" target="SC-9HDF_wmnJlH-YETM0-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="635" y="2760" />
+              <mxPoint x="-760" y="2760" />
+              <mxPoint x="-760" y="-910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-46" value="may be linked to life history strategy of the host&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3358&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR48&quot; title=&quot;Meistertzheim, A.-L. et al. Patterns of bacteria-host associations suggest different ecological strategies between two reef building cold-water coral species. Deep Sea Res Part I 114, 12–22 (2016).&quot; aria-label=&quot;Reference 48&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;&lt;/a&gt;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="605" y="2950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-48" value="Relatively slow growth rate&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3392&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR51&quot; title=&quot;Guzner, B., Novoplansky, A. &amp;amp; Chadwick, N. E. Population dynamics of the reef-building coral Acropora hemprichii as an indicator of reef condition. Mar. Ecol. Prog. Ser. 333, 143–150 (2007).&quot; aria-label=&quot;Reference 51&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;51&lt;/a&gt;&lt;/sup&gt; and, in contrast to Pocilloporids, a competitive strategy, with longer generation times&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3396&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR52&quot; title=&quot;Darling, E. S., Alvarez-Filip, L., Oliver, T. A., McClanahan, T. R. &amp;amp; Côté, I. M. Evaluating life-history strategies of reef corals from species traits. Ecol. Lett. 15, 1378–1386 (2012).&quot; aria-label=&quot;Reference 52&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;52&lt;/a&gt;&lt;/sup&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="337.5" y="2530" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-50" value="a rather limited physiological plasticity and ecological niche space" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="2010" y="1902.5" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-57" value="favor an opportunistic colonization strategy that is characterized by fast growth, high reproduction rates, and relatively rapid generation times&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3411&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR53&quot; title=&quot;Lenihan, H. S. &amp;amp; Edmunds, P. J. Response of Pocillopora verrucosa to corallivory varies with environmental conditions. Mar. Ecol. Prog. Ser. 409, 51–63 (2010).&quot; aria-label=&quot;Reference 53&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;53&lt;/a&gt;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1770" y="1902.5" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-62" value="the mainly autotrophic lifestyle and low heterotrophic capacity" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="2125" y="2075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-64" value="debatable, coral probiotic hypothesis&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3433&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR1&quot; title=&quot;Rosenberg, E., Koren, O., Reshef, L., Efrony, R. &amp;amp; Zilber-Rosenberg, I. The role of microorganisms in coral health, disease and evolution. Nat. Rev. Microbiol. 5, 355–362 (2007).&quot; aria-label=&quot;Reference 1&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;1&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d288291724e3436&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR10&quot; title=&quot;Reshef, L., Koren, O., Loya, Y., Zilber-Rosenberg, I. &amp;amp; Rosenberg, E. The coral probiotic hypothesis. Environ. Microbiol. 8, 2068–2073 (2006).&quot; aria-label=&quot;Reference 10&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="1015" y="-390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SC-9HDF_wmnJlH-YETM0-67" target="SC-9HDF_wmnJlH-YETM0-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SC-9HDF_wmnJlH-YETM0-67" target="SC-9HDF_wmnJlH-YETM0-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SC-9HDF_wmnJlH-YETM0-67" target="SC-9HDF_wmnJlH-YETM0-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-67" value="expectation is that at least some bacterial associates are intimately and tightly associated with a coral and not expendable&lt;sup style=&quot;&quot;&gt;&lt;a style=&quot;&quot; id=&quot;ref-link-section-d288291724e3440&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR14&quot; title=&quot;Neave, M. J. et al. Differential specificity between closely related corals and abundant Endozoicomonas endosymbionts across global scales. ISME J. 11, 186–200 (2017).&quot; aria-label=&quot;Reference 14&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;14&lt;/a&gt;,&lt;a style=&quot;&quot; id=&quot;ref-link-section-d288291724e3443&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR17&quot; title=&quot;Hernandez-Agreda, A., Leggat, W., Bongaerts, P. &amp;amp; Ainsworth, T. D. The microbial signature provides insight into the mechanistic basis of coral success across reef habitats. mBio 7, e00560–00516 (2016).&quot; aria-label=&quot;Reference 17&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;17&lt;/a&gt;,&lt;a style=&quot;&quot; id=&quot;ref-link-section-d288291724e3446&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR54&quot; title=&quot;Ainsworth, T. et al. The coral core microbiome identifies rare bacterial taxa as ubiquitous endosymbionts. ISME J. 9, 2261–2274 (2015).&quot; aria-label=&quot;Reference 54&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;54&lt;/a&gt;,&lt;a style=&quot;&quot; id=&quot;ref-link-section-d288291724e3449&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR55&quot; title=&quot;Sweet, M. J. &amp;amp; Bulling, M. T. On the importance of the microbiome and pathobiome in coral health and disease. Front. Mar. Sci. 4, 9 (2017).&quot; aria-label=&quot;Reference 55&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;55&lt;/a&gt;&lt;/sup&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="-660" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-70" target="SC-9HDF_wmnJlH-YETM0-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-70" value="A recent study&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3453&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR54&quot; title=&quot;Ainsworth, T. et al. The coral core microbiome identifies rare bacterial taxa as ubiquitous endosymbionts. ISME J. 9, 2261–2274 (2015).&quot; aria-label=&quot;Reference 54&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;54&lt;/a&gt;&lt;/sup&gt;&amp;nbsp;proposed seven distinct bacterial phylotypes as universal coral core microbiome members" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="-650" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="SC-9HDF_wmnJlH-YETM0-72" target="SC-9HDF_wmnJlH-YETM0-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-72" value="Potentially relevant here is that coral phylogeny is characterized by a deep phylogenetic split (between “complex” and “robust” clades) that dates back &amp;gt;245 mya&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3457&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR56&quot; title=&quot;Park, E. et al. Estimation of divergence times in cnidarian evolution based on mitochondrial protein-coding genes and the fossil record. Mol. Phylogen Evol. 62, 329–345 (2012).&quot; aria-label=&quot;Reference 56&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;56&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d288291724e3460&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR57&quot; title=&quot;Simpson, C., Kiessling, W., Mewis, H., Baron-Szabo, R. C. &amp;amp; Müller, J. Evolutionary diversification of reef corals: a comparison of the molecular and fossil records. Evolution 65, 3274–3284 (2011).&quot; aria-label=&quot;Reference 57&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;57&lt;/a&gt;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="660" y="-662" width="140" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-74" value="threshold is arguably too low" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1215" y="-619" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-76" value="might arguably underlie not only differences in microbial association, but also differences in microbiome flexibility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="590" y="-777" width="120" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SC-9HDF_wmnJlH-YETM0-82" target="SC-9HDF_wmnJlH-YETM0-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-82" value="stress-induced microbiome alterations may be reverted upon removal of chronic and long-term stressors, similar to the recovery observed after coral bleaching&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3476&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR29&quot; title=&quot;Bourne, D., Iida, Y., Uthicke, S. &amp;amp; Smith-Keune, C. Changes in coral-associated microbial communities during a bleaching event. ISME J. 2, 350–363 (2008).&quot; aria-label=&quot;Reference 29&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;29&lt;/a&gt;&lt;/sup&gt; or disease&lt;sup&gt;&lt;a id=&quot;ref-link-section-d288291724e3480&quot; href=&quot;https://www.nature.com/articles/s41467-019-10969-5#ref-CR30&quot; title=&quot;Sweet, M., Smith, D., Bythell, J. &amp;amp; Craggs, J. Changes in microbial diversity associated with two coral species recovering from a stressed state in a public aquarium system. JZAR 1, 52–60 (2013).&quot; aria-label=&quot;Reference 30&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;30&lt;/a&gt;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1037.5" y="-515" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-84" value="coral&amp;nbsp;fragments transplanted from impacted to control sites did not, &lt;br/&gt;after 21 months, continue to share similarities with fragments of the &lt;br/&gt;same&amp;nbsp;colonies that remained at the impacted sites" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="1292.5" y="-515" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-87" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="-1080" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-88" value="https://doi.org/10.1038/s41467-018-07275-x" style="text;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="SC-9HDF_wmnJlH-YETM0-87" vertex="1">
+          <mxGeometry y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-89" value="https://doi.org/10.1038/s41467-019-10969-5" style="text;strokeColor=#2D7600;fillColor=#60a917;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="SC-9HDF_wmnJlH-YETM0-87" vertex="1">
+          <mxGeometry y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-90" value="https://doi.org/10.1038/s41396-018-0323-6" style="text;strokeColor=#A50040;fillColor=#d80073;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="SC-9HDF_wmnJlH-YETM0-87" vertex="1">
+          <mxGeometry y="90" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-100" value="https://doi.org/10.1128/msystems.00266-21" style="text;strokeColor=#B09500;fillColor=#e3c800;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="SC-9HDF_wmnJlH-YETM0-87" vertex="1">
+          <mxGeometry y="120" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-92" value="ecological disruption of this symbiotic partnership manifests as bleaching" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="650" y="-430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="SC-9HDF_wmnJlH-YETM0-94" target="SC-9HDF_wmnJlH-YETM0-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-94" value="Manipulation of microbiome communities has been postulated as a key&amp;nbsp;strategy to ‘engineer’ and manipulate host phenotypes and ecosystem &lt;br&gt;functioning [&lt;a id=&quot;ref-link-section-d407208249e766&quot; href=&quot;https://www.nature.com/articles/s41396-018-0323-6#ref-CR14&quot; title=&quot;Foo JL, Ling H, Lee YS, Chang MW. Microbiome engineering: current applications and its future. Biotechnol. J. 2017;12:1600099.&quot; aria-label=&quot;Reference 14&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;14&lt;/a&gt;]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="125" y="-70" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="SC-9HDF_wmnJlH-YETM0-96" target="SC-9HDF_wmnJlH-YETM0-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-96" value="BMCs (Beneficial Microorganisms for Corals) can enhance coral fitness through their symbiotic relationships&amp;nbsp;with the host, including the cycling of nutrients within the holobiont [&lt;a id=&quot;ref-link-section-d407208249e832&quot; href=&quot;https://www.nature.com/articles/s41396-018-0323-6#ref-CR33&quot; title=&quot;Burriesci MS, Raab TK, Pringle JR. Evidence that glucose is the major transferred metabolite in dinoflagellate-cnidarian symbiosis. J Exp Biol. 2012;215:3467–77.&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;33&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d407208249e832_1&quot; href=&quot;https://www.nature.com/articles/s41396-018-0323-6#ref-CR34&quot; title=&quot;Davy SK, Allemand D, Weis VM. Cell biology of cnidarian-dinoflagellate symbiosis. Microbiol Mol Biol Rev. 2012;76:229–61.&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;34&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d407208249e835&quot; href=&quot;https://www.nature.com/articles/s41396-018-0323-6#ref-CR35&quot; title=&quot;Tremblay P, Grover R, Maguer JF, Legendre L, Ferrier-Pages C. Autotrophic carbon budget in coral tissue: a new 13C-based model of photosynthate translocation. J Exp Biol. 2012;215:1384–93.&quot; aria-label=&quot;Reference 35&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;35&lt;/a&gt;] or antagonism/exclusion of potential pathogens (biological control) [&lt;a id=&quot;ref-link-section-d407208249e839&quot; href=&quot;https://www.nature.com/articles/s41396-018-0323-6#ref-CR36&quot; title=&quot;Alagely A, Krediet CJ, Ritchie KB, Teplitski M. Signaling-mediated cross-talk modulates swarming and biofilm formation in a coral pathogen Serratia marcescens. ISME J. 2011;5:1609–20.&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;36&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d407208249e839_1&quot; href=&quot;https://www.nature.com/articles/s41396-018-0323-6#ref-CR37&quot; title=&quot;Kvennefors ECE, Sampayo E, Kerr C, Vieira G, Roff G, Barnes AC. Regulation of bacterial communities through antimicrobial activity by the coral holobiont. Microb Ecol. 2012;63:605–18.&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;37&lt;/a&gt;,&lt;a id=&quot;ref-link-section-d407208249e842&quot; href=&quot;https://www.nature.com/articles/s41396-018-0323-6#ref-CR38&quot; title=&quot;Raina J, Tapiolas D, Motti CA, Foret S, Seemann T, Tebben J, et al. Isolation of an antimicrobial compound produced by bacteria associated with reef-building corals. PeerJ. 2016;4:e2275.&quot; aria-label=&quot;Reference 38&quot; data-test=&quot;citation-ref&quot; data-track-label=&quot;link&quot; data-track-action=&quot;reference anchor&quot; data-track=&quot;click&quot;&gt;38&lt;/a&gt;]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-260" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-98" value="successful manipulation of the coral microbiome through the addition of pBMCs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="140" y="-390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-101" target="SC-9HDF_wmnJlH-YETM0-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-101" target="SC-9HDF_wmnJlH-YETM0-131" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-101" target="SC-9HDF_wmnJlH-YETM0-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-101" value="nonrandom association patterns" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="167.5" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-102" target="SC-9HDF_wmnJlH-YETM0-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-102" value="restrictions imposed by symbiont transmission mode" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-103" target="SC-9HDF_wmnJlH-YETM0-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-103" value="increase the sensitivity of the overall network to thermal stress" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-103" target="SC-9HDF_wmnJlH-YETM0-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-108" target="SC-9HDF_wmnJlH-YETM0-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-108" target="SC-9HDF_wmnJlH-YETM0-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-108" value="influence of phylogenetic relationships&lt;br&gt;vs &lt;br&gt;symbiont species traits, such as symbiont transmission mode" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="-505" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-110" target="SC-9HDF_wmnJlH-YETM0-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SC-9HDF_wmnJlH-YETM0-110" target="NuF6uCkKGm2GZKv_JF5o-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-110" value="evolutionary relatedness, but not transmission mode, predicts thermal resilience of the coral-Symbiodiniaceae holobiont" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="-397.5" y="-685" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-112" value="thermal stress events could result in nonrandom pruning of susceptible&amp;nbsp;lineages and loss of taxonomic diversity with catastrophic effects on community resilience to future events" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="-233.75" y="-350" width="187.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-114" target="SC-9HDF_wmnJlH-YETM0-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-114" value="diversity in both partners (&lt;a id=&quot;body-ref-B1-1&quot; data-xml-rid=&quot;B1&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B1&quot;&gt;1&lt;/a&gt;&lt;a id=&quot;body-ref-B2-1&quot; data-xml-rid=&quot;B2&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B2&quot;&gt;–&lt;/a&gt;&lt;a id=&quot;body-ref-B3-1&quot; data-xml-rid=&quot;B3&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B3&quot;&gt;3&lt;/a&gt;)&amp;nbsp;allows multiple&amp;nbsp;coral-symbiont combinations&amp;nbsp;with unique costs and benefits" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="885" y="860" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-125" value="may result in individual functional traits capable of determining fitness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-131" target="SC-9HDF_wmnJlH-YETM0-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="-1060" />
+              <mxPoint x="1660" y="-1060" />
+              <mxPoint x="1660" y="2075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-131" value="coral-Symbiodiniaceae networks are very heterogeneous; most nodes have&amp;nbsp;few links (i.e., specialists that associate with one or few partners [&lt;a id=&quot;body-ref-B1-2&quot; data-xml-rid=&quot;B1&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B1&quot;&gt;1&lt;/a&gt;, &lt;a id=&quot;body-ref-B2-2&quot; data-xml-rid=&quot;B2&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B2&quot;&gt;2&lt;/a&gt;, &lt;a id=&quot;body-ref-B12-1&quot; data-xml-rid=&quot;B12&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B12&quot;&gt;12&lt;/a&gt;, &lt;a id=&quot;body-ref-B13-1&quot; data-xml-rid=&quot;B13&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B13&quot;&gt;13&lt;/a&gt;])" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="142.5" y="-800" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-133" target="SC-9HDF_wmnJlH-YETM0-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="-635" />
+              <mxPoint x="-20" y="2480" />
+              <mxPoint x="607" y="2480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-133" value="some nodes have many links (i.e., generalists that associate with numerous partners [&lt;a id=&quot;body-ref-B1-3&quot; data-xml-rid=&quot;B1&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B1&quot;&gt;1&lt;/a&gt;, &lt;a id=&quot;body-ref-B2-3&quot; data-xml-rid=&quot;B2&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B2&quot;&gt;2&lt;/a&gt;, &lt;a id=&quot;body-ref-B6-2&quot; data-xml-rid=&quot;B6&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B6&quot;&gt;6&lt;/a&gt;, &lt;a id=&quot;body-ref-B12-2&quot; data-xml-rid=&quot;B12&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B12&quot;&gt;12&lt;/a&gt;, &lt;a id=&quot;body-ref-B13-2&quot; data-xml-rid=&quot;B13&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B13&quot;&gt;13&lt;/a&gt;])" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="57.5" y="-685" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-142" value="constrained by both ecological and evolutionary processes, such as&amp;nbsp;biogeographic distributions, locally adapted hosts and symbionts, and&amp;nbsp;evolutionary constraints on partner choice (&lt;a id=&quot;body-ref-B1-4&quot; data-xml-rid=&quot;B1&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B1&quot;&gt;1&lt;/a&gt;, &lt;a id=&quot;body-ref-B2-4&quot; data-xml-rid=&quot;B2&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B2&quot;&gt;2&lt;/a&gt;, &lt;a id=&quot;body-ref-B13-4&quot; data-xml-rid=&quot;B13&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B13&quot;&gt;13&lt;/a&gt;, &lt;a id=&quot;body-ref-B19&quot; data-xml-rid=&quot;B19&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B19&quot;&gt;19&lt;/a&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1270" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-144" target="SC-9HDF_wmnJlH-YETM0-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-144" target="SC-9HDF_wmnJlH-YETM0-150" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-116" y="-747" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-144" target="SC-9HDF_wmnJlH-YETM0-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-144" value="transmission mode" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="-176" y="-619" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-147" value="structure the overall network into vertical or horizontal transmission subnetworks, each associated with a subset of unique phylotypes and a&amp;nbsp;few generalist types, with mixed-mode types interacting with both (&lt;a id=&quot;body-ref-B6-5&quot; data-xml-rid=&quot;B6&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B6&quot;&gt;6&lt;/a&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="-840" width="210" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-149" value="vertical transmission" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="-870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#B09500;" parent="1" source="SC-9HDF_wmnJlH-YETM0-150" target="SC-9HDF_wmnJlH-YETM0-151" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-150" value="horizontal transmission" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="-777" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-9HDF_wmnJlH-YETM0-151" value="(VT) Symbiodiniaceae appear to be more thermotolerant than horizontally transmitted (HT) Symbiodiniaceae (&lt;a id=&quot;body-ref-B21-1&quot; data-xml-rid=&quot;B21&quot; role=&quot;doc-biblioref&quot; href=&quot;https://journals.asm.org/doi/10.1128/msystems.00266-21#core-B21&quot;&gt;21&lt;/a&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="-788.5" width="150" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-1" value="thermal resilience" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="-625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-3" value="closely related coral species associate with similar sets of phylotypes&amp;nbsp;sampled from similar regions of the Symbiodiniaceae phylogeny." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1062.5" width="170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="NuF6uCkKGm2GZKv_JF5o-5" value="&lt;i style=&quot;color: rgb(255, 255, 255);&quot;&gt;Endozoicomonas&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1845" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
