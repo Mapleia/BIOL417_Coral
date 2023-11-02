@@ -14,6 +14,35 @@ Another study that examined coral microbiome by {cite:t}`Leite_2018` looked at t
 
   c) the vertical transmission of microbiome is largely what explains the correlation (legacy imposed by ancestors is what drives composition)
 
+##
+
+> conformer/regulator X plasmid phylogenetic tree/regular tree
+
+Can the plasmid's phylogenetic tree be a better measure of the coral's microbiome level of "core" bacteria vs "variable" bacteria than the regular phylogenetic tree?
+Use plasmid's phylogenetic tree as a proxy measure for the level of "conformer" / "regulator" a coral's microbiome is?
+
+|   	|  conformer 	|   regulator	|
+|--:	|---	|---	|
+|   plasmid phylogenetic tree	|   	|   	|
+|   regular tree	|   	|   	|
+
+- https://link.springer.com/article/10.1186/s40168-023-01653-4
+- https://www.sciencedirect.com/science/article/pii/S0048969723064306
+- https://www.nature.com/articles/s41396-022-01283-y
+- https://link.springer.com/chapter/10.1007/978-3-030-97189-2_3
+- https://www.sciencedirect.com/science/article/pii/S0048969723028796
+- https://jms.mabjournal.com/index.php/mab/article/view/2162
+- http://journal.article2publish.com/id/eprint/2403/
+- https://www.biorxiv.org/content/10.1101/2023.01.31.526474v1.full
+- https://www.pnas.org/doi/10.1073/pnas.1920779117#sec-2
+- https://journals.asm.org/doi/10.1128/msystems.00921-22
+- https://www.nature.com/articles/s42003-023-04590-y
+- https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01622-x#Sec13
+- https://www.biorxiv.org/content/10.1101/334409v2.full
+- https://www.frontiersin.org/articles/10.3389/fmicb.2018.02167/full
+- https://academic.oup.com/nar/article/51/15/e83/7222081
+- https://www.ncbi.nlm.nih.gov/biosample?Db=biosample&DbFrom=bioproject&Cmd=Link&LinkName=bioproject_biosample&LinkReadableName=BioSample&ordinalpos=1&IdsFromResult=495243
+
 ## Planned procedure
 While keeping the anatomy variability in mind, I want to compare the phylogenetic tree made from tracing plasmids (plasmid phylogenetic tree) vs a regular phylogenetic tree of the microbiome found between species that could be classified as a “microbiome conformer” vs a “microbiome regulator”. (If further narrowing down is needed, maybe focus on anatomy?). For this, it would make sense to refer to the raw sequencing files used by Pollock et al. (2018) (accessible under European Nucleotide Archive with the accession number PRJEB28183). This will require:
   1. Filter sequences by the host of interest (1 conformer vs 1 regulator?)
