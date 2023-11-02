@@ -12,7 +12,8 @@ parts:
 - caption: Proposal
   chapters:
   - file: 'src/proposal'
-  - file: 'src/main'
+  - file: 'src/exploratory/genome/index'
+  - file: 'src/alignment'
 - caption: End
   chapters:
   - file: 'src/references'
