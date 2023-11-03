@@ -4,20 +4,23 @@
 This is a phylogeny focused project examining corals and their microbiome.
 
 ## Setup
-1. Install python 3.11
-2. Run
+1. Install [python 3.11](https://www.python.org/downloads/)
+2. Run the [setup script](./setup.ps1).
 ```ps1
-pip install virtualenv
-virtualenv .venv
-.venv\Scripts\activate.ps1
+./setup.ps1
 ```
-3. Run
-```ps1
-pip install -r requirements.txt
-```
+> You may run into an error with the powershell script about remote execusion policy. Use [this guide](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3) to fix this issue. Since this is a security feature, enable with caution.
+
+4. Install [drawio](https://github.com/jgraph/drawio-desktop/releases/tag/v22.0.3). You can use [the Powershell script](./download_drawio.ps1) if you are on a Windows machine.
 
 ## Building
 Run the script.
 ```ps1
 .\build.ps1
+```
+
+## Publish
+Publish the site to github pages.
+```ps1
+.\publish.ps1
 ```

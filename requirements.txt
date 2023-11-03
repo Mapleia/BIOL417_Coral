@@ -2,3 +2,4 @@ notebook==7.0.4
 jupyter_book==0.15.1
 ghp-import==2.1.0
 biopython==1.81
+sphinxcontrib-drawio==0.0.17

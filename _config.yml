@@ -10,5 +10,14 @@ exclude_patterns:
 bibtex_bibfiles:
 - src/references.bib
 sphinx:
+  extra_extensions:
+  - sphinxcontrib.drawio
   config:
     bibtex_reference_style: author_year
+
+html:
+  use_repository_button: true
+
+repository:
+  url: https://github.com/Mapleia/BIOL417_Coral
+  branch: main
