@@ -13,6 +13,7 @@ sphinx:
   extra_extensions:
   - sphinxcontrib.drawio
   config:
+    drawio_builder_export_format: svg
     bibtex_reference_style: author_year
 
 html:

@@ -9,10 +9,12 @@ parts:
     - file: 'src/exploratory/Leite_2018'
     - file: 'src/exploratory/Swain_2021'
     - file: 'src/exploratory/van_Oppen_2019'
+    - file: 'src/exploratory/literature.md'
 - caption: Proposal
   chapters:
   - file: 'src/proposal'
   - file: 'src/exploratory/genome/index'
+  - file: 'src/download'
   - file: 'src/alignment'
 - caption: End
   chapters:

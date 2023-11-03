@@ -4,8 +4,8 @@ if (Test-Path -Path $Folder) {
   "virtualenv exists!"
 } else {
   "virtualenv doesn't exist"
-  python -m pip install virtualenv
-  python -m virtualenv .venv
+  python3.11 -m pip install virtualenv
+  python3.11 -m virtualenv .venv
 }
 
 .venv\Scripts\activate
