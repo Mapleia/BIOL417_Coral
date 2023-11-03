@@ -16,3 +16,4 @@ src/muscle_out/*
 *_modified.phys
 !src/muscle_out/*.xml
 !muscle-E20231103-041923-0439-15952161-p1m.out
+!src/all_sequences.fasta
