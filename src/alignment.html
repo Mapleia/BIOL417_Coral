@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>Align and Download &#8212; Coral Bleaching - BIOL 417</title>
+    <title>Align sequences using MUSCLE &#8212; Coral Bleaching - BIOL 417</title>
   
   
   
@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=ac02cc09edc035673794" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
 
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -35,12 +35,13 @@
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/drawio.css" />
     <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794" />
-  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=ac02cc09edc035673794"></script>
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6" />
+  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=365ca57ee442770a23c6"></script>
 
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
@@ -66,7 +67,7 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="References" href="references.html" />
-    <link rel="prev" title="List of used datasets for analysis" href="exploratory/genome/index.html" />
+    <link rel="prev" title="Align and Download" href="download.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -147,6 +148,7 @@ const thebe_selector_output = ".output, .cell_output"
   
   
   
+  
     <p class="title logo__title">Coral Bleaching - BIOL 417</p>
   
 </a></div>
@@ -168,12 +170,14 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="exploratory/Leite_2018.html">Specific plasmid patterns and high rates of bacterial co-occurrence within the coral holobiont</a></li>
 <li class="toctree-l1"><a class="reference internal" href="exploratory/Swain_2021.html">A Phylogeny-Informed Analysis of the Global Coral-Symbiodiniaceae Interaction Network Reveals that Traits Correlated with Thermal Bleaching Are Specific to Symbiont Transmission Mode</a></li>
 <li class="toctree-l1"><a class="reference internal" href="exploratory/van_Oppen_2019.html">Coral microbiome dynamics, functions and design in a changing world</a></li>
+<li class="toctree-l1"><a class="reference internal" href="exploratory/literature.html">Literature Review</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Proposal</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="proposal.html">Proposal</a></li>
 <li class="toctree-l1"><a class="reference internal" href="exploratory/genome/index.html">List of used datasets for analysis</a></li>
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Align and Download</a></li>
+<li class="toctree-l1"><a class="reference internal" href="download.html">Align and Download</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Align sequences using MUSCLE</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">End</span></p>
 <ul class="nav bd-sidenav">
@@ -316,9 +320,7 @@ document.write(`
   </button>
 `);
 </script>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="fa-solid fa-list"></span>
-</label>
+
 </div></div>
       
     </div>
@@ -329,20 +331,11 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Align and Download</h1>
+    <h1>Align sequences using MUSCLE</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
             
-            <div>
-                <h2> Contents </h2>
-            </div>
-            <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sample-search-to-download-from-ncbi">Sample search to download from NCBI</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#download-sequences-for-our-organism-list">Download sequences for our organism list</a></li>
-</ul>
-            </nav>
         </div>
     </div>
 </div>
@@ -352,205 +345,85 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="align-and-download">
-<h1>Align and Download<a class="headerlink" href="#align-and-download" title="Permalink to this heading">#</a></h1>
-<p>We are using the package biopython to download our SRA from NCBI. We will be using the SRA toolkit to convert the SRA files to fastq files. We will then use bowtie2 to align the fastq files to the reference genome. We will then use samtools to convert the SAM files to BAM files and sort the BAM files.</p>
-<blockquote>
-<div><p>We will then use bedtools to convert the BAM files to BED files. We wil</p>
-</div></blockquote>
-<p>The guide on downloading from NCBI is from <a class="reference external" href="https://notebook.community/widdowquinn/Notebooks-Bioinformatics/Biopython_NCBI_Entrez_downloads">this guide</a>.</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="align-sequences-using-muscle">
+<h1>Align sequences using MUSCLE<a class="headerlink" href="#align-sequences-using-muscle" title="Permalink to this heading">#</a></h1>
+<p>Let’s import the SeqIO module to parse fasta files.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">Bio</span> <span class="kn">import</span> <span class="n">Entrez</span><span class="p">,</span> <span class="n">SeqIO</span>
-<span class="c1"># from Bio.Align.Applications import ClustalwCommandline</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">Bio</span> <span class="kn">import</span> <span class="n">SeqIO</span>
+<span class="kn">from</span> <span class="nn">Bio.SeqRecord</span> <span class="kn">import</span> <span class="n">SeqRecord</span>
 <span class="kn">import</span> <span class="nn">os</span>
 </pre></div>
 </div>
 </div>
 </div>
+<p>Let’s check that there are directories for the input.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Create a new directory (if needed) for output/downloads</span>
-<span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="s2">&quot;ncbi_downloads&quot;</span><span class="p">,</span> <span class="n">exist_ok</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">Entrez</span><span class="o">.</span><span class="n">email</span> <span class="o">=</span> <span class="s2">&quot;kaedeito@student.ubc.ca&quot;</span>
-<span class="c1"># This line sets the name of the tool that is making the queries</span>
-<span class="n">Entrez</span><span class="o">.</span><span class="n">tool</span> <span class="o">=</span> <span class="s2">&quot;alignment.ipynb&quot;</span>
-</pre></div>
-</div>
-</div>
-</div>
-<section id="sample-search-to-download-from-ncbi">
-<h2>Sample search to download from NCBI<a class="headerlink" href="#sample-search-to-download-from-ncbi" title="Permalink to this heading">#</a></h2>
-<p>Here is an example using the generic search term of “Endozoicomonas” and “coral” in NCBI’s Genbank nucleotide database.</p>
-<p>The <code class="docutils literal notranslate"><span class="pre">Entrez.esearch(...)</span></code> function is documented <a class="reference external" href="https://www.ncbi.nlm.nih.gov/books/NBK25499/#chapter4.ESearch">here</a>.</p>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">term</span> <span class="o">=</span> <span class="s2">&quot;Endozoicomonas[Organism] AND coral[All Fields] AND biomol_genomic[PROP]&quot;</span>
-<span class="n">handle</span> <span class="o">=</span> <span class="n">Entrez</span><span class="o">.</span><span class="n">esearch</span><span class="p">(</span><span class="n">db</span><span class="o">=</span><span class="s2">&quot;nucleotide&quot;</span><span class="p">,</span>
-  <span class="n">term</span><span class="o">=</span><span class="n">term</span><span class="p">,</span>
-  <span class="n">retmax</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
-  <span class="n">idtype</span><span class="o">=</span><span class="s2">&quot;acc&quot;</span><span class="p">,</span>
-<span class="p">)</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">out_amount</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">listdir</span><span class="p">(</span><span class="s2">&quot;ncbi_downloads&quot;</span><span class="p">)</span>
 
-<span class="c1"># This line converts the returned information from NCBI into a form we</span>
-<span class="c1"># can use, as before.</span>
-<span class="n">record</span> <span class="o">=</span> <span class="n">Entrez</span><span class="o">.</span><span class="n">read</span><span class="p">(</span><span class="n">handle</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">record</span><span class="p">[</span><span class="s1">&#39;IdList&#39;</span><span class="p">])</span>
+<span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">out_amount</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">:</span>
+    <span class="k">raise</span> <span class="s2">&quot;No fasta files.&quot;</span>
+
+<span class="c1"># Get the list of organisms /taxa</span>
+<span class="n">list_orgs</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="s2">&quot;ncbi_downloads/organism_list.txt&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">parse_fasta_files</span><span class="p">(</span><span class="n">list_orgs</span><span class="p">:</span> <span class="nb">list</span><span class="p">[</span><span class="nb">str</span><span class="p">]):</span>
+<span class="w">  </span><span class="sd">&quot;&quot;&quot;A function that takes a list of subdirectory names and returns a list of SeqRecords.&quot;&quot;&quot;</span>
+
+  <span class="n">fasta_records</span><span class="p">:</span> <span class="nb">list</span><span class="p">[</span><span class="n">SeqRecord</span><span class="p">]</span> <span class="o">=</span> <span class="p">[]</span>
+  <span class="k">for</span> <span class="n">org</span> <span class="ow">in</span> <span class="n">list_orgs</span><span class="p">:</span>
+    <span class="n">path</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;ncbi_downloads/</span><span class="si">{</span><span class="n">org</span><span class="si">}</span><span class="s2">/nucleotide.fasta&quot;</span>
+    <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">path</span><span class="p">):</span>
+      <span class="k">raise</span> <span class="s2">&quot;Missing fasta file for &quot;</span> <span class="o">+</span> <span class="n">org</span>
+    <span class="k">else</span><span class="p">:</span>
+      <span class="n">file</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">path</span><span class="p">)</span>
+      <span class="n">fasta_record</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">SeqIO</span><span class="o">.</span><span class="n">parse</span><span class="p">(</span><span class="n">file</span><span class="p">,</span> <span class="s2">&quot;fasta&quot;</span><span class="p">))</span>
+      <span class="n">fasta_records</span> <span class="o">=</span> <span class="n">fasta_records</span> <span class="o">+</span> <span class="n">fasta_record</span>
+  <span class="k">return</span> <span class="n">fasta_records</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">fasta_records</span> <span class="o">=</span> <span class="n">parse_fasta_files</span><span class="p">(</span><span class="n">list_orgs</span><span class="p">)</span>
+
+<span class="n">accession_ids</span><span class="p">:</span> <span class="nb">list</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="n">duplicates</span> <span class="o">=</span> <span class="p">[]</span>
+
+<span class="k">for</span> <span class="n">idx</span><span class="p">,</span> <span class="n">fasta</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">fasta_records</span><span class="p">):</span>
+  <span class="k">if</span> <span class="n">fasta</span><span class="o">.</span><span class="n">id</span> <span class="ow">in</span> <span class="n">accession_ids</span><span class="p">:</span>
+    <span class="n">duplicates</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">idx</span><span class="p">)</span>
+
+  <span class="n">accession_ids</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">fasta</span><span class="o">.</span><span class="n">id</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">idx</span> <span class="ow">in</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">duplicates</span><span class="p">,</span> <span class="n">reverse</span><span class="o">=</span><span class="kc">True</span><span class="p">):</span>
+  <span class="k">del</span> <span class="n">fasta_records</span><span class="p">[</span><span class="n">idx</span><span class="p">]</span>
+
+<span class="n">SeqIO</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">fasta_records</span><span class="p">,</span> <span class="s2">&quot;all_sequences.fasta&quot;</span><span class="p">,</span> <span class="s2">&quot;fasta&quot;</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[&#39;NZ_CP120717.1&#39;, &#39;CP120717.1&#39;, &#39;NZ_JAHHPM000000000.1&#39;, &#39;NZ_JAHHPM010000603.1&#39;, &#39;NZ_JAHHPM010000602.1&#39;, &#39;NZ_JAHHPM010000601.1&#39;, &#39;NZ_JAHHPM010000600.1&#39;, &#39;NZ_JAHHPM010000599.1&#39;, &#39;NZ_JAHHPM010000598.1&#39;, &#39;NZ_JAHHPM010000597.1&#39;]
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>117
 </pre></div>
 </div>
 </div>
 </div>
-</section>
-<section id="download-sequences-for-our-organism-list">
-<h2>Download sequences for our organism list<a class="headerlink" href="#download-sequences-for-our-organism-list" title="Permalink to this heading">#</a></h2>
-<p>From a file called “organism_list.txt”, read the list of organisms to search with.
-Add the search term “coral” to the end of each organism name, and limit to 10 results per taxon.</p>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">list_orgs</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="s2">&quot;ncbi_downloads/organism_list.txt&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
-
-<span class="n">list_of_accession_id</span> <span class="o">=</span> <span class="p">[]</span>
-
-<span class="n">min_seq_length</span> <span class="o">=</span> <span class="mi">1200</span>
-<span class="n">max_seq_length</span> <span class="o">=</span> <span class="mi">10000</span>
-
-<span class="n">length_search</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;(</span><span class="si">{</span><span class="n">min_seq_length</span><span class="si">}</span><span class="s2">[SLEN] : </span><span class="si">{</span><span class="n">max_seq_length</span><span class="si">}</span><span class="s2">[SLEN])&quot;</span>
-
-<span class="k">for</span> <span class="n">org</span> <span class="ow">in</span> <span class="n">list_orgs</span><span class="p">:</span>
-  <span class="n">term</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;(</span><span class="se">\&quot;</span><span class="si">{</span><span class="n">org</span><span class="si">}</span><span class="se">\&quot;</span><span class="s2">[Organism] OR </span><span class="si">{</span><span class="n">org</span><span class="si">}</span><span class="s2">[All Fields]) AND coral[All Fields] AND </span><span class="si">{</span><span class="n">length_search</span><span class="si">}</span><span class="s2"> AND biomol_genomic[PROP]&quot;</span>
-  <span class="n">handle</span> <span class="o">=</span> <span class="n">Entrez</span><span class="o">.</span><span class="n">esearch</span><span class="p">(</span><span class="n">db</span><span class="o">=</span><span class="s2">&quot;nucleotide&quot;</span><span class="p">,</span>
-    <span class="n">term</span><span class="o">=</span><span class="n">term</span><span class="p">,</span>
-    <span class="n">retmax</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
-    <span class="n">idtype</span><span class="o">=</span><span class="s2">&quot;acc&quot;</span><span class="p">,</span>
-  <span class="p">)</span>
-  <span class="n">record</span> <span class="o">=</span> <span class="n">Entrez</span><span class="o">.</span><span class="n">read</span><span class="p">(</span><span class="n">handle</span><span class="p">)</span>
-  <span class="n">list_of_accession_id</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">record</span><span class="p">[</span><span class="s1">&#39;IdList&#39;</span><span class="p">])</span>
+<p>Run the muscle command.</p>
+<div class="highlight-.ps1 notranslate"><div class="highlight"><pre><span></span>muscle -align ./src/all_sequences.fasta -output ./src/all_sequences_aligned.phy
 </pre></div>
 </div>
-</div>
-</div>
-<p>A class to hold the search results, and a function to print the results to a fasta file.</p>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">dataclasses</span> <span class="kn">import</span> <span class="n">dataclass</span>
-
-<span class="nd">@dataclass</span>
-<span class="k">class</span> <span class="nc">OrganismAccession</span><span class="p">:</span>
-  <span class="n">ids</span><span class="p">:</span> <span class="nb">list</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span>
-  <span class="n">organism</span><span class="p">:</span> <span class="nb">str</span>
-  <span class="n">handle</span><span class="p">:</span> <span class="nb">str</span>
-  <span class="n">folder</span><span class="p">:</span> <span class="nb">str</span>
-
-  <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">ids</span><span class="p">,</span> <span class="n">organism</span><span class="p">):</span>
-    <span class="bp">self</span><span class="o">.</span><span class="n">ids</span> <span class="o">=</span> <span class="n">ids</span>
-    <span class="bp">self</span><span class="o">.</span><span class="n">organism</span> <span class="o">=</span> <span class="n">organism</span>
-    <span class="bp">self</span><span class="o">.</span><span class="n">folder</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;ncbi_downloads</span><span class="se">\\</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">organism</span><span class="si">}</span><span class="s2">&quot;</span>
-    <span class="n">os</span><span class="o">.</span><span class="n">makedirs</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">folder</span><span class="p">,</span> <span class="n">exist_ok</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-    <span class="bp">self</span><span class="o">.</span><span class="n">handle</span> <span class="o">=</span> <span class="n">Entrez</span><span class="o">.</span><span class="n">efetch</span><span class="p">(</span><span class="n">db</span><span class="o">=</span><span class="s2">&quot;nucleotide&quot;</span><span class="p">,</span> <span class="nb">id</span><span class="o">=</span><span class="n">ids</span><span class="p">,</span> <span class="n">rettype</span><span class="o">=</span><span class="s2">&quot;fasta&quot;</span><span class="p">,</span> <span class="n">retmode</span><span class="o">=</span><span class="s2">&quot;text&quot;</span><span class="p">)</span>
-
-  <span class="k">def</span> <span class="nf">download_save</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">folder</span><span class="si">}</span><span class="se">\\</span><span class="s2">nucleotide.fasta&quot;</span><span class="p">,</span> <span class="s2">&quot;w&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">out_handle</span><span class="p">:</span>
-      <span class="n">out_handle</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">handle</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
-      <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;all</span><span class="se">\\</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">organism</span><span class="si">}</span><span class="s2"> Saved&quot;</span><span class="p">)</span>
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">len_org</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">list_orgs</span><span class="p">)</span>
-<span class="n">len_results</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">list_of_accession_id</span><span class="p">)</span>
-<span class="k">if</span> <span class="n">len_org</span> <span class="o">!=</span> <span class="n">len_results</span><span class="p">:</span>
-  <span class="k">raise</span> <span class="ne">Exception</span><span class="p">(</span><span class="s2">&quot;Length of organism list and results list are not the same&quot;</span><span class="p">)</span>
-
-<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">len_org</span><span class="p">):</span>
-  <span class="n">org</span> <span class="o">=</span> <span class="n">list_orgs</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
-  <span class="n">ids</span> <span class="o">=</span> <span class="n">list_of_accession_id</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
-  <span class="n">organism_accession</span> <span class="o">=</span> <span class="n">OrganismAccession</span><span class="p">(</span><span class="n">ids</span><span class="p">,</span> <span class="n">org</span><span class="p">)</span>
-  <span class="n">organism_accession</span><span class="o">.</span><span class="n">download_save</span><span class="p">()</span>
-  <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Saved </span><span class="si">{</span><span class="n">org</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. ONNA2 Saved
-Saved Endozoicomonas sp. ONNA2
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas acroporae Saved
-Saved Endozoicomonas acroporae
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. ONNA1 Saved
-Saved Endozoicomonas sp. ONNA1
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. SESOKO3 Saved
-Saved Endozoicomonas sp. SESOKO3
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. SESOKO2 Saved
-Saved Endozoicomonas sp. SESOKO2
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. SESOKO4 Saved
-Saved Endozoicomonas sp. SESOKO4
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. YOMI1 Saved
-Saved Endozoicomonas sp. YOMI1
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. SESOKO1 Saved
-Saved Endozoicomonas sp. SESOKO1
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. ISHI1 Saved
-Saved Endozoicomonas sp. ISHI1
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas montiporae Saved
-Saved Endozoicomonas montiporae
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. G2_1 Saved
-Saved Endozoicomonas sp. G2_1
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. Saved
-Saved Endozoicomonas sp.
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas sp. G2_2 Saved
-Saved Endozoicomonas sp. G2_2
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas coralli Saved
-Saved Endozoicomonas coralli
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas gorgoniicola Saved
-Saved Endozoicomonas gorgoniicola
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>all\Endozoicomonas euniceicola Saved
-Saved Endozoicomonas euniceicola
-</pre></div>
-</div>
-</div>
-</div>
-</section>
+<p>For me personally, I submitted it to an online server by <span id="id1">Madeira, Pearce, Tivey, Basutkar, Lee, Edbali, Madhusoodanan, Kolesnikov, and Lopez [<a class="reference internal" href="references.html#id24" title="Fábio Madeira, Matt Pearce, Adrian R N Tivey, Prasad Basutkar, Joon Lee, Ossama Edbali, Nandana Madhusoodanan, Anton Kolesnikov, and Rodrigo Lopez. Search and sequence analysis tools services from embl-ebi in 2022. Nucleic acids research, 50(W1):W276—W279, July 2022. URL: https://europepmc.org/articles/PMC9252731, doi:10.1093/nar/gkac240.">2022</a>]</span>.</p>
+<blockquote>
+<div><p>Status of job: <a class="reference external" href="https://wwwdev.ebi.ac.uk/Tools/jdispatcher/msa/muscle/summary?jobId=muscle-E20231103-041923-0439-15952161-p1m">here</a></p>
+</div></blockquote>
 </section>
 
     <script type="text/x-thebe-config">
@@ -584,12 +457,12 @@ Saved Endozoicomonas euniceicola
                   <!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
-       href="exploratory/genome/index.html"
+       href="download.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">List of used datasets for analysis</p>
+        <p class="prev-next-title">Align and Download</p>
       </div>
     </a>
     <a class="right-next"
@@ -607,21 +480,6 @@ Saved Endozoicomonas euniceicola
             </div>
             
             
-              
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
-
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
-    <i class="fa-solid fa-list"></i> Contents
-  </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sample-search-to-download-from-ncbi">Sample search to download from NCBI</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#download-sequences-for-our-organism-list">Download sequences for our organism list</a></li>
-</ul>
-  </nav></div>
-
-</div></div>
               
             
           </div>
@@ -665,8 +523,8 @@ By Kaede Ito
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6"></script>
 
   <footer class="bd-footer">
   </footer>
