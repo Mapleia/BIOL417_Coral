@@ -6,3 +6,6 @@ _build
 ncbi_dataset
 **/raxml_out
 **/*.fasta
+*.log
+*.msi
+papers
