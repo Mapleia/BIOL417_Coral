@@ -52,3 +52,19 @@ Unfortunately, the sequences were too long to make a reasonable analysis using M
 | Endozoicomonas **sp.** strain LZHN29 | 16S ribosomal RNA gene, partial sequence | 1,550 bp linear DNA | MH201322.1 | 1377517605 |
 | Uncultured Endozoicomonas **sp.** | partial 16S rRNA gene, clone Dpd21_3_44 | 1,473 bp linear DNA | LN626318.1 | 966207698 |
 | Endozoicomonas **sp.** strain XS200 | 16S ribosomal RNA gene, partial sequence | 562 bp linear DNA | OQ618154.1 | 2456913731 |
+
+## Download
+The following [file](./list_genome.txt) was used as input for the CLI tool [datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/reference-docs/command-line/datasets/) to download the genomes.
+
+```.ps1
+datasets download genome accession --inputfile src/exploratory/list_genome.txt --filename selected_genomes.zip
+```
+
+I also tested the 16S rRNA sequences, but they were too short to be useful for the analysis. I divided them based on if they had a named taxa (in which case their accession ID is included in [this list](./16S/list_16S.txt)) or if they were unnamed (in which case their accession ID is included in [this list](./16S/list_16S_sp.txt)).
+
+```.ps1
+datasets download gene accession --inputfile src/exploratory/16S/list_16S.txt --filename selected_16S.zip
+```
+```.ps1
+datasets download gene accession --inputfile src/exploratory/16S/list_16S_sp.txt --filename selected_16S_sp.zip
+```

@@ -5,10 +5,12 @@ execute:
   allow_errors: true
 
 exclude_patterns:
-- .venv/*
+  - .venv/*
+  - extra_docs/*
+
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-- src/references.bib
+- references.bib
 sphinx:
   extra_extensions:
   - sphinxcontrib.drawio

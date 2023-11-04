@@ -4,18 +4,16 @@ parts:
 - caption: Exploring Literature
   chapters:
     - file: 'src/exploratory/index'
-    - file: 'src/exploratory/Pollock_2018'
-    - file: 'src/exploratory/Ziegler_2019'
-    - file: 'src/exploratory/Leite_2018'
-    - file: 'src/exploratory/Swain_2021'
-    - file: 'src/exploratory/van_Oppen_2019'
-    - file: 'src/exploratory/literature.md'
+    - file: 'src/exploratory/literature'
 - caption: Proposal
   chapters:
   - file: 'src/proposal'
-  - file: 'src/exploratory/genome/index'
+  - file: 'src/exploratory/datasets'
+- caption: Tree Search
+  chapters:
   - file: 'src/download'
   - file: 'src/alignment'
+  - file: 'src/tree_finding'
 - caption: End
   chapters:
   - file: 'src/references'

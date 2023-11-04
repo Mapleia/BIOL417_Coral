@@ -1,1 +1,0 @@
-datasets download gene accession --inputfile list_16S.txt --filename 16s_named.zip
