@@ -15,12 +15,12 @@ This is a phylogeny focused project examining corals and their microbiome.
 
 ## Building
 Run [the script](./build.ps1).
-```.ps1
+```ps1
 .\build.ps1
 ```
 
 ## Publish
 Publish the site to github pages using [the script](./publish.ps1) or just run.
-```.ps1
+```ps1
 ghp-import -n -p -f _build/html
 ```

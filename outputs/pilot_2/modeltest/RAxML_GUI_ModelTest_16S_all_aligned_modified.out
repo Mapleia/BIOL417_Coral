@@ -1,0 +1,180 @@
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta
+  Tree:       Maximum parsimony
+    file:           -
+  #taxa:            20
+  #sites:           1606
+  #patterns:        302
+  Max. thread mem:  2 MB
+
+Output:
+  Log:           E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\RAxML_GUI_ModelTest_16S_all_aligned_modified.log
+  Starting tree: E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\RAxML_GUI_ModelTest_16S_all_aligned_modified.tree
+  Results:       E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\RAxML_GUI_ModelTest_16S_all_aligned_modified.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          2/2
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TrN+I+G4           7     -4749.2585      9823.3031         0.0000    0.7825
+       2  TIM3+I+G4          8     -4747.6699      9827.5075         4.2044    0.0956
+       3  HKY+I+G4           6     -4755.6097      9828.6241         5.3210    0.0547
+       4  TIM2+I+G4          8     -4748.6872      9829.5420         6.2389    0.0346
+       5  TIM1+I+G4          8     -4749.2468      9830.6611         7.3580    0.0198
+       6  TPM3uf+I+G4        7     -4753.8735      9832.5330         9.2299    0.0077
+       7  TPM2uf+I+G4        7     -4754.6931      9834.1722        10.8691    0.0034
+       8  TPM1uf+I+G4        7     -4755.8217      9836.4295        13.1264    0.0011
+       9  K80+I+G4           3     -4772.0740      9839.4080        16.1049    0.0002
+      10  GTR+I+G4          10     -4747.0684      9841.0673        17.7642    0.0001
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              TrN+I+G4
+lnL:                -4749.2585
+Frequencies:        0.2570 0.2153 0.3109 0.2167
+Subst. Rates:       1.0000 2.4788 1.0000 1.0000 4.6363 1.0000 
+Inv. sites prop:    0.6506
+Gamma shape:        0.6497
+Score:              9823.3031
+Weight:             0.7825
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0001
+Gamma:              0.0000
+Gamma-Inv:          0.9999
+Frequencies:        0.9997
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.7736
+Alpha:              0.0220
+Alpha-P.Inv:        0.6728
+P.Inv-Alpha:        0.6547
+Frequencies:        0.2564 0.2162 0.3106 0.2168 
+
+Commands:
+  > phyml  -i E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta -m 010020 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta --model TrN+I+G4
+  > paup -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta
+  > iqtree -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta -m TrN+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM3+I+G4          8     -4747.6699      9585.3399         0.0000    0.4196
+       2  TrN+I+G4           7     -4749.2585      9586.5170         1.1772    0.2329
+       3  TIM2+I+G4          8     -4748.6872      9587.3745         2.0346    0.1517
+       4  GTR+I+G4          10     -4747.0684      9588.1368         2.7969    0.1036
+       5  TIM1+I+G4          8     -4749.2468      9588.4935         3.1536    0.0867
+       6  TPM3uf+I+G4        7     -4753.8735      9595.7470        10.4071    0.0023
+       7  HKY+I+G4           6     -4755.6097      9597.2195        11.8796    0.0011
+       8  TPM2uf+I+G4        7     -4754.6931      9597.3861        12.0462    0.0010
+       9  TVM+I+G4           9     -4753.1902      9598.3804        13.0406    0.0006
+      10  TPM1uf+I+G4        7     -4755.8217      9599.6434        14.3035    0.0003
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              TIM3+I+G4
+lnL:                -4747.6699
+Frequencies:        0.2573 0.2190 0.3111 0.2126
+Subst. Rates:       0.7014 2.0889 1.0000 0.7014 3.9537 1.0000 
+Inv. sites prop:    0.6544
+Gamma shape:        0.6643
+Score:              9585.3399
+Weight:             0.4196
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.7806
+Alpha:              0.0218
+Alpha-P.Inv:        0.6475
+P.Inv-Alpha:        0.6496
+Frequencies:        0.2563 0.2173 0.3117 0.2146 
+
+Commands:
+  > phyml  -i E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta -m 012032 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta --model TIM3+I+G4
+  > paup -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta
+  > iqtree -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta -m TIM3+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM3+I+G4          8     -4747.6699      9587.3399         0.0000    0.4196
+       2  TrN+I+G4           7     -4749.2585      9588.5170         1.1772    0.2329
+       3  TIM2+I+G4          8     -4748.6872      9589.3745         2.0346    0.1517
+       4  GTR+I+G4          10     -4747.0684      9590.1368         2.7969    0.1036
+       5  TIM1+I+G4          8     -4749.2468      9590.4935         3.1536    0.0867
+       6  TPM3uf+I+G4        7     -4753.8735      9597.7470        10.4071    0.0023
+       7  HKY+I+G4           6     -4755.6097      9599.2195        11.8796    0.0011
+       8  TPM2uf+I+G4        7     -4754.6931      9599.3861        12.0462    0.0010
+       9  TVM+I+G4           9     -4753.1902      9600.3804        13.0406    0.0006
+      10  TPM1uf+I+G4        7     -4755.8217      9601.6434        14.3035    0.0003
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              TIM3+I+G4
+lnL:                -4747.6699
+Frequencies:        0.2573 0.2190 0.3111 0.2126
+Subst. Rates:       0.7014 2.0889 1.0000 0.7014 3.9537 1.0000 
+Inv. sites prop:    0.6544
+Gamma shape:        0.6643
+Score:              9587.3399
+Weight:             0.4196
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.7806
+Alpha:              0.0218
+Alpha-P.Inv:        0.6475
+P.Inv-Alpha:        0.6496
+Frequencies:        0.2563 0.2173 0.3117 0.2146 
+
+Commands:
+  > phyml  -i E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta -m 012032 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta --model TIM3+I+G4
+  > paup -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta
+  > iqtree -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\exploratory\16S\16S_all_aligned_modified.fasta -m TIM3+I+G4
+Done

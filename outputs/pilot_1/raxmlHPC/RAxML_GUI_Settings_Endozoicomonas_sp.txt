@@ -1,0 +1,8 @@
+The analysis was run using raxmlGUI 2.0 (version 2.0.10) as follows:
+Analysis: ML + thorough bootstrap
+Binary: raxmlHPC-PTHREADS-SSE3.exe version 8.2.12
+Results saved to: E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp
+RAxML was called with these arguments:
+1.) -T 4 -b 512443 -m GTRGAMMAIX -p 512443 -N 100 -O -n Endozoicomonas_spR.tre -s "E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp\Endozoicomonas_sp_modified.phy" -w "E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp"
+2.) -T 4 -f d -m GTRGAMMAIX -p 512443 -N 1 -O -n Endozoicomonas_spB.tre -s "E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp\Endozoicomonas_sp_modified.phy" -w "E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp"
+3.) -T 4 -f b -t "E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp\RAxML_bestTree.Endozoicomonas_spB.tre" -z "E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp\RAxML_bootstrap.Endozoicomonas_spR.tre" -m GTRGAMMAIX -O -n Endozoicomonas_sp.tre -s "E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp\Endozoicomonas_sp_modified.phy" -w "E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp"

@@ -1,0 +1,180 @@
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys
+  Tree:       Maximum parsimony
+    file:           -
+  #taxa:            117
+  #sites:           13348
+  #patterns:        11010
+  Max. thread mem:  632 MB
+
+Output:
+  Log:           E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\RAxML_GUI_ModelTest_muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.log
+  Starting tree: E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\RAxML_GUI_ModelTest_muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.tree
+  Results:       E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\RAxML_GUI_ModelTest_muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          2/2
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  HKY+G4             5   -496923.1808    996088.1544         0.0000    0.8198
+       2  TPM1uf+G4          6   -496920.0451    996091.3821         3.2277    0.1632
+       3  TrN+G4             6   -496922.6281    996096.5482         8.3938    0.0123
+       4  TIM3+G4            7   -496919.0057    996098.8025        10.6481    0.0040
+       5  TPM2uf+G4          6   -496926.5436    996104.3790        16.2246    0.0002
+       6  TPM3uf+G4          6   -496926.5869    996104.4656        16.3112    0.0002
+       7  TIM1+G4            7   -496922.2354    996105.2617        17.1073    0.0002
+       8  GTR+G4             9   -496919.8539    996119.4971        31.3427    0.0000
+       9  TIM2+G4            7   -496930.8120    996122.4151        34.2607    0.0000
+      10  TVM+G4             8   -496928.6241    996127.5383        39.3839    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              HKY+G4
+lnL:                -496923.1808
+Frequencies:        0.2600 0.2368 0.2387 0.2646
+Subst. Rates:       1.0000 4.0218 1.0000 1.0000 4.0218 1.0000 
+Inv. sites prop:    -
+Gamma shape:        2.4914
+Score:              996088.1544
+Weight:             0.8198
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              1.0000
+Gamma-Inv:          0.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              2.4825
+Alpha-P.Inv:        2.4323
+P.Inv-Alpha:        0.0214
+Frequencies:        0.2600 0.2367 0.2387 0.2646 
+
+Commands:
+  > phyml  -i E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys -m 010010 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys --model HKY+G4
+  > paup -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys
+  > iqtree -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys -m HKY+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM3+G4            7   -496919.0057    994314.0115         0.0000    0.4448
+       2  TPM1uf+G4          6   -496920.0451    994314.0902         0.0788    0.4277
+       3  HKY+G4             5   -496923.1808    994318.3616         4.3502    0.0505
+       4  TrN+G4             6   -496922.6281    994319.2563         5.2448    0.0323
+       5  GTR+G4             9   -496919.8539    994319.7079         5.6964    0.0258
+       6  TIM1+G4            7   -496922.2354    994320.4707         6.4593    0.0176
+       7  TPM2uf+G4          6   -496926.5436    994327.0872        13.0757    0.0006
+       8  TPM3uf+G4          6   -496926.5869    994327.1737        13.1623    0.0006
+       9  TVM+G4             8   -496928.6241    994335.2482        21.2367    0.0000
+      10  TIM2+G4            7   -496930.8120    994337.6241        23.6126    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              TIM3+G4
+lnL:                -496919.0057
+Frequencies:        0.2604 0.2367 0.2390 0.2638
+Subst. Rates:       0.9453 3.8875 1.0000 0.9453 4.0058 1.0000 
+Inv. sites prop:    -
+Gamma shape:        2.4356
+Score:              994314.0115
+Weight:             0.4448
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              1.0000
+Gamma-Inv:          0.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              2.4311
+Alpha-P.Inv:        2.4366
+P.Inv-Alpha:        0.0214
+Frequencies:        0.2602 0.2367 0.2389 0.2642 
+
+Commands:
+  > phyml  -i E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys -m 012032 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys --model TIM3+G4
+  > paup -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys
+  > iqtree -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys -m TIM3+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM3+G4            7   -496919.0057    994322.0115         0.0000    0.4448
+       2  TPM1uf+G4          6   -496920.0451    994322.0902         0.0788    0.4277
+       3  HKY+G4             5   -496923.1808    994326.3616         4.3502    0.0505
+       4  TrN+G4             6   -496922.6281    994327.2563         5.2448    0.0323
+       5  GTR+G4             9   -496919.8539    994327.7079         5.6964    0.0258
+       6  TIM1+G4            7   -496922.2354    994328.4707         6.4593    0.0176
+       7  TPM2uf+G4          6   -496926.5436    994335.0872        13.0757    0.0006
+       8  TPM3uf+G4          6   -496926.5869    994335.1737        13.1623    0.0006
+       9  TVM+G4             8   -496928.6241    994343.2482        21.2367    0.0000
+      10  TIM2+G4            7   -496930.8120    994345.6241        23.6126    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              TIM3+G4
+lnL:                -496919.0057
+Frequencies:        0.2604 0.2367 0.2390 0.2638
+Subst. Rates:       0.9453 3.8875 1.0000 0.9453 4.0058 1.0000 
+Inv. sites prop:    -
+Gamma shape:        2.4356
+Score:              994322.0115
+Weight:             0.4448
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              1.0000
+Gamma-Inv:          0.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              2.4311
+Alpha-P.Inv:        2.4366
+P.Inv-Alpha:        0.0214
+Frequencies:        0.2602 0.2367 0.2389 0.2642 
+
+Commands:
+  > phyml  -i E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys -m 012032 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys --model TIM3+G4
+  > paup -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys
+  > iqtree -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\muscle_out\muscle-E20231103-041923-0439-15952161-p1m-aln-phylip_sequential_modified.phys -m TIM3+G4
+Done

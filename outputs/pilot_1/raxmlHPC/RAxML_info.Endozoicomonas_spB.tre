@@ -1,0 +1,78 @@
+
+You are using a proportion of Invariable sites estimate, although I don't
+like it. The likelihood epsilon "-f e" will be automatically lowered to 0.001
+to avoid unfavorable effects caused by simultaneous optimization of alpha and P-Invar
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 299 distinct alignment patterns
+
+Found 0 invariant alignment patterns that correspond to 0 columns 
+Proportion of gaps and completely undetermined characters in this alignment: 12.48%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA+P-Invar model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA+P-Invar Model parameters will be estimated up to an accuracy of 0.0010000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 299
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+Base frequencies: ML estimate
+
+
+
+
+RAxML was called as follows:
+
+C:\Users\Kaede\AppData\Local\Programs\raxmlgui\resources\static\bin\raxmlHPC-PTHREADS-SSE3.exe -T 4 -f d -m GTRGAMMAIX -p 512443 -N 1 -O -n Endozoicomonas_spB.tre -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp\Endozoicomonas_sp_modified.phy -w E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp 
+
+
+Partition: 0 with name: No Name Provided
+Initial base frequencies, prior to ML estimate: 0.250 0.250 0.250 0.250 
+
+Inference[0]: Time 3.797073 GAMMA+P-Invar-based likelihood -4566.416877, best rearrangement setting 5
+alpha[0]: 2.870943 invar[0]: 0.761198 rates[0] ac ag at cg ct gt: 0.237912 1.363047 0.475985 0.320684 1.858724 1.000000 ML estimate base freqs[0]: 0.349240 0.296175 0.159617 0.194968 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -4566.405482 tree written to file E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp\RAxML_result.Endozoicomonas_spB.tre
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -4566.405482 .... 
+
+Final GAMMA-based Score of best tree -4566.405482
+
+Program execution info written to E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp\RAxML_info.Endozoicomonas_spB.tre
+Best-scoring ML tree written to: E:\Kaede\Documents\GitHub\BIOL417_CORAL\src\ncbi_downloads\list_16S_sp\RAxML_bestTree.Endozoicomonas_spB.tre
+
+Overall execution time: 4.692602 secs or 0.001304 hours or 0.000054 days
+
