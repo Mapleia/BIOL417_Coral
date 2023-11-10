@@ -1,19 +1,22 @@
 format: jb-book
 root: readme
+options:
+  numbered: true
 parts:
 - caption: Exploring Literature
   chapters:
-    - file: 'src/exploratory/index'
-    - file: 'src/exploratory/literature'
+    - file: 'src/1_exploratory/index'
+    - file: 'src/1_exploratory/datasets'
 - caption: Proposal
   chapters:
-  - file: 'src/proposal'
-  - file: 'src/exploratory/datasets'
-- caption: Tree Search
+  - file: 'src/2_proposal/index'
+  - file: 'src/2_proposal/literature'
+- caption: Pilot analysis
   chapters:
-  - file: 'src/download'
-  - file: 'src/alignment'
-  - file: 'src/tree_finding'
+  - file: 'src/3_pilot_1_2'
+  - file: 'src/3_pilot_3/download'
+    sections:
+    - file: 'src/3_pilot_3/tree_finding'
 - caption: End
   chapters:
   - file: 'src/references'

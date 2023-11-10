@@ -28,43 +28,9 @@ Unfortunately, the sequences were too long to make a reasonable analysis using M
 
 `*` This scaffold-level genome assembly includes 20 scaffolds and no assembled chromosomes.
 
-## Strains to look at
-| Species | Description | Length | Accession | GI |
-| :------ | :---------: | :----- | :-------- | :- |
-| Endozoicomonas **montiporae** strain Ab112_MC | 16S ribosomal RNA (16S) gene, complete sequence | 1,024 bp linear DNA | KJ372452.1 | 646280569 |
-| Endozoicomonas **euniceicola** strain EF212 | 16S ribosomal RNA gene, partial sequence | 1,522 bp linear DNA | JX488684.2 | 590924463 |
-| Endozoicomonas **gorgoniicola** strain PS125 | 16S ribosomal RNA gene, partial sequence | 1,556 bp linear DNA | JX488685.1 | 406364834 |
-| Endozoicomonas **numazuensis** | gene for 16S rRNA, partial sequence | 1,466 bp linear DNA | AB695088.1 | 374346162 |
-| Endozoicomonas **coralli** strain Acr-12 | 16S ribosomal RNA, partial sequence | 1,450 bp linear rRNA | NR_169415.1 | 1864207121 |
-| Endozoicomonas **ascidiicola** strain AVMART05 | 16S ribosomal RNA gene, partial sequence | 1,501 bp linear DNA | KT364257.1 | 1016200855 |
-| Endozoicomonas **atrinae** strain WP70 | 16S ribosomal RNA gene, partial sequence | 1,465 bp linear DNA | KC878324.1 | 499141103 |
-| Endozoicimonas **elysicola**  | gene for 16S ribosomal RNA, partial sequence | 1,437 bp linear DNA | AB196667.1 | 89242029 |
-
-## NCBI 16S rRNA sequences to look at
-16S is a gene used to identify and track bacterial strains / species. Sample datasets were pulled from NCBI.
-
-| Isolate/Strain | Description | Length | Accession | GI |
-| :------------- | :---------: | :----- | :-------- | :- |
-| Endozoicomonas **sp.** Acr-12 | partial 16S rRNA gene, strain Acr-12, isolate Sea coral | 1,450 bp linear DNA | LN879492.1 | 928189784 |
-| Endozoicomonas **sp.** isolate PM28062 | 16S ribosomal RNA gene, partial sequence | 1,408 bp linear DNA | KX780138.1 | 1226602311 |
-| Endozoicomonas **sp.** strain Acr-14 | partial 16S rRNA gene, isolate Sea coral | 1,452 bp linear DNA | LN875493.1 | 916534561 |
-| Endozoicomonas **sp.** Hp36 | 16S ribosomal RNA gene, partial sequence | 1,531 bp linear DNA | MK633876.1 | 1591471162 |
-| Endozoicomonas **sp.** strain LZHN29 | 16S ribosomal RNA gene, partial sequence | 1,550 bp linear DNA | MH201322.1 | 1377517605 |
-| Uncultured Endozoicomonas **sp.** | partial 16S rRNA gene, clone Dpd21_3_44 | 1,473 bp linear DNA | LN626318.1 | 966207698 |
-| Endozoicomonas **sp.** strain XS200 | 16S ribosomal RNA gene, partial sequence | 562 bp linear DNA | OQ618154.1 | 2456913731 |
-
 ## Download
-The following [file](./list_genome.txt) was used as input for the CLI tool [datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/reference-docs/command-line/datasets/) to download the genomes.
+The following [file](../../datasets/genome/list_genome.txt) was used as input for the CLI tool [datasets](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/reference-docs/command-line/datasets/) to download the genomes.
 
-```.ps1
+```ps1
 datasets download genome accession --inputfile src/exploratory/list_genome.txt --filename selected_genomes.zip
-```
-
-I also tested the 16S rRNA sequences, but they were too short to be useful for the analysis. I divided them based on if they had a named taxa (in which case their accession ID is included in [this list](./16S/list_16S.txt)) or if they were unnamed (in which case their accession ID is included in [this list](./16S/list_16S_sp.txt)).
-
-```.ps1
-datasets download gene accession --inputfile src/exploratory/16S/list_16S.txt --filename selected_16S.zip
-```
-```.ps1
-datasets download gene accession --inputfile src/exploratory/16S/list_16S_sp.txt --filename selected_16S_sp.zip
 ```

@@ -14,8 +14,8 @@ bibtex_bibfiles:
 sphinx:
   extra_extensions:
   - sphinxcontrib.drawio
+  recursive_update: true
   config:
-    drawio_builder_export_format: svg
     bibtex_reference_style: author_year
 
 html:
