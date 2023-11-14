@@ -618,8 +618,8 @@ We need to load the metadata into a tabular format to make it easier to find pro
     <span class="n">logger</span><span class="o">.</span><span class="n">info</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Records to save: </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">filtered_recs</span><span class="p">)</span><span class="si">}</span><span class="s2">/</span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">save_records</span><span class="p">)</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
 
     <span class="c1"># Save the records to a file</span>
-    <span class="n">save_file</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">rec_type</span><span class="si">}</span><span class="s2">_nucleotide.gb&quot;</span><span class="p">,</span> <span class="n">filtered_recs</span><span class="p">,</span> <span class="s2">&quot;genbank&quot;</span><span class="p">)</span>
-    <span class="n">save_file</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">rec_type</span><span class="si">}</span><span class="s2">_nucleotide.fasta&quot;</span><span class="p">,</span> <span class="n">filtered_recs</span><span class="p">,</span> <span class="s2">&quot;fasta&quot;</span><span class="p">)</span>
+    <span class="n">save_file</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">rec_type</span><span class="si">}</span><span class="s2">_seq.gb&quot;</span><span class="p">,</span> <span class="n">filtered_recs</span><span class="p">,</span> <span class="s2">&quot;genbank&quot;</span><span class="p">)</span>
+    <span class="n">save_file</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">rec_type</span><span class="si">}</span><span class="s2">_seq.fasta&quot;</span><span class="p">,</span> <span class="n">filtered_recs</span><span class="p">,</span> <span class="s2">&quot;fasta&quot;</span><span class="p">)</span>
 
     <span class="k">return</span> <span class="n">df2</span><span class="p">,</span> <span class="n">filtered_recs</span>
 </pre></div>
@@ -688,6 +688,9 @@ We need to load the metadata into a tabular format to make it easier to find pro
 </div>
 </div>
 </div>
+<p>Metadata table created for the data out of Popset database was saved to <a class="reference download internal" download="" href="../../_downloads/c4b713bda6b76626dd290d15c048a8f6/features_of_popset_seq.csv"><span class="xref download myst">features_of_popset_seq.csv</span></a>.</p>
+<p>Genbank file was saved as <a class="reference download internal" download="" href="../../_downloads/269a6587d9c5e3f95bc2b50c26c5930c/popset_seq.gb"><span class="xref download myst">popset_seq.gb</span></a>.
+Fasta file was saved as <a class="reference download internal" download="" href="../../_downloads/167d597cbb30946eef249571d924c439/popset_seq.fasta"><span class="xref download myst">popset_seq.fasta</span></a>.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Load the metadata, and save the records to a file</span>
@@ -894,7 +897,7 @@ Name: id, dtype: int64
 </section>
 <section id="ncbi-nucleotide-databse">
 <h2>NCBI: Nucleotide databse<a class="headerlink" href="#ncbi-nucleotide-databse" title="Permalink to this heading">#</a></h2>
-<p>While <code class="docutils literal notranslate"><span class="pre">76</span></code> results is absolute enough to work with, I will expand the scope to include more sequences by searching directly through the nucleotide database.</p>
+<p>While <strong>+1500</strong> results is absolute enough to work with, I will expand the scope to include more sequences by searching directly through the nucleotide database.</p>
 <p>I will combine the popset dataset and the findings below, and then remove duplicates.</p>
 <section id="search-in-ncbi-nucleotide">
 <h3>Search in NCBI (Nucleotide)<a class="headerlink" href="#search-in-ncbi-nucleotide" title="Permalink to this heading">#</a></h3>
@@ -1155,6 +1158,9 @@ Name: id, dtype: int64
 </section>
 <section id="summary-of-nucleotide-database">
 <h3>Summary of nucleotide database<a class="headerlink" href="#summary-of-nucleotide-database" title="Permalink to this heading">#</a></h3>
+<p>We will save the metadata from the nucleotide db into <a class="reference download internal" download="" href="../../_downloads/38cd9a99774d715381142e70d57acd76/features_of_nucleotide_seq.csv"><span class="xref download myst">features_of_nucleotide_seq.csv</span></a>.</p>
+<p>Genbank file was saved as <a class="reference download internal" download="" href="../../_downloads/3d450588293e043619449668d2a6134c/nucleotide_seq.gb"><span class="xref download myst">nucleotide_seq.gb</span></a>.
+Fasta file was saved as <a class="reference download internal" download="" href="../../_downloads/63b117e436a6515486bff5a1002ab45d/nucleotide_seq.fasta"><span class="xref download myst">nucleotide_seq.fasta</span></a>.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">pandas</span> <span class="kn">import</span> <span class="n">concat</span>
@@ -1171,6 +1177,7 @@ Name: id, dtype: int64
 </div>
 </div>
 </div>
+<p>We will save the combined metadata to <a class="reference download internal" download="" href="../../_downloads/ce6a343f05a3f59c1a907e3b8d29f3a9/feat_all_seq.csv"><span class="xref download myst">feat_all_seq.csv</span></a>.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">feat_df_all0</span> <span class="o">=</span> <span class="n">concat</span><span class="p">([</span><span class="n">feat_df_nuc0</span><span class="p">,</span> <span class="n">feat_df_pop0</span><span class="p">])</span><span class="o">.</span><span class="n">drop_duplicates</span><span class="p">(</span><span class="n">subset</span><span class="o">=</span><span class="s2">&quot;id&quot;</span><span class="p">)</span>
@@ -1208,14 +1215,15 @@ Name: id, dtype: int64
 </div>
 </div>
 </div>
+<p>The genbank and sequence files of all sequences will be saved to <a class="reference download internal" download="" href="../../_downloads/772a9c8fb5931f08427ebd9fd13789d1/all_seq.gb"><span class="xref download myst">all_seq.gb</span></a> and <a class="reference download internal" download="" href="../../_downloads/6595faf06fb1a9c9f69b3edaad758a29/all_seq.fasta"><span class="xref download myst">all_seq.fasta</span></a> respectively.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">unique_recs</span> <span class="o">=</span> <span class="n">unique</span><span class="p">([</span><span class="n">recs_nuc</span><span class="p">,</span> <span class="n">recs_pop</span><span class="p">],</span> <span class="n">feat_df_all0</span><span class="p">)</span>
 
 <span class="n">logger</span><span class="o">.</span><span class="n">info</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Unique records found: </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">unique_recs</span><span class="p">)</span><span class="si">}</span><span class="s2"> / </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">feat_df_all0</span><span class="p">[</span><span class="s1">&#39;id&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">to_list</span><span class="p">())</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
 <span class="c1"># Save the records to a file</span>
-<span class="n">save_file</span><span class="p">(</span><span class="s2">&quot;all_nucleotide.gb&quot;</span><span class="p">,</span> <span class="n">unique_recs</span><span class="p">,</span> <span class="s2">&quot;genbank&quot;</span><span class="p">)</span>
-<span class="n">save_file</span><span class="p">(</span><span class="s2">&quot;all_nucleotide.fasta&quot;</span><span class="p">,</span> <span class="n">unique_recs</span><span class="p">,</span> <span class="s2">&quot;fasta&quot;</span><span class="p">)</span>
+<span class="n">save_file</span><span class="p">(</span><span class="s2">&quot;all_seq.gb&quot;</span><span class="p">,</span> <span class="n">unique_recs</span><span class="p">,</span> <span class="s2">&quot;genbank&quot;</span><span class="p">)</span>
+<span class="n">save_file</span><span class="p">(</span><span class="s2">&quot;all_seq.fasta&quot;</span><span class="p">,</span> <span class="n">unique_recs</span><span class="p">,</span> <span class="s2">&quot;fasta&quot;</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
