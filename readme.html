@@ -7,7 +7,7 @@
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
     <title>Welcome to BIOL 417 101 Capstone! &#8212; Coral Bleaching - BIOL 417</title>
   
@@ -172,11 +172,16 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Pilot analysis</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="src/3_pilot_1_2.html">Pilot 1 &amp; 2</a></li>
+<li class="toctree-l1"><a class="reference internal" href="src/3_pilot_1_2/index.html">Pilot 1 &amp; 2</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="src/3_pilot_3/download.html">Pilot 3</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="src/3_pilot_3/tree_finding.html">Tree finding</a></li>
 </ul>
 </li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Full analysis</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="src/4_full_analysis/download.html">Final analysis download</a></li>
+<li class="toctree-l1"><a class="reference internal" href="src/4_full_analysis/download_genome.html">Download genomes</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">End</span></p>
 <ul class="nav bd-sidenav">
@@ -372,9 +377,10 @@ document.write(`
 <div class="highlight-ps1 notranslate"><div class="highlight"><pre><span></span><span class="p">./</span><span class="n">scripts</span><span class="p">/</span><span class="n">setup</span><span class="p">.</span><span class="n">ps1</span>
 </pre></div>
 </div>
-<blockquote>
-<div><p>You may run into an error with the powershell script about remote execusion policy. Use <a class="reference external" href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3">this guide</a> to fix this issue. Since this is a security feature, enable with caution.</p>
-</div></blockquote>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>You may run into an error with the powershell script about remote execusion policy. Use <a class="reference external" href="https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3">this guide</a> to fix this issue. Since this is a security feature, enable with caution.</p>
+</div>
 <ol class="arabic simple" start="4">
 <li><p>Install <a class="reference external" href="https://github.com/jgraph/drawio-desktop/releases/tag/v22.0.3">drawio</a>. You can use <a class="reference download internal" download="" href="_downloads/0c628467f62c074f3723673dd19b5576/download_drawio.ps1"><span class="xref download myst">the Powershell script</span></a> if you are on a Windows machine.</p></li>
 </ol>
@@ -388,11 +394,13 @@ document.write(`
 </section>
 <section id="publish">
 <h2>Publish<a class="headerlink" href="#publish" title="Permalink to this heading">#</a></h2>
-<p>Publish the site to github pages using <a class="reference download internal" download="" href="_downloads/103337b429a3ffa036b05918bee5556f/publish.ps1"><span class="xref download myst">the script</span></a> or just run.</p>
+<p>Publish the site to github pages using <a class="reference download internal" download="" href="_downloads/103337b429a3ffa036b05918bee5556f/publish.ps1"><span class="xref download myst">the script</span></a> or just run:</p>
 <div class="highlight-ps1 notranslate"><div class="highlight"><pre><span></span><span class="n">ghp-import</span> <span class="n">-n</span> <span class="n">-p</span> <span class="o">-f</span> <span class="n">_build</span><span class="p">/</span><span class="n">html</span>
 </pre></div>
 </div>
 </section>
+<div class="toctree-wrapper compound">
+</div>
 <div class="toctree-wrapper compound">
 </div>
 <div class="toctree-wrapper compound">

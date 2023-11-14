@@ -14,18 +14,19 @@ Another study that examined coral microbiome by {cite:t}`Leite_2018` looked at t
 
   c) the vertical transmission of microbiome is largely what explains the correlation (legacy imposed by ancestors is what drives composition)
 
-##
+## Project idea
 
 > conformer/regulator X plasmid phylogenetic tree/regular tree
 
 Can the plasmid's phylogenetic tree be a better measure of the coral's microbiome level of "core" bacteria vs "variable" bacteria than the regular phylogenetic tree?
 Use plasmid's phylogenetic tree as a proxy measure for the level of "conformer" / "regulator" a coral's microbiome is?
 
-|   	|  conformer 	|   regulator	|
-|--:	|---	|---	|
-|   plasmid phylogenetic tree	|   	|   	|
-|   regular tree	|   	|   	|
+|   	                        |  conformer 	|   regulator	|
+|--:                         	|---	        |---	        |
+|   plasmid phylogenetic tree	|            	|             |
+|   regular tree	            |            	|           	|
 
+### List of literature to read
 - https://link.springer.com/article/10.1186/s40168-023-01653-4
 - https://www.sciencedirect.com/science/article/pii/S0048969723064306
 - https://www.nature.com/articles/s41396-022-01283-y
