@@ -13,10 +13,14 @@ parts:
   - file: 'src/2_proposal/literature'
 - caption: Pilot analysis
   chapters:
-  - file: 'src/3_pilot_1_2'
+  - file: 'src/3_pilot_1_2/index'
   - file: 'src/3_pilot_3/download'
     sections:
     - file: 'src/3_pilot_3/tree_finding'
+- caption: Full analysis
+  chapters:
+  - file: 'src/full_analysis/download'
+  - file: 'src/full_analysis/download_genome'
 - caption: End
   chapters:
   - file: 'src/references'

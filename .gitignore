@@ -15,3 +15,8 @@ ncbi_dataset.zip
 datasets/**/*.fasta
 !datasets/**/*.txt
 pilot_submission
+
+datasets/full_analysis/refseq
+datasets/full_analysis/*.gb
+
+extra_docs/*.pdf
