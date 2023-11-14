@@ -19,8 +19,8 @@ parts:
     - file: 'src/3_pilot_3/tree_finding'
 - caption: Full analysis
   chapters:
-  - file: 'src/full_analysis/download'
-  - file: 'src/full_analysis/download_genome'
+  - file: 'src/4_full_analysis/download'
+  - file: 'src/4_full_analysis/download_genome'
 - caption: End
   chapters:
   - file: 'src/references'
