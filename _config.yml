@@ -3,6 +3,7 @@ author: Kaede Ito
 execute:
   execute_notebooks: cache
   allow_errors: true
+  timeout: 180
 
 exclude_patterns:
   - .venv/*
