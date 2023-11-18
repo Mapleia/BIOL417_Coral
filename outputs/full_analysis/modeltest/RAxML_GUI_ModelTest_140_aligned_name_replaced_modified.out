@@ -1,0 +1,180 @@
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta
+  Tree:       Maximum parsimony
+    file:           -
+  #taxa:            140
+  #sites:           1722
+  #patterns:        1016
+  Max. thread mem:  69 MB
+
+Output:
+  Log:           E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\modeltest\RAxML_GUI_ModelTest_140_aligned_name_replaced_modified.log
+  Starting tree: E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\modeltest\RAxML_GUI_ModelTest_140_aligned_name_replaced_modified.tree
+  Results:       E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\modeltest\RAxML_GUI_ModelTest_140_aligned_name_replaced_modified.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          2/2
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM3+I+G4          8    -13556.7433     29237.0906         0.0000    0.8766
+       2  GTR+I+G4          10    -13551.2593     29241.0249         3.9344    0.1226
+       3  TPM3uf+I+G4        7    -13568.3552     29252.8631        15.7725    0.0003
+       4  TIM2+I+G4          8    -13564.7215     29253.0469        15.9563    0.0003
+       5  TrN+I+G4           7    -13569.4522     29255.0570        17.9664    0.0001
+       6  TVM+I+G4           9    -13562.2951     29255.6454        18.5548    0.0001
+       7  TPM3+I+G4          4    -13582.0613     29257.9215        20.8309    0.0000
+       8  TIM1+I+G4          8    -13568.4374     29260.4786        23.3881    0.0000
+       9  TIM3ef+I+G4        5    -13579.9210     29261.0921        24.0015    0.0000
+      10  TIM3+G4            7    -13574.7194     29265.5914        28.5009    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              TIM3+I+G4
+lnL:                -13556.7433
+Frequencies:        0.2569 0.2308 0.2998 0.2125
+Subst. Rates:       0.5768 1.6902 1.0000 0.5768 2.8696 1.0000 
+Inv. sites prop:    0.2348
+Gamma shape:        0.4917
+Score:              29237.0906
+Weight:             0.8766
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.4279
+Alpha:              0.3331
+Alpha-P.Inv:        0.4873
+P.Inv-Alpha:        0.2312
+Frequencies:        0.2554 0.2308 0.3013 0.2125 
+
+Commands:
+  > phyml  -i E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta -m 012032 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta --model TIM3+I+G4
+  > paup -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta
+  > iqtree -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta -m TIM3+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10    -13551.2593     27676.5186         0.0000    0.9702
+       2  TIM3+I+G4          8    -13556.7433     27683.4867         6.9681    0.0298
+       3  TVM+I+G4           9    -13562.2951     27696.5903        20.0717    0.0000
+       4  TIM2+I+G4          8    -13564.7215     27699.4430        22.9244    0.0000
+       5  TPM3uf+I+G4        7    -13568.3552     27704.7104        28.1918    0.0000
+       6  TIM1+I+G4          8    -13568.4374     27706.8748        30.3562    0.0000
+       7  TrN+I+G4           7    -13569.4522     27706.9043        30.3858    0.0000
+       8  GTR+G4             9    -13567.9321     27707.8641        31.3456    0.0000
+       9  TIM3+G4            7    -13574.7194     27717.4388        40.9202    0.0000
+      10  TPM2uf+I+G4        7    -13577.1502     27722.3005        45.7819    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -13551.2593
+Frequencies:        0.2449 0.2313 0.3116 0.2122
+Subst. Rates:       0.8066 1.8787 1.2451 0.5055 3.1632 1.0000 
+Inv. sites prop:    0.2055
+Gamma shape:        0.4563
+Score:              27676.5186
+Weight:             0.9702
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.4376
+Alpha:              0.3285
+Alpha-P.Inv:        0.4574
+P.Inv-Alpha:        0.2064
+Frequencies:        0.2453 0.2312 0.3112 0.2122 
+
+Commands:
+  > phyml  -i E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta --model GTR+I+G4
+  > paup -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta
+  > iqtree -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta -m GTR+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10    -13551.2593     27791.5186         0.0000    0.9229
+       2  TIM3+I+G4          8    -13556.7433     27796.4867         4.9681    0.0770
+       3  TVM+I+G4           9    -13562.2951     27810.5903        19.0717    0.0001
+       4  TIM2+I+G4          8    -13564.7215     27812.4430        20.9244    0.0000
+       5  TPM3uf+I+G4        7    -13568.3552     27816.7104        25.1918    0.0000
+       6  TrN+I+G4           7    -13569.4522     27818.9043        27.3858    0.0000
+       7  TIM1+I+G4          8    -13568.4374     27819.8748        28.3562    0.0000
+       8  GTR+G4             9    -13567.9321     27821.8641        30.3456    0.0000
+       9  TIM3+G4            7    -13574.7194     27829.4388        37.9202    0.0000
+      10  TIM3ef+I+G4        5    -13579.9210     27833.8419        42.3233    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              GTR+I+G4
+lnL:                -13551.2593
+Frequencies:        0.2449 0.2313 0.3116 0.2122
+Subst. Rates:       0.8066 1.8787 1.2451 0.5055 3.1632 1.0000 
+Inv. sites prop:    0.2055
+Gamma shape:        0.4563
+Score:              27791.5186
+Weight:             0.9229
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0000
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.4347
+Alpha:              0.3286
+Alpha-P.Inv:        0.4590
+P.Inv-Alpha:        0.2078
+Frequencies:        0.2459 0.2312 0.3107 0.2122 
+
+Commands:
+  > phyml  -i E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta --model GTR+I+G4
+  > paup -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta
+  > iqtree -s E:\Kaede\Documents\GitHub\BIOL417_CORAL\outputs\full_analysis\muscle\140_aligned_name_replaced_modified.fasta -m GTR+I+G4
+Done
