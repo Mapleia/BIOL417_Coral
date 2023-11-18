@@ -20,3 +20,5 @@ datasets/full_analysis/refseq
 datasets/full_analysis/*.gb
 
 extra_docs/*.pdf
+packrat/lib*/
+.Rproj.user

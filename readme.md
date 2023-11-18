@@ -9,6 +9,8 @@ This is a phylogeny focused project examining corals and their microbiome.
 ```ps1
 ./scripts/setup.ps1
 ```
+3. Install [R](https://cran.r-project.org/) and [RTools](https://cran.r-project.org/bin/windows/Rtools/).
+4. Run the R environment [setup script](./scripts/setup.R).
 
 ```{warning} You may run into an error with the powershell script about remote execusion policy. Use [this guide](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3) to fix this issue. Since this is a security feature, enable with caution.
 ```
@@ -18,7 +20,7 @@ This is a phylogeny focused project examining corals and their microbiome.
 ## Building
 Run [the script](./scripts/build.ps1).
 ```ps1
-.\scripts\build.ps1
+./scripts/build.ps1
 ```
 
 ## Publish
