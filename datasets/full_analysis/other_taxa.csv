@@ -1,0 +1,7 @@
+type,taxa_id,accession_id,name,reason,source,latlng,date,doi
+gene,txid517724,,Kistimonas asteriae,different genus same family,Asterias amurensis,37°13'24.2"N 129°20'56.4"E,2007-04-01,10.1099/ijs.0.014282-0
+gene,txid1960125,,Parendozoicomonas haliclonae,different genus same family, Haliclona sp.,50°34'08″N 8°40'22″E,2016-01-16,10.1016/j.syapm.2017.11.004
+gene,txid1541440,,Salinicola acroporae,found in coral, Acropora digitifera,11°42'17.4″N; 92°45'01.5″E,2010-11-01,10.1007/s10482-015-0464-9
+gene,txid2172824,,Sansalvadorimonas verongulae,found in sponge,Verongula gigantea,24.0776°N 74.476°W,2013-06-01,10.1099/ijsem.0.002781
+gene,txid2304602,,Halomonas coralii,found in coral, Mussismilia braziliensis,17°57'48″S 38°41'30″Z,2015-01-01,10.1007/s00284-019-01674-z
+gene,txid2592383,,Aliikangiella coralliicola,found in coral, Porites lutea,21°03'42""N 109°08'35"E,2019-06-01,10.1099/ijsem.0.004489
