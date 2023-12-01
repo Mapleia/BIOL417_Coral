@@ -24,3 +24,5 @@ packrat/lib*/
 .Rproj.user
 *.trees.txt
 outputs/full_analysis/BEAST/*.tree
+
+.Rhistory
