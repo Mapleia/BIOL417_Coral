@@ -1,4 +1,4 @@
->KC669007.1 Uncultured_bacterium_clone_14A07 2009-06-01
+>KC669007.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGC-C-TGACCACTCTCGAGTG---GTTCAG-----
 --------GTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -28,7 +28,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGTTAGTCTAAC-
 CCT------------C--G-GGAG---GACGATTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->OL957503.1 Uncultured_Endozoicomonas_sp._clone_OS2-1-3 2017-10-01
+>OL957503.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -58,7 +58,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACT--------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------C
->FJ347758.1 Endozoicomonas_montiporae_CL-33 2009-08-01
+>FJ347758.1
 ------------------------------------------------------------
 TGC---AAGTCGAGCGGTAACA--GAA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -88,7 +88,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGCTAGTCTAAC-
 CTT------------C--G-GGAG---GACGGTCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAA----------------------------G
->OL957508.1 Uncultured_Endozoicomonas_sp._clone_OS2-3-1 2017-10-01
+>OL957508.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -118,7 +118,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->JQ691566.1 Uncultured_bacterium_clone_B12 2010-06-01
+>JQ691566.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGCAACGCGTAGG-AAT-TTGCCCGA
@@ -148,7 +148,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGCTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635442.1 Uncultured_Endozoicomonas_sp._clone_T679U3327 2014-07-17
+>JN635442.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -178,7 +178,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGC--------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->KC668829.1 Uncultured_bacterium_clone_05A07 2009-06-01
+>KC668829.1
 -----------TAGAGTTTGATCCTGGCTCAGGATGAACGCTGGCGGCGTGCTTAACACA
 TGC---AAGTCGAGCGAGAAGG--TTA-T-GA-C-----------T---GATTCTTCGGA
 TGAAGGAATAACTGGAAAGCG--GCGGACGGGTGAGTAACGCGTGGGTAAC-CTGCCTTG
@@ -208,7 +208,7 @@ TGGAGTTGC-TAGTAATCGCGGATCAGA-ATGT-CGCGGTGAATGCGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCACGGA-AGTTG-GGGGCACCCGAAGTCAGCTATCTAACT
 TTT------------T--A-AGAG---GAAGCTGCCGAAGGTGAAGTCAATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KF428156.1 Uncultured_Endozoicomonas_sp._clone_PH-C5-P 2010-06-01
+>KF428156.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -238,7 +238,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->JQ691570.1 Uncultured_bacterium_clone_B16 2010-06-01
+>JQ691570.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACGCGCAGG-AAT-TTGCCCGA
@@ -268,7 +268,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCTTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635440.1 Uncultured_Endozoicomonas_sp._clone_T679U3556 2014-07-17
+>JN635440.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -298,7 +298,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAG------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------G---------------------A
->KC668414.1 Uncultured_bacterium_clone_P3-A02 2009-06-01
+>KC668414.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -328,7 +328,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KM360464.1 Endozoicomonas_sp._SF204 2010-05-01
+>KM360464.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -358,7 +358,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCAGG--------------------
 -----------------------------------------G
->KF428138.1 Uncultured_Endozoicomonas_sp._clone_PH-LH7-29H 2010-06-01
+>KF428138.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -388,7 +388,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->JQ691569.1 Uncultured_bacterium_clone_B15 2010-06-01
+>JQ691569.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACGCGTAGG-AAT-TTGCCCGA
@@ -418,7 +418,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCTTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668583.1 Uncultured_bacterium_clone_P2-C04 2009-06-01
+>KC668583.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAATCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -448,7 +448,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->OL957477.1 Uncultured_Endozoicomonas_sp._clone_KS1-1-10 2017-09-01
+>OL957477.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -478,7 +478,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TA----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->KC669009.1 Uncultured_bacterium_clone_14A11 2009-06-01
+>KC669009.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCATGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGC-C-TGACCACTCTCGAGTG---GTTCAG-----
 --------GCGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -508,7 +508,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGTTAGTCTAAC-
 CGT------------A--A-GGGG---GACGATTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAA-C---------------------A
->KF428128.1 Uncultured_Endozoicomonas_sp._clone_PH-C2-44C 2010-06-01
+>KF428128.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -538,7 +538,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->KC668579.1 Uncultured_bacterium_clone_P4-A12 2009-06-01
+>KC668579.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -568,7 +568,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->MW540619.1 Endozoicomonas_sp._strain_G2_2 2018-05-15
+>MW540619.1
 C--------TGAAGAGTTTGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -598,7 +598,7 @@ GAGCATGTGGTTTAATTCGAAGCAACGCGA-AGAACCTTACCTG-GCCTTGACATCC---
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------T
->KC668420.1 Uncultured_bacterium_clone_P3-C03 2009-06-01
+>KC668420.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -628,7 +628,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->OL957506.1 Uncultured_Endozoicomonas_sp._clone_OS2-2-3 2017-10-01
+>OL957506.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -658,7 +658,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACTCACCGCCC------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->KC668826.1 Uncultured_bacterium_clone_05A04 2009-06-01
+>KC668826.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCATGCCTTACACA
 TGC---AAGTCGAACGGCAGCA--CGG-G-GG------------------CAACC-----
 --------CTGGTGGCGAGTG--GCGAACGGGTGAGTAATACATCGG-AAC-GTGTCCTG
@@ -688,7 +688,7 @@ TGGAATCGC-TAGTAATCGCGGATCAGC-ATGC-CGCGGTGAATACGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTTTACCAGAAGTGGCTAGTCTAAC-
 CGC------------A--A-GGAG---GACGGTCACCACGGTAGGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JQ691565.1 Uncultured_bacterium_clone_B11 2010-06-01
+>JQ691565.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACGCGTAGG-AAT-TTGCCCGA
@@ -718,7 +718,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCTTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC669008.1 Uncultured_bacterium_clone_14A10 2009-06-01
+>KC669008.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGC-C-TGACCACTCTCGAGTG---GTTCAG-----
 --------GTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -748,7 +748,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGTTAGTCTAAC-
 CGC------------A--A-GGGG---GACGATTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC669004.1 Uncultured_bacterium_clone_14A04 2009-06-01
+>KC669004.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -778,7 +778,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGTTAGTCTAAC-
 CGC------------A--A-GGGG---GACGATTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JQ691568.1 Uncultured_bacterium_clone_B14 2010-06-01
+>JQ691568.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACGCGTAGG-AAT-TTGCCCGA
@@ -808,7 +808,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCTTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668419.1 Uncultured_bacterium_clone_P3-B11 2009-06-01
+>KC668419.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -838,7 +838,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668831.1 Uncultured_bacterium_clone_05A09 2009-06-01
+>KC668831.1
 -----------TAGAGTTTGATCCTGGCTCAGGATGAACGCTGGCGGCGTGCTTAACACA
 TGC---AAGTCGAGCGAGAAGG--TTA-T-GA-C-----------T---GATTCTTCGGA
 TGAAGGAATAACTGGAAAGCG--GCGGACGGGTGAGTAACGCGTGGGTAAC-CTGCCTTG
@@ -868,7 +868,7 @@ TGGAGTTGC-TAGTAATCGCGGATCAGA-ATGT-CGCGGTGAATGCGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCACGGA-AGTTG-GGGGCACCCGAAGTCAGCTATCTAACT
 TTT------------T--A-AGAG---GAAGCTGCCGAAGGTGAAATCAATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668576.1 Uncultured_bacterium_clone_P4-F01 2009-06-01
+>KC668576.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACG
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -898,7 +898,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTGTCTTTTAGGAGAT--G-GGAG---GGCGATCACCACGGAGTGATTCATGATTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->OL957509.1 Uncultured_Endozoicomonas_sp._clone_OS2-3-2 2017-10-01
+>OL957509.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -928,7 +928,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->OL957474.1 Uncultured_Endozoicomonas_sp._clone_KS1-1-1 2017-09-01
+>OL957474.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -958,7 +958,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TA----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->OL957504.1 Uncultured_Endozoicomonas_sp._clone_OS2-2-1 2017-10-01
+>OL957504.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -988,7 +988,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACTCACCGCCC------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->JQ691573.1 Uncultured_bacterium_clone_B6 2010-06-01
+>JQ691573.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACGCGTAGG-AAT-TTGCCCGA
@@ -1018,7 +1018,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCTTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635448.1 Uncultured_Endozoicomonas_sp._clone_T679U3196 2014-07-17
+>JN635448.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1048,7 +1048,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCC----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->JX488684.2 Endozoicomonas_euniceicola_strain_EF212 2009-06-01
+>JX488684.2
 -----------AGAGTTTTGGATCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1078,7 +1078,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGCTAGTCTAAC-
 CTT------------C--G-GGAG---GACGGTCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAGCC-----CTAGGGGAACCTGCGGC
->KC668830.1 Uncultured_bacterium_clone_05A08 2009-06-01
+>KC668830.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGC-C-TGACCACTCTCGAGTG---GTTCAG-----
 --------GTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1108,7 +1108,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGTTAGTCTAAC-
 CGC------------A--A-GGGG---GACGATTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668824.1 Uncultured_bacterium_clone_05A02 2009-06-01
+>KC668824.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCATGCCTTACACA
 TGC---AAGTCGAACGGCAGCA--CGG-G-GG------------------CAACC-----
 --------CTGGTGGCGAGTG--GCGAACGGGTGAGTAATACATCGG-AAC-GTGTCCTG
@@ -1138,7 +1138,7 @@ TGGAATCGC-TAGTAATCGCGGATCAGC-ATGC-CGCGGTGAATACGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTTTACCAGAAGTGGCTAGTCTAAC-
 CGC------------A--A-GGAG---GACGGTCACCACGGTAGGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->MG725760.1 Uncultured_bacterium_clone_Otu00017 2014-11-01
+>MG725760.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1168,7 +1168,7 @@ GGTGCTGCATGGCTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->JN635419.1 Uncultured_Endozoicomonas_sp._clone_T679U4172 2007-06-01
+>JN635419.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1198,7 +1198,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAGG-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------A---------------------A
->OL957478.1 Uncultured_Endozoicomonas_sp._clone_KS1-2-1 2017-09-01
+>OL957478.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1228,7 +1228,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACT--------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------C
->KF428127.1 Uncultured_Endozoicomonas_sp._clone_PH-C2-52B 2010-06-01
+>KF428127.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1258,7 +1258,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->KC668580.1 Uncultured_bacterium_clone_P4-H01 2009-06-01
+>KC668580.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1288,7 +1288,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->OL957510.1 Uncultured_Endozoicomonas_sp._clone_OS2-4-1 2017-10-01
+>OL957510.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1318,7 +1318,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 CAC---------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->AB695089.1 Endozoicomonas_numazuensis_gene_for 2001-06-01
+>AB695089.1
 --------------------------------ATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GAA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCAG
@@ -1348,7 +1348,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTCACCACGGAGTGATTCATGACTGGGGT
 GAA--------------------------------------G
->JN635421.1 Uncultured_Endozoicomonas_sp._clone_T679U4214 2007-06-01
+>JN635421.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GA-C-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1378,7 +1378,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAGA-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------G---------------------A
->KC668581.1 Uncultured_bacterium_clone_P2-C05 2009-06-01
+>KC668581.1
 CGAATTCAGATTAGAGTTTGATCCTGGCTCACATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1408,7 +1408,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->MG725763.1 Uncultured_bacterium_clone_Otu00021 2014-11-01
+>MG725763.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1438,7 +1438,7 @@ GGTGGTGCATGGTTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->OL957482.1 Uncultured_Endozoicomonas_sp._clone_KS4-1-1C 2017-09-01
+>OL957482.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1468,7 +1468,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 T-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->OL957481.1 Uncultured_Endozoicomonas_sp._clone_KS1-3-1 2017-09-01
+>OL957481.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1498,7 +1498,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 CAC---------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->KC668416.1 Uncultured_bacterium_clone_P3-B03 2009-06-01
+>KC668416.1
 --------------TGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1528,7 +1528,7 @@ CGGAATCGC-TAGTAATCGCGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635437.1 Uncultured_Endozoicomonas_sp._clone_T679U192 2014-04-01
+>JN635437.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1558,7 +1558,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGC--------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->JN635447.1 Uncultured_Endozoicomonas_sp._clone_T679U3533 2014-07-17
+>JN635447.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1588,7 +1588,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAG------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------G---------------------A
->MG725762.1 Uncultured_bacterium_clone_Otu00020 2014-11-01
+>MG725762.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1618,7 +1618,7 @@ GGTGGTGCATGGCTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->KC668418.1 Uncultured_bacterium_clone_P3-B08 2009-06-01
+>KC668418.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1648,7 +1648,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668575.1 Uncultured_bacterium_clone_P2-C07 2009-06-01
+>KC668575.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1678,7 +1678,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635453.1 Uncultured_Endozoicomonas_sp._clone_T679U3303 2014-07-17
+>JN635453.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1708,7 +1708,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCA-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->MG725756.1 Uncultured_bacterium_clone_Otu00001 2014-11-01
+>MG725756.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1738,7 +1738,7 @@ GGTGCTGCATGGCTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->KC669000.1 Uncultured_bacterium_clone_12H07_M13F 2009-06-01
+>KC669000.1
 -----------TAGAGTTTGATCCTGGCTCAGAATGAACGCTGGCGGCGTGGATAAGACA
 TGC---AAGTCGAACGAAGAAG--GAA-T-TAGT-----------T---TACTAA-----
 --------TAAATTCTTAGTG--GCGGACGGGTTAGTAACGCGTGAGCAAC-TTGCCTTA
@@ -1768,7 +1768,7 @@ TGTGGGCAGGTTCGA---------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------GC---------------------C
->OM273412.1 Endozoicomonas_gorgoniicola_strain_GFK69 2019-10-01
+>OM273412.1
 ------------------------------------------------------------
 ------------------------------TAGC-----------T---TGCTAK-----
 --------YTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1798,7 +1798,7 @@ CGGAATCGC-TAGTAATCGTGAATCAG---------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->KC668832.1 Uncultured_bacterium_clone_05A10 2009-06-01
+>KC668832.1
 -----------TAGAGTTTGATCCTGGCTCAGGATGAACGCTGGCGGCGTGCTTAACACA
 TGC---AAGTCGAGCGAGAAGG--TTA-T-GA-C-----------T---GATTCTTCGGA
 TGAAGGAATAACTGGAAAGCG--GCGGACGGGTGAGTAACGCGTGGGTAAC-CTGCCTTG
@@ -1828,7 +1828,7 @@ TGGAGTTGC-TAGTAATCGCGGATCAGA-ATGT-CGCGGTGAATGCGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCACGGA-AGTTG-GGGGCACCCGAAGTCAGCTATCTAACT
 TTT------------T--A-AGAG---GAAGCTGCCGAAGGTGAAATCAATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->FJ930289.1 Uncultured_bacterium_clone_C7-A01c 2009-04-01
+>FJ930289.1
 ----------------------------------------------------------CA
 TG----CAGTCGGGCGGTAACA--GGR-R-RWGC-----------T---TGCWYY-----
 --------YYGCTGACGAGCG--GCGGACGGGTGAGTAATGCATAGG-AAT-CTGCCTGR
@@ -1858,7 +1858,7 @@ CGGAATCGC-TAGTAATCGCAAATCAGA-ATGT-TGCGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGTTAGTCTAAC-
 CCT------------C--G-GGAG---GACGATACC------------------------
 ------------------------------------------
->KF428149.1 Uncultured_Endozoicomonas_sp._clone_PH-C5-45M 2010-06-01
+>KF428149.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1888,7 +1888,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->JN635445.1 Uncultured_Endozoicomonas_sp._clone_T679U6 2014-04-01
+>JN635445.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -1918,7 +1918,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCA-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------G---------------------A
->LN875493.1 Endozoicomonas_sp._Acr-14_partial 2015-07-01
+>LN875493.1
 ------------------------------------------------------------
 --------GTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -1948,7 +1948,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCG-----------------------------------
->KC668421.1 Uncultured_bacterium_clone_P3-C06 2009-06-01
+>KC668421.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGCAACGCGTAGG-AAT-CTGCCCGG
@@ -1978,7 +1978,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->OL957511.1 Uncultured_Endozoicomonas_sp._clone_OS2-4-2 2017-10-01
+>OL957511.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2008,7 +2008,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 CAC---------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->KF428153.1 Uncultured_Endozoicomonas_sp._clone_PH-C5-LH5-O2 2010-06-01
+>KF428153.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2038,7 +2038,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGC-CACGGTGAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->KC668582.1 Uncultured_bacterium_clone_P4-C01 2009-06-01
+>KC668582.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2068,7 +2068,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TGCACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->OL957475.1 Uncultured_Endozoicomonas_sp._clone_KS1-1-2 2017-09-01
+>OL957475.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2098,7 +2098,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TA----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->JN635439.1 Uncultured_Endozoicomonas_sp._clone_T679U3312 2014-07-17
+>JN635439.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2128,7 +2128,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGG----------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->JN635444.1 Uncultured_Endozoicomonas_sp._clone_T679U122 2014-04-01
+>JN635444.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2158,7 +2158,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGC--------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->JN635424.1 Uncultured_Endozoicomonas_sp._clone_T679U3321 2007-06-01
+>JN635424.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GA-C-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2188,7 +2188,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGC--------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->JN635446.1 Uncultured_Endozoicomonas_sp._clone_T679U113 2014-04-01
+>JN635446.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2218,7 +2218,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGC--------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->JN635420.1 Uncultured_Endozoicomonas_sp._clone_T679U3170 2007-06-01
+>JN635420.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -2248,7 +2248,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGG----------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->OL957507.1 Uncultured_Endozoicomonas_sp._clone_OS2-2-6 2017-10-01
+>OL957507.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2278,7 +2278,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACTCACCGCCC------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->KC668828.1 Uncultured_bacterium_clone_05A06 2009-06-01
+>KC668828.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCATGCCTTACACA
 TGC---AAGTCGAACGGCAGCA--CGG-G-GG------------------CAACC-----
 --------CTGGTGGCGAGTG--GCGAACGGGTGAGTAATACATCGG-AAC-GTGTCCTG
@@ -2308,7 +2308,7 @@ TGGAATCGC-TAGTAATCGCGGATCAGC-ATGC-CGCGGTGAATACGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTTTACCAGAAGTGGCTAGTCTAAC-
 CGC------------A--A-GGAG---GACGGTCACCACGGTAGGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->MG896169.1 Endozoicomonas_sp._strain_UMTGB101 2012-10-01
+>MG896169.1
 ------------------------------------------------------------
 --G---CAGTCGAGCGGTAACA--GGG-A-AAGC-----------T---TGCTTT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -2338,7 +2338,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CT-------------C--G-GGAG---GGCGATCA-------------------------
 ------------------------------------------
->KF428139.1 Uncultured_Endozoicomonas_sp._clone_PH-C5-I 2010-06-01
+>KF428139.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2368,7 +2368,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTAAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->MG725759.1 Uncultured_bacterium_clone_Otu00015 2014-11-01
+>MG725759.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2398,7 +2398,7 @@ GGTGCTGCATGGCTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->KF428146.1 Uncultured_Endozoicomonas_sp._clone_PH-LH5-75K1 2010-06-01
+>KF428146.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2428,7 +2428,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->MG725764.1 Uncultured_bacterium_clone_Otu00023 2014-11-01
+>MG725764.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2458,7 +2458,7 @@ GGTGCTGCATGGCTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->JN635423.1 Uncultured_Endozoicomonas_sp._clone_T679U3602 2007-06-01
+>JN635423.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GA-C-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2488,7 +2488,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAG------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------G---------------------A
->JN635441.1 Uncultured_Endozoicomonas_sp._clone_T679U163 2014-04-01
+>JN635441.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2518,7 +2518,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCA-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------G---------------------A
->JQ691564.1 Uncultured_bacterium_clone_B10 2010-06-01
+>JQ691564.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACGCGTAGG-AAT-TTGCCCGA
@@ -2548,7 +2548,7 @@ CGGGATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCTTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668423.1 Uncultured_bacterium_clone_P7-H05 2009-06-01
+>KC668423.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2578,7 +2578,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->MG725758.1 Uncultured_bacterium_clone_Otu00006 2014-11-01
+>MG725758.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2608,7 +2608,7 @@ GGTGTTGCATGGCTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->KC668823.1 Uncultured_bacterium_clone_05A01 2009-06-01
+>KC668823.1
 -------------GAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGC-C-TGACCACTCTCGAGTG---GTTCAG-----
 --------GCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2638,7 +2638,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTTTACCAGAAGTGGCTAGTCTAAC-
 CGC------------A--A-GGAG---GACGGTCACCACGGTAGGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->HM804435.1 Endozoicimonas_sp._5U3,1_2 2008-07-01
+>HM804435.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2668,7 +2668,7 @@ TGGGGAGCAAACAGGATTAGATACCCTGGTAGTCCACGCCGTAAACGATGTCTACT----
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->MG725765.1 Uncultured_bacterium_clone_Otu00024 2014-11-01
+>MG725765.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2698,7 +2698,7 @@ GGTGCTGCATGGTTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->OL957476.1 Uncultured_Endozoicomonas_sp._clone_KS1-1-3 2017-09-01
+>OL957476.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2728,7 +2728,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TA----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->JN635452.1 Uncultured_Endozoicomonas_sp._clone_T679U3613 2014-07-17
+>JN635452.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2758,7 +2758,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCA-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------G---------------------A
->KC669001.1 Uncultured_bacterium_clone_12H09_M13F 2009-06-01
+>KC669001.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2788,7 +2788,7 @@ TGGAATCGC-TAGTAATCGCGGATCAGC-ATGC-CGCGGTGAATACGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTTTACCAGAAGTGGCTAGTCTAAC-
 CGC------------A--A-GGAG---GACGGTCACCACGGTAGGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635416.1 Uncultured_Endozoicomonas_sp._clone_T679U3361 2007-06-01
+>JN635416.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GA-C-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2818,7 +2818,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAG------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------A---------------------A
->JQ691572.1 Uncultured_bacterium_clone_B3 2010-06-01
+>JQ691572.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACGCGTAGG-AAT-TTGCCCGA
@@ -2848,7 +2848,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCTTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668825.1 Uncultured_bacterium_clone_05A03 2009-06-01
+>KC668825.1
 -----------TAGAGTTTGATCCTGGCTCAGGATGAACGCTGGCGGCGTGCTTAACACA
 TGC---AAGTCGAGCGAGAAGG--TTA-T-GA-C-----------T---GATTCTTCGGA
 TGAAGGAATAACTGGAAAGCG--GCGGACGGGTGAGTAACGCGTGGGTAAC-CTGCCTTG
@@ -2878,7 +2878,7 @@ TGGAGTTGC-TAGTAATCGCGGATCAGA-ATGT-CGCGGTGAATGCGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCACGGA-AGTTG-GGGGCACCCGAAGTCAGCTATCTAACT
 TTT------------T--A-AGAG---GAAGCTGCCGAAGGTGAAATCAATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668422.1 Uncultured_bacterium_clone_P7-G09 2009-06-01
+>KC668422.1
 -----------TAGAGTTTGATCCTGGCTCAGAACGAACGCTTGCGGCAGGCCTAACACA
 TGC---AAGTCGAACGGTGGAG--GGG-C-TT-C-----------G---G----------
 --------CCTCTTCATAGTG--GCGAACGGGTGCGTAACACGTGGG-AAC-ATACCCAT
@@ -2908,7 +2908,7 @@ CGGAATCGC-TAGTAATCGCAGATCAGC-ATGC-TGCGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTTG-GCATTGCCTTAAGGCGGTGTTCTAAC-
 CAC------------G--CGAGTGGAAGTATCCGACCACGGTAGTGTTAGCGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->OL957505.1 Uncultured_Endozoicomonas_sp._clone_OS2-2-2 2017-10-01
+>OL957505.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2938,7 +2938,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACTCACCGCC-------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------C
->KC668578.1 Uncultured_bacterium_clone_P4-B10 2009-06-01
+>KC668578.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -2968,7 +2968,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->MW540618.1 Endozoicomonas_sp._strain_G2_1 2018-05-15
+>MW540618.1
 C--------TGAAGAGTTTGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -2998,7 +2998,7 @@ GAACT--TT-CTAGAGATA-----------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->KC669003.1 Uncultured_bacterium_clone_14A03 2009-06-01
+>KC669003.1
 ------------------------------------------------------------
 TGC---AAGTCGAACGGCAGCA--CGG-G-GG------------------CAACC-----
 --------CTGGTGGCGAGTG--GCGAACGGGTGAGTAATACATCGG-AAC-GTGTCCTG
@@ -3028,7 +3028,7 @@ TGGAATCGC-TAGTAATCGCGGATCAGC-ATGC-CGCGGTGAATACGTTCCCGGGTCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTTTACCAGAAGTGGCTAGTCTAAC-
 CGC------------A--A-GGAG---GACGGTCACCACGGTAGGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JQ691567.1 Uncultured_bacterium_clone_B13 2010-06-01
+>JQ691567.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACGCGTAGG-AAT-TTGCCCGA
@@ -3058,7 +3058,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CGCGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCTTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635438.1 Uncultured_Endozoicomonas_sp._clone_T679U3381 2014-07-17
+>JN635438.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3088,7 +3088,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAG------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------A---------------------A
->OL957480.1 Uncultured_Endozoicomonas_sp._clone_KS1-2-4 2017-09-01
+>OL957480.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3118,7 +3118,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACTC-------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->KC669002.1 Uncultured_bacterium_clone_14A01 2009-06-01
+>KC669002.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGC-C-TGACCACTCTTGAGTG---GTTCAG-----
 --------GCGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3148,7 +3148,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGTTAGTCTAAC-
 CGC------------A--A-GGGG---GACGATTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->MG896199.1 Endozoicomonas_sp._strain_UMTGB213 2012-10-01
+>MG896199.1
 ------------------------------------------------------------
 ---------------GGTAACA--GGG-A-AAGC-----------T---TGCTTT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -3178,7 +3178,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGC------------------------------
 -----------------------------------------G
->JN635417.1 Uncultured_Endozoicomonas_sp._clone_T679U3917 2007-06-01
+>JN635417.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GA-C-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3208,7 +3208,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAGG-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------A---------------------A
->KM360460.1 Endozoicomonas_sp._SF102 2010-05-01
+>KM360460.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3238,7 +3238,7 @@ GAACT--TT-CTAGAGATAGA-TT-GGTGC-----C-TTC--GGGA-AC-GCA-GT----
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->KC668827.1 Uncultured_bacterium_clone_05A05 2009-06-01
+>KC668827.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCATGCCTTACACA
 TGC---AAGTCGAACGGCAGCA--CGG-G-GG------------------CAACC-----
 --------CTGGTGGCGAGTG--GCGAACGGGTGAGTAATACATCGG-AAC-GTGTCCTG
@@ -3268,7 +3268,7 @@ TGGAATCGT-TAGTAATCGTGGATCAGC-ATGC-CGCGGTGAATACGTTCCCGGGTCTTG
 TACACCCCCCCCG-TCACACCATGGG-AGTGG-GTTTTACCAGAAGTGGTTAGTCTAAC-
 CGC------------A--A-GGAG---GACGGTCACCACGGTAGGATT------------
 -----------------------------------------C
->KC669006.1 Uncultured_bacterium_clone_14A06 2009-06-01
+>KC669006.1
 -----------TAGAGTTTGATCCTGGCTCAGGACGAACGCTGGCGGCGCGCTTCATCCA
 TGC---AAGTCGAACGAACCCG--AG-----TCT-----------T---CGGTCT-----
 --------CAACGGGAAAGTG--GCGAACGGGTGAGTAACACGTGAGAAAC-CTACCCCG
@@ -3298,7 +3298,7 @@ CGGAGTCGC-TAGTAATCCCGGATCAGCAACGC-CGGGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCACGGA-AGTTG-GCAACACCCGAAGCCAGTGGTCCAAC-
 CCG------------CAAG-GGAG---GGAGCTGTCGAAGGTGGGGTGAGCGATTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635443.1 Uncultured_Endozoicomonas_sp._clone_T679U3329 2014-07-17
+>JN635443.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3328,7 +3328,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCA-------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------G---------------------A
->OL957483.1 Uncultured_Endozoicomonas_sp._clone_KS4-1-2C 2017-09-01
+>OL957483.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3358,7 +3358,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->OM273416.1 Endozoicomonas_euniceicola_strain_GFK78 2019-10-01
+>OM273416.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3388,7 +3388,7 @@ CGGAATCGC-TAGTAATCGTGAATCAG---------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->KM360453.1 Endozoicomonas_sp._LC205 2010-05-01
+>KM360453.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3418,7 +3418,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TC--------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->JQ691571.1 Uncultured_bacterium_clone_B2 2010-06-01
+>JQ691571.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGCCGAGCGGTAACA--GGG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACGCGTAGG-AAT-TTGCCCGA
@@ -3448,7 +3448,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCTTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->MG725761.1 Uncultured_bacterium_clone_Otu00019 2014-11-01
+>MG725761.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3478,7 +3478,7 @@ GGTGCTGCATGGTTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->JN635450.1 Uncultured_Endozoicomonas_sp._clone_T679U351 2014-04-01
+>JN635450.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3508,7 +3508,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAG------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------A---------------------A
->JN635425.1 Uncultured_Endozoicomonas_sp._clone_T679U3322 2007-06-01
+>JN635425.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -3538,7 +3538,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGG----------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->KC668415.1 Uncultured_bacterium_clone_P3-A04 2009-06-01
+>KC668415.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGA-C-TAGC-----------T---TGCTAG-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3568,7 +3568,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635451.1 Uncultured_Endozoicomonas_sp._clone_T679U228 2014-04-01
+>JN635451.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3598,7 +3598,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAG------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------A---------------------A
->LN879492.1 Endozoicomonas_sp._Acr-12_partial 2015-07-01
+>LN879492.1
 ------------------------------------------------------------
 --G---CAGTCGAGCGGTAGCA--GGA-AGTAGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -3628,7 +3628,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGTTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTTACCACGGAGTGATTCATGACTGGGGT
 G-----------------------------------------
->MG896176.1 Endozoicomonas_sp._strain_UMTGB108 2012-10-01
+>MG896176.1
 ------------------------------------------------------------
 --G---CAGTCGAGCGGTACAG--G-G-A-AAGC-----------T---TGCTTT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -3658,7 +3658,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAA--
 ------------------------------------------------------------
 ------------------------------------------
->JN635418.1 Uncultured_Endozoicomonas_sp._clone_T679U4336 2007-06-01
+>JN635418.1
 ------------------TGATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GA-C-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3688,7 +3688,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGCAG------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------T---------------------T
->KF428129.1 Uncultured_Endozoicomonas_sp._clone_PH-C2-47D 2010-06-01
+>KF428129.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3718,7 +3718,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->HE818343.1 Endozoicomonas_sp._Ez302_partial 2010-06-16
+>HE818343.1
 ------------------------------------------------------------
 -------AGTCGAGCGGAACGA--T-G-A-GAGC-----------T---TGCTCT-----
 --------CAGGCGTCGAGCG--GCGGACGGGTGAGTAACACGTAGG-AAT-CTGCCTGG
@@ -3748,7 +3748,7 @@ CGGAATCGC-TAGTAATCGCGAATCAGA-ATGT-CGCGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTCACC-----------------------
 ------------------------------------------
->KC668417.1 Uncultured_bacterium_clone_P3-B06 2009-06-01
+>KC668417.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGGGCGGTAACA--GAG-A-TAGC-----------T---TGCTAT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGAGTAATGCATAGG-AAT-CTGCCTGA
@@ -3778,7 +3778,7 @@ CGGAATCGC-TAGTAATCGCAAATCAGA-ATGT-TGCGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGCTAGCTTAAC-
 CTT------------C--G-GGAG---AGCGGTCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->OL957502.1 Uncultured_Endozoicomonas_sp._clone_OS2-1-2 2017-10-01
+>OL957502.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3808,7 +3808,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TAC---------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->MG725757.1 Uncultured_bacterium_clone_Otu00002 2014-11-01
+>MG725757.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3838,7 +3838,7 @@ GGTGCTGCATGGCTGTCGTCAGCTC-GTGCC-----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->MG896171.1 Endozoicomonas_sp._strain_UMTGB103 2012-10-01
+>MG896171.1
 ------------------------------------------------------------
 --G---CAGTCGAGCGGTACAG--G-G-A-AAGC-----------T---TGCTTT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCTGG
@@ -3868,7 +3868,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGAT---------------------------
 -----------------------------------------C
->KF428154.1 Uncultured_Endozoicomonas_sp._clone_PH-C5-77P 2010-06-01
+>KF428154.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3898,7 +3898,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTT-
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->KC668584.1 Uncultured_bacterium_clone_P2-C02 2009-06-01
+>KC668584.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3928,7 +3928,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTT------------C--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->KC668577.1 Uncultured_bacterium_clone_P2-B02 2009-06-01
+>KC668577.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3958,7 +3958,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGTTAGCCTAAC-
 CTGTCTTTTAGGAGAT--G-GGAG---GGCGATCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->JN635449.1 Uncultured_Endozoicomonas_sp._clone_T679U4986 2014-07-17
+>JN635449.1
 -------------------GATCATGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -3988,7 +3988,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAG--------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------G
->OL957479.1 Uncultured_Endozoicomonas_sp._clone_KS1-2-2 2017-09-01
+>OL957479.1
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4018,7 +4018,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACT--------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->JN848830.1 Uncultured_Endozoicomonas_sp._clone_T679U5149 2008-02-01
+>JN848830.1
 --------------------------------ATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GAGC-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -4048,7 +4048,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------
->JX488685.1 Endozoicomonas_gorgoniicola_strain_PS125 2009-07-01
+>JX488685.1
 ------------AGAGTTTGATCCTGGCGCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGGCA-TAGC-----------T---TGCTAT-----
 --------TTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -4078,7 +4078,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTGGCTAGTCTAAC-
 CTCTCTTTTCGAAGAG--G-GGAG---GACGGTCACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAGCCCTAGGGGAACCTGCGGCTGGTC
->KT964903.1 Uncultured_Endozoicomonas_sp._clone_denovo13612 2013-04-01
+>KT964903.1
 --------------------------------ATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAACA--GGG-G-GTGC-----------T---TGCACT-----
 --------CTGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGGCCGG
@@ -4108,7 +4108,7 @@ ACACT-GGGACTGAGACACGGC-CCAGACTCCTACGGGAGG-CAGC--------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------A
->KC669005.1 Uncultured_bacterium_clone_14A05 2009-06-01
+>KC669005.1
 -----------TAGAGTTTGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCA--GGA-A-GTGC-----------T---TGCACT-----
 --------TCGCTGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG
@@ -4138,7 +4138,7 @@ CGGAATCGC-TAGTAATCGTGAATCAGA-ATGT-CACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCG-TCACACCATGGG-AGTGG-GTTGCTCCAGAAGTAGTTAGTCTAAC-
 CGC------------A--A-GGGG---GACGATTACCACGGAGTGATTCATGACTGGGGT
 GAAGTCGTAACAAGGTAACC---------------------A
->MG896185.1 Endozoicomonas_sp._strain_UMTGB117 2012-10-01
+>MG896185.1
 ----------------------------------------------------------CA
 TGCAAAATGTCGAGGGGTCACACAGGG-A-AAGC-----------TCTTTTTTCT-----
 --------GCTGTAACGAGCGGGGCGACGGGTTGCTTAACACGTAGG-AAATTTGCCTTG
@@ -4168,7 +4168,7 @@ CGGAATCGCTTAGTAATCGTGGATCAGA-ATGTACACGGTGAATACGTTCCCGGGCCTTG
 TACACACCGCCCGCTCACACCATGGGGAGTGGTGTTGCTCCAGAAGTGGTTGGCCTAAT-
 CTT------------T--G-----------------------------------------
 -----------------------------------------G
->JN635422.1 Uncultured_Endozoicomonas_sp._clone_T679U3769 2007-06-01
+>JN635422.1
 ------------------TGATCCTGGCTCAGATTGAACGCTGGCGGCAGGCCTAACACA
 TGC---AAGTCGAGCGGTAGCG--GGA-A-GA-C-----------T---TGCTCT-----
 --------TTGCCGACGAGCG--GCGGACGGGTGCGTAACACGTAGG-AAT-CTGCCCGG

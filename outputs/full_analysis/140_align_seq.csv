@@ -1,141 +1,141 @@
-id,country,group,host,isolation_source,sequence_length,clone,collection_date,lat_dec,long_dec
-AB695089.1,Japan,AB695,Haplosclerida gen. et sp.,"Shizuoka, Numazu",1468,,2001-06-01 00:00:00,35.064388888888885,138.81799999999998
-FJ347758.1,Taiwan,FJ347,Coral,Kenting,1464,,2009-08-01 00:00:00,21.907194444444443,120.76916666666666
-FJ930289.1,USA,FJ930,Porites compressa,West Maui patch reef,1412,C7-A01c,2009-04-01 00:00:00,20.80665,-156.60106666666667
-HE818343.1,Portugal,HE818,Marine sponge,"Algarve, Gale Alta, Armacao de Pera",1406,,2010-06-16 00:00:00,37.06933333333334,-8.331138888888889
-HM804435.1,Kuwait,HM804,Coral mucus,Qit'at Bnaider,445,,2008-07-01 00:00:00,28.79802777777778,48.3165
-JN635416.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,T679U3361,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635417.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,T679U3917,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635418.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,T679U4336,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635419.1,Taiwan,JN635,Stylophora pistillata,Kenting,345,T679U4172,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635420.1,Taiwan,JN635,Stylophora pistillata,Kenting,338,T679U3170,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635421.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,T679U4214,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635422.1,Taiwan,JN635,Stylophora pistillata,Kenting,345,T679U3769,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635423.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,T679U3602,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635424.1,Taiwan,JN635,Stylophora pistillata,Kenting,340,T679U3321,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635425.1,Taiwan,JN635,Stylophora pistillata,Kenting,338,T679U3322,2007-06-01 00:00:00,21.948333333333334,120.80833333333334
-JN635437.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",342,T679U192,2014-04-01 00:00:00,22.666666666666668,121.45
-JN635438.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,T679U3381,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN635439.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",334,T679U3312,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN635440.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,T679U3556,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN635441.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",343,T679U163,2014-04-01 00:00:00,22.666666666666668,121.45
-JN635442.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",341,T679U3327,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN635443.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",343,T679U3329,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN635444.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",341,T679U122,2014-04-01 00:00:00,22.666666666666668,121.45
-JN635445.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",343,T679U6,2014-04-01 00:00:00,22.666666666666668,121.45
-JN635446.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",341,T679U113,2014-04-01 00:00:00,22.666666666666668,121.45
-JN635447.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,T679U3533,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN635448.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",327,T679U3196,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN635449.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",335,T679U4986,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN635450.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",344,T679U351,2014-04-01 00:00:00,22.666666666666668,121.45
-JN635451.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",344,T679U228,2014-04-01 00:00:00,22.666666666666668,121.45
-JN635452.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",343,T679U3613,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN635453.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",342,T679U3303,2014-07-17 00:00:00,22.666666666666668,121.46666666666667
-JN848830.1,Taiwan,JN848,Stylophora pistillata,Yeh Liu,325,T679U5149,2008-02-01 00:00:00,25.21361111111111,121.68911111111112
-JQ691564.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1502,B10,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JQ691565.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,B11,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JQ691566.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B12,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JQ691567.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B13,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JQ691568.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,B14,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JQ691569.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B15,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JQ691570.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B16,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JQ691571.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B2,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JQ691572.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,B3,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JQ691573.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1502,B6,2010-06-01 00:00:00,43.68611111111111,7.316666666666666
-JX488684.2,USA,JX488,Eunicea fusca,Florida,1522,,2009-06-01 00:00:00,26.301133333333333,-80.06853333333333
-JX488685.1,Bahamas,JX488,Plexaura sp.,"Bimini, Tuna Alley",1556,,2009-07-01 00:00:00,25.524633333333334,-79.29913333333333
-KC668414.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1505,P3-A02,2009-06-01,19.873466666666666,40.079483333333336
-KC668415.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1505,P3-A04,2009-06-01,19.873466666666666,40.079483333333336
-KC668416.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1516,P3-B03,2009-06-01,19.873466666666666,40.079483333333336
-KC668417.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1504,P3-B06,2009-06-01,19.873466666666666,40.079483333333336
-KC668418.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1519,P3-B08,2009-06-01,19.873466666666666,40.079483333333336
-KC668419.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1519,P3-B11,2009-06-01,19.873466666666666,40.079483333333336
-KC668420.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1503,P3-C03,2009-06-01,19.873466666666666,40.079483333333336
-KC668421.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1503,P3-C06,2009-06-01,19.873466666666666,40.079483333333336
-KC668422.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1439,P7-G09,2009-06-01,19.873466666666666,40.079483333333336
-KC668423.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1505,P7-H05,2009-06-01,19.873466666666666,40.079483333333336
-KC668575.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1518,P2-C07,2009-06-01,19.873466666666666,40.079483333333336
-KC668576.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1531,P4-F01,2009-06-01,19.873466666666666,40.079483333333336
-KC668577.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1531,P2-B02,2009-06-01,19.873466666666666,40.079483333333336
-KC668578.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P4-B10,2009-06-01,19.873466666666666,40.079483333333336
-KC668579.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1520,P4-A12,2009-06-01,19.873466666666666,40.079483333333336
-KC668580.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P4-H01,2009-06-01,19.873466666666666,40.079483333333336
-KC668581.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P2-C05,2009-06-01,19.873466666666666,40.079483333333336
-KC668582.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P4-C01,2009-06-01,19.873466666666666,40.079483333333336
-KC668583.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P2-C04,2009-06-01,19.873466666666666,40.079483333333336
-KC668584.1,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1518,P2-C02,2009-06-01,19.873466666666666,40.079483333333336
-KC668823.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1527,05A01,2009-06-01,18.6751,40.73921666666667
-KC668824.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1494,05A02,2009-06-01,18.6751,40.73921666666667
-KC668825.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1496,05A03,2009-06-01,18.6751,40.73921666666667
-KC668826.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1494,05A04,2009-06-01,18.6751,40.73921666666667
-KC668827.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1461,05A05,2009-06-01,18.6751,40.73921666666667
-KC668828.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1494,05A06,2009-06-01,18.6751,40.73921666666667
-KC668829.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1496,05A07,2009-06-01,18.6751,40.73921666666667
-KC668830.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1515,05A08,2009-06-01,18.6751,40.73921666666667
-KC668831.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1496,05A09,2009-06-01,18.6751,40.73921666666667
-KC668832.1,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1496,05A10,2009-06-01,18.6751,40.73921666666667
-KC669000.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,855,12H07_M13F,2009-06-01,18.6751,40.73921666666667
-KC669001.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,865,12H09_M13F,2009-06-01,18.6751,40.73921666666667
-KC669002.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1519,14A01,2009-06-01,19.897983333333332,40.01485
-KC669003.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1445,14A03,2009-06-01,19.897983333333332,40.01485
-KC669004.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1190,14A04,2009-06-01,19.897983333333332,40.01485
-KC669005.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1508,14A05,2009-06-01,19.897983333333332,40.01485
-KC669006.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1483,14A06,2009-06-01,19.897983333333332,40.01485
-KC669007.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1519,14A07,2009-06-01,19.897983333333332,40.01485
-KC669008.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1519,14A10,2009-06-01,19.897983333333332,40.01485
-KC669009.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1516,14A11,2009-06-01,19.897983333333332,40.01485
-KF428127.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C2-52B,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KF428128.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C2-44C,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KF428129.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C2-47D,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KF428138.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-LH7-29H,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KF428139.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-I,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KF428146.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-LH5-75K1,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KF428149.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-45M,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KF428153.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-LH5-O2,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KF428154.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-77P,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KF428156.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-P,2010-06-01 00:00:00,24.934666666666665,-81.83571666666667
-KM360453.1,Australia,KM360,Coral mucus,Orpheus Island Great Barrier Reef,1128,,2010-05-01 00:00:00,-18.614633333333334,146.49983333333333
-KM360460.1,Australia,KM360,Coral mucus,Orpheus Island Great Barrier Reef,733,,2010-05-01 00:00:00,-18.614633333333334,146.49983333333333
-KM360464.1,Australia,KM360,Coral mucus,Orpheus Island Great Barrier Reef,1023,,2010-05-01 00:00:00,-18.614633333333334,146.49983333333333
-KT964903.1,France,KT964,Corallium rubrum,"Porticcio, Corsica Island",327,denovo13612,2013-04-01 00:00:00,41.833333333333336,8.75
-LN875493.1,Taiwan,LN875,Coral,Kenting,1452,,2015-07-01 00:00:00,21.87638888888889,120.72472222222223
-LN879492.1,Taiwan,LN879,Coral,Kenting,1450,,2015-07-01 00:00:00,21.87638888888889,120.72472222222223
-MG725756.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Otu00001,2014-11-01 00:00:00,22.30555,38.9628
-MG725757.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Otu00002,2014-11-01 00:00:00,22.30555,38.9628
-MG725758.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,294,Otu00006,2014-11-01 00:00:00,22.30555,38.9628
-MG725759.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,288,Otu00015,2014-11-01 00:00:00,22.30555,38.9628
-MG725760.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,299,Otu00017,2014-11-01 00:00:00,22.30555,38.9628
-MG725761.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,289,Otu00019,2014-11-01 00:00:00,22.30555,38.9628
-MG725762.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,294,Otu00020,2014-11-01 00:00:00,22.30555,38.9628
-MG725763.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,290,Otu00021,2014-11-01 00:00:00,22.30555,38.9628
-MG725764.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,296,Otu00023,2014-11-01 00:00:00,22.30555,38.9628
-MG725765.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,289,Otu00024,2014-11-01 00:00:00,22.30555,38.9628
-MG896169.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1407,,2012-10-01 00:00:00,5.613583333333334,103.05696666666667
-MG896171.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1409,,2012-10-01 00:00:00,5.613583333333334,103.05696666666667
-MG896176.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1391,,2012-10-01 00:00:00,5.613583333333334,103.05696666666667
-MG896185.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1450,,2012-10-01 00:00:00,5.613583333333334,103.05696666666667
-MG896199.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1393,,2012-10-01 00:00:00,5.613583333333334,103.05696666666667
-MW540618.1,Saudi Arabia,MW540,Acropora cytherea,Red Sea,1016,,2018-05-15 00:00:00,22.251666666666665,38.95643333333334
-MW540619.1,Saudi Arabia,MW540,Acropora hemprichii,Red Sea,999,,2018-05-15 00:00:00,22.251666666666665,38.95643333333334
-OL957474.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,KS1-1-1,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957475.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,KS1-1-2,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957476.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,KS1-1-3,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957477.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,KS1-1-10,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957478.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,KS1-2-1,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957479.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,KS1-2-2,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957480.1,Taiwan,OL957,Stylophora pistillata,Kenting,423,KS1-2-4,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957481.1,Taiwan,OL957,Stylophora pistillata,Kenting,419,KS1-3-1,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957482.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,KS4-1-1C,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957483.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,KS4-1-2C,2017-09-01 00:00:00,21.938944444444445,120.74572222222223
-OL957502.1,Japan,OL957,Stylophora pistillata,Okinawa,420,OS2-1-2,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OL957503.1,Japan,OL957,Stylophora pistillata,Okinawa,422,OS2-1-3,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OL957504.1,Japan,OL957,Stylophora pistillata,Okinawa,437,OS2-2-1,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OL957505.1,Japan,OL957,Stylophora pistillata,Okinawa,437,OS2-2-2,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OL957506.1,Japan,OL957,Stylophora pistillata,Okinawa,437,OS2-2-3,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OL957507.1,Japan,OL957,Stylophora pistillata,Okinawa,436,OS2-2-6,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OL957508.1,Japan,OL957,Stylophora pistillata,Okinawa,416,OS2-3-1,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OL957509.1,Japan,OL957,Stylophora pistillata,Okinawa,416,OS2-3-2,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OL957510.1,Japan,OL957,Stylophora pistillata,Okinawa,419,OS2-4-1,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OL957511.1,Japan,OL957,Stylophora pistillata,Okinawa,419,OS2-4-2,2017-10-01 00:00:00,26.62838888888889,127.85988888888889
-OM273412.1,USA,OM273,Eunicea flexuosa,"Florida Keys, Florida",1284,,2019-10-01 00:00:00,25.198333333333334,-80.50333333333333
-OM273416.1,USA,OM273,Eunicea flexuosa,"Florida Keys, Florida",1144,,2019-10-01 00:00:00,25.198333333333334,-80.50333333333333
+id,label,species,country,group,host,isolation_source,sequence_length,clone,collection_date,lat_dec,long_dec
+AB695089.1,"Endozoicomonas numazuensis from Haplosclerida gen. et sp. in Shizuoka, Numazu, Japan",Endozoicomonas numazuensis,Japan,AB695,Haplosclerida gen. et sp.,"Shizuoka, Numazu",1468,,6/01/01 0:00,35.064388888888885,138.81799999999998
+FJ347758.1,"Endozoicomonas montiporae CL-33 from Montipora aequituberculata in Kenting, Taiwan",Endozoicomonas montiporae CL-33,Taiwan,FJ347,Montipora aequituberculata,Kenting,1464,,8/01/09 0:00,21.907194444444443,120.76916666666666
+FJ930289.1,"Uncultured bacterium clone from Porites compressa in West Maui patch reef, USA",Uncultured bacterium clone,USA,FJ930,Porites compressa,West Maui patch reef,1412,C7-A01c,4/01/09 0:00,20.80665,-156.6010667
+HE818343.1,"Endozoicimonas from Irciniidae sponges in Algarve, Gale Alta, Armacao de Pera, Portugal",Endozoicimonas,Portugal,HE818,Irciniidae sponges,"Algarve, Gale Alta, Armacao de Pera",1406,,6/16/10 0:00,37.06933333333334,-8.331138889
+HM804435.1,"Endozoicimonas from Acropora clathrata in Qit'at Bnaider, Kuwait",Endozoicimonas,Kuwait,HM804,Acropora clathrata,Qit'at Bnaider,445,,7/01/08 0:00,28.79802777777778,48.3165
+JN635416.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,343,T679U3361,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635417.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,344,T679U3917,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635418.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,344,T679U4336,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635419.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,345,T679U4172,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635420.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,338,T679U3170,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635421.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,344,T679U4214,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635422.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,345,T679U3769,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635423.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,343,T679U3602,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635424.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,340,T679U3321,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635425.1,"Uncultured Endozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,Kenting,338,T679U3322,6/01/07 0:00,21.948333333333334,120.80833333333334
+JN635437.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",342,T679U192,4/01/14 0:00,22.666666666666668,121.45
+JN635438.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,T679U3381,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN635439.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",334,T679U3312,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN635440.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,T679U3556,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN635441.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",343,T679U163,4/01/14 0:00,22.666666666666668,121.45
+JN635442.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",341,T679U3327,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN635443.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",343,T679U3329,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN635444.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",341,T679U122,4/01/14 0:00,22.666666666666668,121.45
+JN635445.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",343,T679U6,4/01/14 0:00,22.666666666666668,121.45
+JN635446.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",341,T679U113,4/01/14 0:00,22.666666666666668,121.45
+JN635447.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,T679U3533,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN635448.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",327,T679U3196,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN635449.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",335,T679U4986,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN635450.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",344,T679U351,4/01/14 0:00,22.666666666666668,121.45
+JN635451.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",344,T679U228,4/01/14 0:00,22.666666666666668,121.45
+JN635452.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",343,T679U3613,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN635453.1,"Uncultured Endozoicomonas from Stylophora pistillata in Green Island, Taiwan",Uncultured Endozoicomonas,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",342,T679U3303,7/17/14 0:00,22.666666666666668,121.46666666666667
+JN848830.1,"Uncultured Endozoicomonas from Stylophora pistillata in Yeh Liu, Taiwan",Uncultured Endozoicomonas,Taiwan,JN848,Stylophora pistillata,Yeh Liu,325,T679U5149,2/01/08 0:00,25.21361111111111,121.68911111111112
+JQ691564.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1502,B10,6/01/10 0:00,43.68611111111111,7.316666666666666
+JQ691565.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,B11,6/01/10 0:00,43.68611111111111,7.316666666666666
+JQ691566.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B12,6/01/10 0:00,43.68611111111111,7.316666666666666
+JQ691567.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B13,6/01/10 0:00,43.68611111111111,7.316666666666666
+JQ691568.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,B14,6/01/10 0:00,43.68611111111111,7.316666666666666
+JQ691569.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B15,6/01/10 0:00,43.68611111111111,7.316666666666666
+JQ691570.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B16,6/01/10 0:00,43.68611111111111,7.316666666666666
+JQ691571.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,B2,6/01/10 0:00,43.68611111111111,7.316666666666666
+JQ691572.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,B3,6/01/10 0:00,43.68611111111111,7.316666666666666
+JQ691573.1,"Uncultured bacterial clones from Eunicella cavolini in Bay of Villefranche-sur-Mer, France",Uncultured bacterial clones,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1502,B6,6/01/10 0:00,43.68611111111111,7.316666666666666
+JX488684.2,"Endozoicomonas euniceicola from Eunicea fusca in Florida, USA",Endozoicomonas euniceicola,USA,JX488,Eunicea fusca,Florida,1522,,6/01/09 0:00,26.301133333333333,-80.06853333
+JX488685.1,"Endozoicomonas gorgoniicola from Plexaura sp. in Bimini, Tuna Alley, Bahamas",Endozoicomonas gorgoniicola,Bahamas,JX488,Plexaura sp.,"Bimini, Tuna Alley",1556,,7/01/09 0:00,25.524633333333334,-79.29913333
+KC668414.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1505,P3-A02,6/01/09,19.873466666666666,40.079483333333336
+KC668415.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1505,P3-A04,6/01/09,19.873466666666666,40.079483333333336
+KC668416.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1516,P3-B03,6/01/09,19.873466666666666,40.079483333333336
+KC668417.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1504,P3-B06,6/01/09,19.873466666666666,40.079483333333336
+KC668418.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1519,P3-B08,6/01/09,19.873466666666666,40.079483333333336
+KC668419.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1519,P3-B11,6/01/09,19.873466666666666,40.079483333333336
+KC668420.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1503,P3-C03,6/01/09,19.873466666666666,40.079483333333336
+KC668421.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1503,P3-C06,6/01/09,19.873466666666666,40.079483333333336
+KC668422.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1439,P7-G09,6/01/09,19.873466666666666,40.079483333333336
+KC668423.1,"Uncultured bacterial clones from Acropora humilis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1505,P7-H05,6/01/09,19.873466666666666,40.079483333333336
+KC668575.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1518,P2-C07,6/01/09,19.873466666666666,40.079483333333336
+KC668576.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1531,P4-F01,6/01/09,19.873466666666666,40.079483333333336
+KC668577.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1531,P2-B02,6/01/09,19.873466666666666,40.079483333333336
+KC668578.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P4-B10,6/01/09,19.873466666666666,40.079483333333336
+KC668579.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1520,P4-A12,6/01/09,19.873466666666666,40.079483333333336
+KC668580.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P4-H01,6/01/09,19.873466666666666,40.079483333333336
+KC668581.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P2-C05,6/01/09,19.873466666666666,40.079483333333336
+KC668582.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P4-C01,6/01/09,19.873466666666666,40.079483333333336
+KC668583.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1519,P2-C04,6/01/09,19.873466666666666,40.079483333333336
+KC668584.1,"Uncultured bacterial clones from Pocillopora damicornis in Red Sea, Brown reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Pocillopora damicornis,"Red Sea, Brown reef",1518,P2-C02,6/01/09,19.873466666666666,40.079483333333336
+KC668823.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1527,05A01,6/01/09,18.6751,40.73921666666667
+KC668824.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1494,05A02,6/01/09,18.6751,40.73921666666667
+KC668825.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1496,05A03,6/01/09,18.6751,40.73921666666667
+KC668826.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1494,05A04,6/01/09,18.6751,40.73921666666667
+KC668827.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1461,05A05,6/01/09,18.6751,40.73921666666667
+KC668828.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1494,05A06,6/01/09,18.6751,40.73921666666667
+KC668829.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1496,05A07,6/01/09,18.6751,40.73921666666667
+KC668830.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1515,05A08,6/01/09,18.6751,40.73921666666667
+KC668831.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1496,05A09,6/01/09,18.6751,40.73921666666667
+KC668832.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC668,Stylophora pistillata,Southern Red Sea,1496,05A10,6/01/09,18.6751,40.73921666666667
+KC669000.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,855,12H07_M13F,6/01/09,18.6751,40.73921666666667
+KC669001.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,865,12H09_M13F,6/01/09,18.6751,40.73921666666667
+KC669002.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1519,14A01,6/01/09,19.897983333333332,40.01485
+KC669003.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1445,14A03,6/01/09,19.897983333333332,40.01485
+KC669004.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1190,14A04,6/01/09,19.897983333333332,40.01485
+KC669005.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1508,14A05,6/01/09,19.897983333333332,40.01485
+KC669006.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1483,14A06,6/01/09,19.897983333333332,40.01485
+KC669007.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1519,14A07,6/01/09,19.897983333333332,40.01485
+KC669008.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1519,14A10,6/01/09,19.897983333333332,40.01485
+KC669009.1,"Uncultured bacterial clones from Stylophora pistillata in Southern Red Sea, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,1516,14A11,6/01/09,19.897983333333332,40.01485
+KF428127.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C2-52B,6/01/10 0:00,24.934666666666665,-81.83571667
+KF428128.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C2-44C,6/01/10 0:00,24.934666666666665,-81.83571667
+KF428129.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C2-47D,6/01/10 0:00,24.934666666666665,-81.83571667
+KF428138.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-LH7-29H,6/01/10 0:00,24.934666666666665,-81.83571667
+KF428139.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-I,6/01/10 0:00,24.934666666666665,-81.83571667
+KF428146.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-LH5-75K1,6/01/10 0:00,24.934666666666665,-81.83571667
+KF428149.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-45M,6/01/10 0:00,24.934666666666665,-81.83571667
+KF428153.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-LH5-O2,6/01/10 0:00,24.934666666666665,-81.83571667
+KF428154.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-77P,6/01/10 0:00,24.934666666666665,-81.83571667
+KF428156.1,"Uncultured Endozoicomonas from Plexaura homomalla in Summerland Key, Florida, USA",Uncultured Endozoicomonas,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,PH-C5-P,6/01/10 0:00,24.934666666666665,-81.83571667
+KM360453.1,"Endozoicomonas from Lobophytum compactum in Orpheus Island Great Barrier Reef, Australia",Endozoicomonas,Australia,KM360,Lobophytum compactum,Orpheus Island Great Barrier Reef,1128,,5/01/10 0:00,-18.61463333,146.49983333333333
+KM360460.1,"Endozoicomonas from Lobophytum compactum in Orpheus Island Great Barrier Reef, Australia",Endozoicomonas,Australia,KM360,Lobophytum compactum,Orpheus Island Great Barrier Reef,733,,5/01/10 0:00,-18.61463333,146.49983333333333
+KM360464.1,"Endozoicomonas from Lobophytum compactum in Orpheus Island Great Barrier Reef, Australia",Endozoicomonas,Australia,KM360,Lobophytum compactum,Orpheus Island Great Barrier Reef,1023,,5/01/10 0:00,-18.61463333,146.49983333333333
+KT964903.1,"Uncultured Endozoicomonas from Corallium rubrum in Porticcio, Corsica Island, France",Uncultured Endozoicomonas,France,KT964,Corallium rubrum,"Porticcio, Corsica Island",327,denovo13612,4/01/13 0:00,41.833333333333336,8.75
+LN875493.1,"Endozoicomonas sp. Acr-14 from Acropora  sp. in Kenting, Taiwan",Endozoicomonas sp. Acr-14,Taiwan,LN875,Acropora  sp.,Kenting,1452,,7/01/15 0:00,21.87638888888889,120.72472222222223
+LN879492.1,"Endozoicomonas sp. Acr-12 from Acropora  sp. in Kenting, Taiwan",Endozoicomonas sp. Acr-12,Taiwan,LN879,Acropora  sp.,Kenting,1450,,7/01/15 0:00,21.87638888888889,120.72472222222223
+MG725756.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,293,Otu00001,11/01/14 0:00,22.30555,38.9628
+MG725757.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,293,Otu00002,11/01/14 0:00,22.30555,38.9628
+MG725758.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,294,Otu00006,11/01/14 0:00,22.30555,38.9628
+MG725759.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,288,Otu00015,11/01/14 0:00,22.30555,38.9628
+MG725760.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,299,Otu00017,11/01/14 0:00,22.30555,38.9628
+MG725761.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,289,Otu00019,11/01/14 0:00,22.30555,38.9628
+MG725762.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,294,Otu00020,11/01/14 0:00,22.30555,38.9628
+MG725763.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,290,Otu00021,11/01/14 0:00,22.30555,38.9628
+MG725764.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,296,Otu00023,11/01/14 0:00,22.30555,38.9628
+MG725765.1,"Uncultured bacterial clones from  P. verrucosa in Al-Fahal reef, Saudi Arabia",Uncultured bacterial clones,Saudi Arabia,MG725, P. verrucosa,Al-Fahal reef,289,Otu00024,11/01/14 0:00,22.30555,38.9628
+MG896169.1,"Uncultured bacterial clones from Clavelina coerulea, Terengganu Malaysia",Uncultured bacterial clones,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1407,,10/01/12 0:00,5.613583333333334,103.05696666666667
+MG896171.1,"Uncultured bacterial clones from Clavelina coerulea, Terengganu Malaysia",Uncultured bacterial clones,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1409,,10/01/12 0:00,5.613583333333334,103.05696666666667
+MG896176.1,"Uncultured bacterial clones from Clavelina coerulea, Terengganu Malaysia",Uncultured bacterial clones,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1391,,10/01/12 0:00,5.613583333333334,103.05696666666667
+MG896185.1,"Uncultured bacterial clones from Clavelina coerulea, Terengganu Malaysia",Uncultured bacterial clones,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1450,,10/01/12 0:00,5.613583333333334,103.05696666666667
+MG896199.1,"Uncultured bacterial clones from Clavelina coerulea, Terengganu Malaysia",Uncultured bacterial clones,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1393,,10/01/12 0:00,5.613583333333334,103.05696666666667
+MW540618.1,"Endozoicomonas sp. from Acropora cytherea in Red Sea, Saudi Arabia",Endozoicomonas sp.,Saudi Arabia,MW540,Acropora cytherea,Red Sea,1016,,5/15/18 0:00,22.251666666666665,38.95643333333334
+MW540619.1,"Endozoicomonas sp. from Acropora hemprichii in Red Sea, Saudi Arabia",Endozoicomonas sp.,Saudi Arabia,MW540,Acropora hemprichii,Red Sea,999,,5/15/18 0:00,22.251666666666665,38.95643333333334
+OL957474.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,417,KS1-1-1,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957475.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,415,KS1-1-2,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957476.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,417,KS1-1-3,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957477.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,416,KS1-1-10,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957478.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,421,KS1-2-1,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957479.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,421,KS1-2-2,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957480.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,423,KS1-2-4,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957481.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,419,KS1-3-1,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957482.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,416,KS4-1-1C,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957483.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Kenting, Taiwan",Uncultured Enzozoicomonas,Taiwan,OL957,Stylophora pistillata,Kenting,415,KS4-1-2C,9/01/17 0:00,21.938944444444445,120.74572222222223
+OL957502.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,420,OS2-1-2,10/01/17 0:00,26.62838888888889,127.85988888888889
+OL957503.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,422,OS2-1-3,10/01/17 0:00,26.62838888888889,127.85988888888889
+OL957504.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,437,OS2-2-1,10/01/17 0:00,26.62838888888889,127.85988888888889
+OL957505.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,437,OS2-2-2,10/01/17 0:00,26.62838888888889,127.85988888888889
+OL957506.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,437,OS2-2-3,10/01/17 0:00,26.62838888888889,127.85988888888889
+OL957507.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,436,OS2-2-6,10/01/17 0:00,26.62838888888889,127.85988888888889
+OL957508.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,416,OS2-3-1,10/01/17 0:00,26.62838888888889,127.85988888888889
+OL957509.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,416,OS2-3-2,10/01/17 0:00,26.62838888888889,127.85988888888889
+OL957510.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,419,OS2-4-1,10/01/17 0:00,26.62838888888889,127.85988888888889
+OL957511.1,"Uncultured Enzozoicomonas from Stylophora pistillata in Okinawa, Japan",Uncultured Enzozoicomonas,Japan,OL957,Stylophora pistillata,Okinawa,419,OS2-4-2,10/01/17 0:00,26.62838888888889,127.85988888888889
+OM273412.1,"Endozoicomonas gorgoniicola from Eunicea flexuosa in Florida Keys, Florida, USA",Endozoicomonas gorgoniicola,USA,OM273,Eunicea flexuosa,"Florida Keys, Florida",1284,,10/01/19 0:00,25.198333333333334,-80.50333333
+OM273416.1,"Endozoicomonas euniceicola from Eunicea flexuosa in Florida Keys, Florida, USA",Endozoicomonas euniceicola,USA,OM273,Eunicea flexuosa,"Florida Keys, Florida",1144,,10/01/19 0:00,25.198333333333334,-80.50333333
