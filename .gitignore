@@ -22,3 +22,5 @@ datasets/full_analysis/*.gb
 extra_docs/*.pdf
 packrat/lib*/
 .Rproj.user
+*.trees.txt
+outputs/full_analysis/BEAST/*.tree
