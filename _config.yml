@@ -8,6 +8,7 @@ execute:
 exclude_patterns:
   - .venv/*
   - extra_docs/*
+  - packrat/*
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
