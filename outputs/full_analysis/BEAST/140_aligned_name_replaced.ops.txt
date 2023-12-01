@@ -1,0 +1,23 @@
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) 
+gtr.rates                                         0.267   27142      328311   12.1     0.241       
+frequencies                                       0.038   27119      331492   12.22    0.2375      
+scale(alpha)                                      0.696   26690      320204   12.0     0.234       
+pInv                                              0.863   27184      324442   11.94    0.2335      
+scale(ucld.mean)                                  0.877   80573      968627   12.02    0.2326      
+scale(ucld.stdev)                                 0.779   81335      970035   11.93    0.2341      
+up:nodeHeights(treeModel) down:ucld.mean          0.995   80899      726914   8.99     0.2323      
+swapOperator(branchRates.categories)                      269778     848369   3.14     0.3511      
+uniformInteger(branchRates.categories)                    270325     710501   2.63     0.5111      
+subtreeSlide(treeModel)                           1.693   811230     1418845  1.75     0.2352      
+Narrow Exchange(treeModel)                                811616     1337874  1.65     0.2035      
+Wide Exchange(treeModel)                                  80825      42208    0.52     0.0029      
+wilsonBalding(treeModel)                                  81177      224778   2.77     0.0061      
+scale(treeModel.rootHeight)                       0.277   80936      120347   1.49     0.2397      
+uniform(nodeHeights(treeModel))                           811626     2076911  2.56     0.4286      
+scale(skyline.popSize)                            0.28    405120     107394   0.27     0.2396      
+skyline.groupSize                                         162533     40742    0.25     0.6713      
+scale(location.diffusion.rates)                   0.141   809960     275865   0.34     0.2405      
+precisionGibbsOperator                                    53932      22369    0.41     1.0         
+
