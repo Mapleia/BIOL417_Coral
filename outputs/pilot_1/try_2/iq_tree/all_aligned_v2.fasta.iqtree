@@ -1,0 +1,181 @@
+IQ-TREE 2.2.5 COVID-edition built Sep 11 2023
+
+Input file name: /usr/local/bin/coral/all_aligned_v2.fasta
+Type of analysis: tree reconstruction + non-parametric bootstrap (1000 replicates)
+Random seed number: 430882
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 14 sequences with 1585 nucleotide sites
+Number of constant sites: 1313 (= 82.8391% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1313 (= 82.8391% of all sites)
+Number of parsimony informative sites: 129
+Number of distinct site patterns: 297
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TIM3+F+I+G4
+
+Rate parameter R:
+
+  A-C: 0.6059
+  A-G: 1.9955
+  A-T: 1.0000
+  C-G: 0.6059
+  C-T: 3.5524
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2487
+  pi(C) = 0.2282
+  pi(G) = 0.3219
+  pi(T) = 0.2012
+
+Rate matrix Q:
+
+  A   -0.9502    0.1338    0.6217    0.1948
+  C    0.1459    -1.027    0.1888    0.6919
+  G    0.4805    0.1338    -0.809    0.1948
+  T    0.2408    0.7845    0.3115    -1.337
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.4981
+Gamma shape alpha: 0.3146
+
+ Category  Relative_rate  Proportion
+  0         0              0.4981
+  1         0.01306        0.1255
+  2         0.231          0.1255
+  3         1.234          0.1255
+  4         6.491          0.1255
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -4635.3138 (s.e. 136.0842)
+Unconstrained log-likelihood (without tree): -6117.9954
+Number of free parameters (#branches + #model parameters): 33
+Akaike information criterion (AIC) score: 9336.6276
+Corrected Akaike information criterion (AICc) score: 9338.0744
+Bayesian information criterion (BIC) score: 9513.7828
+
+Total tree length (sum of branch lengths): 0.4557
+Sum of internal branch lengths: 0.0980 (21.5159% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'MH201322.1' is drawn at root
+Numbers in parentheses are  standard bootstrap support (%)
+
++-----------------------------------------------------------MH201322.1
+|
+|             +--AB196667.1
+|      +------| (95)
+|      |      |     +------KT364257.1
+|      |      |  +--| (77)
+|      |      |  |  |              +**LN879492.1
+|      |      |  |  |           +--| (99)
+|      |      |  |  |           |  +**OQ618154.1
+|      |      |  |  |  +--------| (100)
+|      |      |  |  |  |        +----LN875493.1
+|      |      |  |  +--| (70)
+|      |      |  |     +--KC878324.1
+|      |      +--| (55)
+|      |         +--LN626318.1
+|   +--| (49)
+|   |  |      +-------------MK633876.1
+|   |  |   +--| (95)
+|   |  |   |  +--AB695088.1
+|   |  +---| (98)
+|   |      +----KJ372452.1
++---| (56)
+|   |  +------------------------------KX780138.1
+|   +--| (37)
+|      +------JX488685.1
+|
++-------JX488684.2
+
+Tree in newick format:
+
+(MH201322.1:0.1479173662,(((AB196667.1:0.0007624297,((KT364257.1:0.0182909212,(((LN879492.1:0.0000008722,OQ618154.1:0.0000008722)99:0.0040186495,LN875493.1:0.0132951466)100:0.0241818458,KC878324.1:0.0030148820)70:0.0020801160)77:0.0095385684,LN626318.1:0.0045788183)55:0.0037820735)95:0.0194112938,((MK633876.1:0.0350910251,AB695088.1:0.0023267967)95:0.0045637424,KJ372452.1:0.0127603511)98:0.0117631269)49:0.0058319892,(KX780138.1:0.0777835059,JX488685.1:0.0173833127)37:0.0050335850)56:0.0118530541,JX488684.2:0.0203966017);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -4635.315566
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-----------------------------------------------------------MH201322.1
+|
+|             +--AB196667.1
+|      +------| (95)
+|      |      |     +------KT364257.1
+|      |      |  +--| (77)
+|      |      |  |  |              +--LN879492.1
+|      |      |  |  |           +--| (99)
+|      |      |  |  |           |  +--OQ618154.1
+|      |      |  |  |  +--------| (100)
+|      |      |  |  |  |        +----LN875493.1
+|      |      |  |  +--| (70)
+|      |      |  |     +--KC878324.1
+|      |      +--| (55)
+|      |         +--LN626318.1
+|   +--| (49)
+|   |  |      +-------------MK633876.1
+|   |  |   +--| (95)
+|   |  |   |  +--AB695088.1
+|   |  +---| (98)
+|   |      +----KJ372452.1
++---| (56)
+|   |  +------------------------------KX780138.1
+|   +--| (37)
+|      +------JX488685.1
+|
++-------JX488684.2
+
+
+Consensus tree in newick format: 
+
+(MH201322.1:0.1480130559,(((AB196667.1:0.0007627064,((KT364257.1:0.0183138790,(((LN879492.1:0.0000022406,OQ618154.1:0.0000022325)99:0.0040214840,LN875493.1:0.0133123385)100:0.0242118237,KC878324.1:0.0030162594)70:0.0020808400)77:0.0095492760,LN626318.1:0.0045810584)55:0.0037875022)95:0.0194315031,((MK633876.1:0.0351247686,AB695088.1:0.0023287009)95:0.0045678991,KJ372452.1:0.0127713775)98:0.0117724266)49:0.0058319100,(KX780138.1:0.0778607824,JX488685.1:0.0173982749)37:0.0050297010)56:0.0118458816,JX488684.2:0.0204114780);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /usr/local/bin/coral/all_aligned_v2.fasta.treefile -m "TIM3{0.605926,1.99554,3.55244}+F{0.24875,0.228155,0.321854,0.201241}+I{0.498083}+G4{0.314637}" --length 1585
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /usr/local/bin/coral/all_aligned_v2.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /usr/local/bin/coral/all_aligned_v2.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sun Nov 19 00:20:26 2023
+Total CPU time used: 4.494332 seconds (0h:0m:4s)
+Total wall-clock time used: 5.493213841 seconds (0h:0m:5s)
+
