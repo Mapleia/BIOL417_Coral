@@ -1,70 +1,95 @@
 id,country,group,host,isolation_source,sequence_length,sequence_name,collection_date,latlng,lat_dec,long_dec
+AB196667.1,Japan,AB196,Elysia ornata,coast of Izu-Miyake Island,1437,Endozoicimonas elysicola gene for,2004-12-01,"34°04'13.2""N, 139°28'34.8""E",34.07033333333334,139.47633333333334
+AB695088.1,Japan,AB695,Haplosclerida gen. et sp.,"Shizuoka, Numazu",1466,Endozoicomonas numazuensis gene for,2001-06-01,"35°03'51.8""N, 138°49'04.8""E",35.064388888888885,138.81799999999998
 AB695089.1,Japan,AB695,Haplosclerida gen. et sp.,"Shizuoka, Numazu",1468,Endozoicomonas numazuensis gene for,2001-06-01,"35°03'51.8""N, 138°49'04.8""E",35.064388888888885,138.81799999999998
-FJ347758.1,Taiwan,FJ347,Coral,Kenting,1464,Endozoicomonas montiporae CL-33,2009-08-01,"21°54'25.9""N, 120°46'09.0""E",21.907194444444443,120.76916666666666
-FJ930289.1,USA,FJ930,Porites compressa,West Maui patch reef,1412,Uncultured bacterium clone C7-A01c,2009-04-01,"20°48.399'N, 156° 36.064'W",20.80665,-156.60106666666667
-HE818343.1,Portugal,HE818,Marine sponge,"Algarve, Gale Alta, Armacao de Pera",1406,Endozoicomonas sp. Ez302 partial,2010-06-16,"37°04'09.6''N, 8°19'52.1''W",37.06933333333334,-8.331138888888889
-HM804435.1,Kuwait,HM804,Coral mucus,Qit'at Bnaider,445,"Endozoicimonas sp. 5U3,1 2",2008-07-01,"28°47'52.9""N, 48°18'59.4""E",28.79802777777778,48.3165
-JN635416.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U3361,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635417.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U3917,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635418.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U4336,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635419.1,Taiwan,JN635,Stylophora pistillata,Kenting,345,Uncultured Endozoicomonas sp. clone T679U4172,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635420.1,Taiwan,JN635,Stylophora pistillata,Kenting,338,Uncultured Endozoicomonas sp. clone T679U3170,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635421.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U4214,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635422.1,Taiwan,JN635,Stylophora pistillata,Kenting,345,Uncultured Endozoicomonas sp. clone T679U3769,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635423.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U3602,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635424.1,Taiwan,JN635,Stylophora pistillata,Kenting,340,Uncultured Endozoicomonas sp. clone T679U3321,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635425.1,Taiwan,JN635,Stylophora pistillata,Kenting,338,Uncultured Endozoicomonas sp. clone T679U3322,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635426.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U3446,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635427.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U3907,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635428.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U3169,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635429.1,Taiwan,JN635,Stylophora pistillata,Kenting,345,Uncultured Endozoicomonas sp. clone T679U3935,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635430.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U4446,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635431.1,Taiwan,JN635,Stylophora pistillata,Kenting,341,Uncultured Endozoicomonas sp. clone T679U3240,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635432.1,Taiwan,JN635,Stylophora pistillata,Kenting,342,Uncultured Endozoicomonas sp. clone T679U4453,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635433.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U3156,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635434.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U4459,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635435.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U4392,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635436.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U4373,2007-06-01,"21°56.9'N, 120°48.5'E",21.948333333333334,120.80833333333334
-JN635437.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",342,Uncultured Endozoicomonas sp. clone T679U192,2014-04-01,"22°40'N, 121°27'E",22.666666666666668,121.45
-JN635438.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,Uncultured Endozoicomonas sp. clone T679U3381,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
-JN635439.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",334,Uncultured Endozoicomonas sp. clone T679U3312,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
-JN635440.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,Uncultured Endozoicomonas sp. clone T679U3556,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
-JN635441.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",343,Uncultured Endozoicomonas sp. clone T679U163,2014-04-01,"22°40'N, 121°27'E",22.666666666666668,121.45
-JN635442.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",341,Uncultured Endozoicomonas sp. clone T679U3327,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
-JN635443.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",343,Uncultured Endozoicomonas sp. clone T679U3329,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
-JN635444.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",341,Uncultured Endozoicomonas sp. clone T679U122,2014-04-01,"22°40'N, 121°27'E",22.666666666666668,121.45
-JN635445.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",343,Uncultured Endozoicomonas sp. clone T679U6,2014-04-01,"22°40'N, 121°27'E",22.666666666666668,121.45
-JN635446.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",341,Uncultured Endozoicomonas sp. clone T679U113,2014-04-01,"22°40'N, 121°27'E",22.666666666666668,121.45
-JN635447.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,Uncultured Endozoicomonas sp. clone T679U3533,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
-JN635448.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",327,Uncultured Endozoicomonas sp. clone T679U3196,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
-JN635449.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",335,Uncultured Endozoicomonas sp. clone T679U4986,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
-JN635450.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",344,Uncultured Endozoicomonas sp. clone T679U351,2014-04-01,"22°40'N, 121°27'E",22.666666666666668,121.45
-JN635451.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",344,Uncultured Endozoicomonas sp. clone T679U228,2014-04-01,"22°40'N, 121°27'E",22.666666666666668,121.45
-JN635452.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",343,Uncultured Endozoicomonas sp. clone T679U3613,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
-JN635453.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",342,Uncultured Endozoicomonas sp. clone T679U3303,2014-07-17,"22°40'N, 121°28'E",22.666666666666668,121.46666666666667
+AM259915.1,Croatia,AM259,Sponge mesohyl,Adriatic Sea,1448,Uncultured gamma proteobacterium partial,2003-04-02,"45°7′N, 13°43′E",45.11666666666667,13.716666666666667
+AY700600.1,Australia,AY700,Pocillopora damicornis,Great Barrier Reef,1500,Uncultured bacterium clone PDA-OTU2,2007-03-20,"18°50.9S, 147°41E",-18.848333333333333,147.68333333333334
+AY700601.1,Australia,AY700,Pocillopora damicornis,Great Barrier Reef,1503,Uncultured bacterium clone PDA-OTU3,2007-03-20,"18°50.9S, 147°41E",-18.848333333333333,147.68333333333334
+DQ884160.1,Spain,DQ884,Cystodytes dellechiajei,Mediterranean Sea,413,Uncultured gamma proteobacterium clone CRNA5,2002-09-01,"37°38'05""N, 0°41'13""W",37.63472222222222,-0.6869444444444445
+DQ884169.1,Spain,DQ884,Cystodytes dellechiajei,Mediterranean Sea,1489,Uncultured gamma proteobacterium clone C19,2002-09-01,"37°38'05""N, 0°41'13""W",37.63472222222222,-0.6869444444444445
+DQ884170.1,Spain,DQ884,Cystodytes dellechiajei,Mediterranean Sea,1486,Uncultured gamma proteobacterium clone C23,2002-09-01,"37°38'05""N, 0°41'13""W",37.63472222222222,-0.6869444444444445
+EU797579.3,USA,EU797,Alitta succinea,"Grice Cove, South Carolina",1416,Kistimonas alittae strain BGP-2,2006-01-01,"32.752""N, 79.898""W",32.752,-79.898
+FJ202634.1,Panama,FJ202,Montastraea faveolata,"Isla San Cristobal, Bocas del Toro",1486,Uncultured bacterium clone SGUS1328,2006-08-01,"9°20'55.3""N, 82°14'04.2""W",9.348694444444446,-82.2345
+FJ347758.1,Taiwan,FJ347,Montipora aequituberculata,Kenting,1464,Endozoicomonas montiporae CL-33,2009-08-01,"21°54'25.9""N, 120°46'09.0""E",21.907194444444443,120.76916666666666
+FJ930289.1,USA,FJ930,Porites compressa,West Maui,1412,Uncultured bacterium clone C7-A01c,2009-04-01,"20°48'39.9""N, 156°36'06.4""W",20.811083333333332,-156.60177777777778
+FM162182.1,USA,FM162,Bathymodiolus brooksi,"Gulf of Mexico, Atwater Valley cold seep",1409,Candidatus Endonucleobacter bathymodioli partial,2006-04-01,"21°53.98′N, 93°26.12′W",21.89966666666667,-93.43533333333333
+FM162184.1,Mexico,FM162,Bathymodiolus brooksi,"Gulf of Mexico, Campeche Knolls asphalt volcano, Chapopote site",1409,Candidatus Endonucleobacter bathymodioli partial,2006-04-01,"21.9""N, 93.44""W",21.9,-93.44
+FM162185.1,USA,FM162,Bathymodiolus heckerae,"Gulf of Mexico, West Florida Escarpment cold seep",1409,Candidatus Endonucleobacter bathymodioli partial,2003-10-01,"26.03""N, 84.92""W",26.03,-84.92
+FM162188.1,Atlantic Ocean,FM162,Bathymodiolus puteoserpentis,"Mid-Atlantic Ridge, Logatchev hydrothermal vent field, IRINA II site",1468,Candidatus Endonucleobacter bathymodioli partial,2004-01-31,"14.75""N, 44.98""W",14.75,-44.98
+FM244838.1,USA,FM244,Bathymodiolus childressi,"Gulf of Mexico, Mississippi Canyon cold seep",1435,Candidatus Endonucleobacter bathymodioli partial,2006-05-14,"28.12""N, 89.14""W",28.12,-89.14
+GU118072.1,Panama,GU118,Acropora palmata,“Crawl Cay” reef near Bocas del Toro,1479,Uncultured bacterium clone Apal_H17,2008-03-27,"9°15′N, 82°07′W",9.25,-82.11666666666666
+GU118168.1,Panama,GU118,Diploria strigosa,“Crawl Cay” reef near Bocas del Toro,1469,Uncultured bacterium clone Dstr_I24,2008-03-27,"9°15′N, 82°07′W",9.25,-82.11666666666666
+GU118379.1,Panama,GU118,Gorgonia ventalina,“Crawl Cay” reef near Bocas del Toro,1462,Uncultured bacterium clone Gven_M09,2008-03-27,"9°15′N, 82°07′W",9.25,-82.11666666666666
+GU118404.1,Panama,GU118,Gorgonia ventalina,“Crawl Cay” reef near Bocas del Toro,1459,Uncultured bacterium clone Gven_C18,2008-03-27,"9°15′N, 82°07′W",9.25,-82.11666666666666
+GU118644.1,Panama,GU118,Montastraea faveolata,“Crawl Cay” reef near Bocas del Toro,1472,Uncultured bacterium clone Mfav_I13,2008-03-27,"9°15′N, 82°07′W",9.25,-82.11666666666666
+GU118957.1,Panama,GU118,Porites astreoides,“Crawl Cay” reef near Bocas del Toro,1444,Uncultured bacterium clone Past_P01,2008-03-27,"9°15′N, 82°07′W",9.25,-82.11666666666666
+GU118966.1,Panama,GU118,Porites astreoides,“Crawl Cay” reef near Bocas del Toro,1466,Uncultured bacterium clone Past_B24,2008-03-27,"9°15′N, 82°07′W",9.25,-82.11666666666666
+GU183820.1,Brazil,GU183,Mucus of apparently healthy coral,"Preta Beach, Sao Sebastiao Channel, Sao Paulo",1349,Marinobacterium coralli strain R-40509,2006-01-02,"23.8194""S, 45.4103""W",-23.8194,-45.4103
+GU569894.1,Taiwan,GU569,Stylophora pistillata,ocean water,1466,Corallomonas stylophorae strain KTSW-6,2010-01-25,"21°52'35""N, 120°43'29""E",21.87638888888889,120.72472222222223
+GU784983.1,Australia,GU784,Ianthella basta,"Masig Island, central Torres Strait",1371,Uncultured gamma proteobacterium clone H2,2009-06-01,"9°44.260′S, 143°25.275′E",-9.737666666666666,143.42125
+HE818343.1,Portugal,HE818,Irciniidae sp.,"Algarve, Gale Alta, Armacao de Pera",1406,Endozoicomonas sp. Ez302 partial,2010-06-16,"37°04'09.6""N, 8°19'52.1""W",37.06933333333334,-8.331138888888889
+HM804435.1,Kuwait,HM804,Acropora clathrata,Qit'at Bnaider,445,"Endozoicimonas sp. 5U3,1 2",2008-07-01,"28°47'52.9""N, 48°18'59.4""E",28.79802777777778,48.3165
+JN635416.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U3361,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635417.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U3917,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635418.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U4336,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635419.1,Taiwan,JN635,Stylophora pistillata,Kenting,345,Uncultured Endozoicomonas sp. clone T679U4172,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635420.1,Taiwan,JN635,Stylophora pistillata,Kenting,338,Uncultured Endozoicomonas sp. clone T679U3170,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635421.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U4214,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635422.1,Taiwan,JN635,Stylophora pistillata,Kenting,345,Uncultured Endozoicomonas sp. clone T679U3769,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635423.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U3602,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635424.1,Taiwan,JN635,Stylophora pistillata,Kenting,340,Uncultured Endozoicomonas sp. clone T679U3321,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635425.1,Taiwan,JN635,Stylophora pistillata,Kenting,338,Uncultured Endozoicomonas sp. clone T679U3322,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635426.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U3446,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635427.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U3907,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635428.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U3169,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635429.1,Taiwan,JN635,Stylophora pistillata,Kenting,345,Uncultured Endozoicomonas sp. clone T679U3935,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635430.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U4446,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635431.1,Taiwan,JN635,Stylophora pistillata,Kenting,341,Uncultured Endozoicomonas sp. clone T679U3240,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635432.1,Taiwan,JN635,Stylophora pistillata,Kenting,342,Uncultured Endozoicomonas sp. clone T679U4453,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635433.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U3156,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635434.1,Taiwan,JN635,Stylophora pistillata,Kenting,343,Uncultured Endozoicomonas sp. clone T679U4459,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635435.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U4392,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635436.1,Taiwan,JN635,Stylophora pistillata,Kenting,344,Uncultured Endozoicomonas sp. clone T679U4373,2007-06-01,"21°56'9""N, 120°48'5""E",22.666666666666668,121.46666666666667
+JN635437.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",342,Uncultured Endozoicomonas sp. clone T679U192,2014-04-01,"22°40""N, 121°27""E",22.666666666666668,121.46666666666667
+JN635438.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,Uncultured Endozoicomonas sp. clone T679U3381,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
+JN635439.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",334,Uncultured Endozoicomonas sp. clone T679U3312,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
+JN635440.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,Uncultured Endozoicomonas sp. clone T679U3556,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
+JN635441.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",343,Uncultured Endozoicomonas sp. clone T679U163,2014-04-01,"22°40""N, 121°27""E",22.666666666666668,121.46666666666667
+JN635442.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",341,Uncultured Endozoicomonas sp. clone T679U3327,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
+JN635443.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",343,Uncultured Endozoicomonas sp. clone T679U3329,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
+JN635444.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",341,Uncultured Endozoicomonas sp. clone T679U122,2014-04-01,"22°40""N, 121°27""E",22.666666666666668,121.46666666666667
+JN635445.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",343,Uncultured Endozoicomonas sp. clone T679U6,2014-04-01,"22°40""N, 121°27""E",22.666666666666668,121.46666666666667
+JN635446.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",341,Uncultured Endozoicomonas sp. clone T679U113,2014-04-01,"22°40""N, 121°27""E",22.666666666666668,121.46666666666667
+JN635447.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",344,Uncultured Endozoicomonas sp. clone T679U3533,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
+JN635448.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",327,Uncultured Endozoicomonas sp. clone T679U3196,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
+JN635449.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",335,Uncultured Endozoicomonas sp. clone T679U4986,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
+JN635450.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",344,Uncultured Endozoicomonas sp. clone T679U351,2014-04-01,"22°40""N, 121°27""E",22.666666666666668,121.46666666666667
+JN635451.1,Taiwan,JN635,Stylophora pistillata,"Kunguan, Green Island",344,Uncultured Endozoicomonas sp. clone T679U228,2014-04-01,"22°40""N, 121°27""E",22.666666666666668,121.46666666666667
+JN635452.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",343,Uncultured Endozoicomonas sp. clone T679U3613,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
+JN635453.1,Taiwan,JN635,Stylophora pistillata,"Chaikou, Green Island",342,Uncultured Endozoicomonas sp. clone T679U3303,2014-07-17,"22°40""N, 121°28""E",22.666666666666668,121.46666666666667
 JN848830.1,Taiwan,JN848,Stylophora pistillata,Yeh Liu,325,Uncultured Endozoicomonas sp. clone T679U5149,2008-02-01,"25°12'49.0""N, 121°41'20.8""E",25.21361111111111,121.68911111111112
-JQ691564.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1502,Uncultured bacterium clone B10,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691565.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone B11,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691566.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B12,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691567.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B13,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691568.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone B14,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691569.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B15,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691570.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B16,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691571.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B2,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691572.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone B3,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691573.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1502,Uncultured bacterium clone B6,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691574.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B7,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691575.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone C1,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691576.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone C10,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691577.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone C14,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691578.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone C2,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691579.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone C3,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691580.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1497,Uncultured bacterium clone C4,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691581.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone C7,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691582.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone C8,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JQ691583.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone C9,2010-06-01,"43°41'10''N, 7°19'0''E",43.68611111111111,7.316666666666666
-JX488684.2,USA,JX488,Eunicea fusca,Florida,1522,Endozoicomonas euniceicola strain EF212,2009-06-01,"26°18.068''N, 80°04.112''W",26.301133333333333,-80.06853333333333
-JX488685.1,Bahamas,JX488,Plexaura sp.,"Bimini, Tuna Alley",1556,Endozoicomonas gorgoniicola strain PS125,2009-07-01,"25°31.478''N, 79°17.948''W ",25.524633333333334,-79.29913333333333
+JQ691564.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1502,Uncultured bacterium clone B10,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691565.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone B11,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691566.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B12,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691567.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B13,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691568.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone B14,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691569.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B15,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691570.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B16,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691571.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B2,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691572.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone B3,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691573.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1502,Uncultured bacterium clone B6,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691574.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone B7,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691575.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone C1,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691576.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone C10,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691577.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone C14,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691578.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone C2,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691579.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone C3,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691580.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1497,Uncultured bacterium clone C4,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691581.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone C7,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691582.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1504,Uncultured bacterium clone C8,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JQ691583.1,France,JQ691,Eunicella cavolini,Bay of Villefranche-sur-Mer,1503,Uncultured bacterium clone C9,2010-06-01,"43°41'10""N, 7°19'0""E",43.68611111111111,7.316666666666666
+JX488684.2,USA,JX488,Eunicea fusca,Hillsboro Ledge,1522,Endozoicomonas euniceicola strain EF212,2009-06-01,"26°18'06.8""N, 80°04'11.2""W",26.30188888888889,-80.06977777777777
+JX488685.1,Bahamas,JX488,Plexaura sp.,Tuna Alley (inside reef),1556,Endozoicomonas gorgoniicola strain PS125,2009-07-01,"25°31'47.8""N, 79°17'54.8""W ",25.529944444444443,-79.29855555555555
 KC668414.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1505,Uncultured bacterium clone P3-A02,2009-06-01,"19°52'24.48'N, 40°04'46.14'E",19.873466666666666,40.079483333333336
 KC668415.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1505,Uncultured bacterium clone P3-A04,2009-06-01,"19°52'24.48'N, 40°04'46.14'E",19.873466666666666,40.079483333333336
 KC668416.1,Saudi Arabia,KC668,Acropora humilis,"Red Sea, Brown reef",1516,Uncultured bacterium clone P3-B03,2009-06-01,"19°52'24.48'N, 40°04'46.14'E",19.873466666666666,40.079483333333336
@@ -929,168 +954,171 @@ KC669274.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,855,Uncultu
 KC669275.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,911,Uncultured bacterium clone 17G10_M13R,2009-06-01,"20°8'58.38'N, 40°14'7.50'E",20.149549999999998,40.235416666666666
 KC669276.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,857,Uncultured bacterium clone 17H08_M13R,2009-06-01,"20°8'58.38'N, 40°14'7.50'E",20.149549999999998,40.235416666666666
 KC669277.1,Saudi Arabia,KC669,Stylophora pistillata,Southern Red Sea,800,Uncultured bacterium clone 17H11_M13R,2009-06-01,"20°8'58.38'N, 40°14'7.50'E",20.149549999999998,40.235416666666666
-KF428127.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C2-52B,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428128.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C2-44C,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428129.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C2-47D,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428138.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-29H,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428139.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-I,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428146.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH5-75K1,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428149.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-45M,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428153.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-LH5-O2,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428154.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-77P,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428156.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-P,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428157.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-Q,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428158.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-31R,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428159.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH5-71R,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428160.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-38S,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428165.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-3T,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428166.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-67T,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428174.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-Y,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428180.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-09AB,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428182.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-36AD,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428183.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",288,Uncultured Endozoicomonas sp. clone PH-LH7-AE,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428185.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-AF,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428186.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-AG,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428199.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-H-14AT1,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428205.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-L-67AW2,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KF428209.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-L-AX,2010-06-01,"24°56.080''N, 81°50.143''W",24.934666666666665,-81.83571666666667
-KM360453.1,Australia,KM360,Coral mucus,Orpheus Island Great Barrier Reef,1128,Endozoicomonas sp. LC205,2010-05-01,"18°36.878''S, 146°29.990'E",-18.614633333333334,146.49983333333333
-KM360460.1,Australia,KM360,Coral mucus,Orpheus Island Great Barrier Reef,733,Endozoicomonas sp. SF102,2010-05-01,"18°36.878''S, 146°29.990'E",-18.614633333333334,146.49983333333333
-KM360464.1,Australia,KM360,Coral mucus,Orpheus Island Great Barrier Reef,1023,Endozoicomonas sp. SF204,2010-05-01,"18°36.878''S, 146°29.990'E",-18.614633333333334,146.49983333333333
-KT964903.1,France,KT964,Corallium rubrum,"Porticcio, Corsica Island",327,Uncultured Endozoicomonas sp. clone denovo13612,2013-04-01,"41°50'N, 8°45'E",41.833333333333336,8.75
-LN875493.1,Taiwan,LN875,Coral,Kenting,1452,Endozoicomonas sp. Acr-14 partial,2015-07-01,"21°52'35''N, 120°43'29''E",21.87638888888889,120.72472222222223
-LN879492.1,Taiwan,LN879,Coral,Kenting,1450,Endozoicomonas sp. Acr-12 partial,2015-07-01,"21°52'35''N, 120°43'29''E",21.87638888888889,120.72472222222223
-MG725756.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00001,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725757.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00002,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725758.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,294,Uncultured bacterium clone Otu00006,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725759.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,288,Uncultured bacterium clone Otu00015,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725760.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,299,Uncultured bacterium clone Otu00017,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725761.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,289,Uncultured bacterium clone Otu00019,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725762.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,294,Uncultured bacterium clone Otu00020,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725763.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,290,Uncultured bacterium clone Otu00021,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725764.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,296,Uncultured bacterium clone Otu00023,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725765.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,289,Uncultured bacterium clone Otu00024,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725766.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,290,Uncultured bacterium clone Otu00025,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725767.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,297,Uncultured bacterium clone Otu00029,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725768.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00031,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725769.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,289,Uncultured bacterium clone Otu00032,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725770.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,294,Uncultured bacterium clone Otu00040,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725771.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,290,Uncultured bacterium clone Otu00045,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725772.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,294,Uncultured bacterium clone Otu00047,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725773.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,290,Uncultured bacterium clone Otu00048,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725774.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,300,Uncultured bacterium clone Otu00050,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725775.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,294,Uncultured bacterium clone Otu00052,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725776.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,295,Uncultured bacterium clone Otu00053,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725777.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,297,Uncultured bacterium clone Otu00055,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725778.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,297,Uncultured bacterium clone Otu00058,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725779.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,302,Uncultured bacterium clone Otu00060,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725780.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00062,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725781.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,297,Uncultured bacterium clone Otu00063,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725782.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,289,Uncultured bacterium clone Otu00065,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725783.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,287,Uncultured bacterium clone Otu00067,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725784.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,296,Uncultured bacterium clone Otu00068,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725785.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,292,Uncultured bacterium clone Otu00071,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725786.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00074,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725787.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00075,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725788.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,297,Uncultured bacterium clone Otu00076,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725789.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,298,Uncultured bacterium clone Otu00077,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725790.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,287,Uncultured bacterium clone Otu00078,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725791.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,296,Uncultured bacterium clone Otu00084,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725792.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,300,Uncultured bacterium clone Otu00086,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725793.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00091,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725794.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,294,Uncultured bacterium clone Otu00093,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725795.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,297,Uncultured bacterium clone Otu00094,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725796.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,289,Uncultured bacterium clone Otu00096,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725797.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,295,Uncultured bacterium clone Otu00099,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725798.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,296,Uncultured bacterium clone Otu00102,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725799.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00105,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725800.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,288,Uncultured bacterium clone Otu00108,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725801.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,287,Uncultured bacterium clone Otu00109,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725802.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00112,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725803.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,296,Uncultured bacterium clone Otu00113,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725804.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,294,Uncultured bacterium clone Otu00114,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725805.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,297,Uncultured bacterium clone Otu00116,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725806.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,302,Uncultured bacterium clone Otu00117,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725807.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,297,Uncultured bacterium clone Otu00118,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725808.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,296,Uncultured bacterium clone Otu00124,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725809.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00130,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725810.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,289,Uncultured bacterium clone Otu00133,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725811.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,290,Uncultured bacterium clone Otu00135,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725812.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,293,Uncultured bacterium clone Otu00136,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG725813.1,Saudi Arabia,MG725,Coral,Al-Fahal reef,285,Uncultured bacterium clone Otu00138,2014-11-01,"22°18'19.98″N, 38°57'46.08″E",22.30555,38.9628
-MG896169.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1407,Endozoicomonas sp. strain UMTGB101,2012-10-01,"5°36.8150''N, 103°03.418''E",5.613583333333334,103.05696666666667
-MG896171.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1409,Endozoicomonas sp. strain UMTGB103,2012-10-01,"5°36.8150''N, 103°03.418''E",5.613583333333334,103.05696666666667
-MG896176.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1391,Endozoicomonas sp. strain UMTGB108,2012-10-01,"5°36.8150''N, 103°03.418''E",5.613583333333334,103.05696666666667
-MG896185.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1450,Endozoicomonas sp. strain UMTGB117,2012-10-01,"5°36.8150''N, 103°03.418''E",5.613583333333334,103.05696666666667
-MG896199.1,Malaysia,MG896,Coral reef ecosystems,"Bidong Island, Terengganu",1393,Endozoicomonas sp. strain UMTGB213,2012-10-01,"5°36.8150''N, 103°03.418''E",5.613583333333334,103.05696666666667
-MW540618.1,Saudi Arabia,MW540,Acropora cytherea,Red Sea,1016,Endozoicomonas sp. strain G2_1,2018-05-15,"22°15.100’N, 38°57.386’E",22.251666666666665,38.95643333333334
-MW540619.1,Saudi Arabia,MW540,Acropora hemprichii,Red Sea,999,Endozoicomonas sp. strain G2_2,2018-05-15,"22°15.100’N, 38°57.386’E",22.251666666666665,38.95643333333334
-OL957474.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS1-1-1,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957475.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS1-1-2,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957476.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS1-1-3,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957477.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,Uncultured Endozoicomonas sp. clone KS1-1-10,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957478.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,Uncultured Endozoicomonas sp. clone KS1-2-1,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957479.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,Uncultured Endozoicomonas sp. clone KS1-2-2,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957480.1,Taiwan,OL957,Stylophora pistillata,Kenting,423,Uncultured Endozoicomonas sp. clone KS1-2-4,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957481.1,Taiwan,OL957,Stylophora pistillata,Kenting,419,Uncultured Endozoicomonas sp. clone KS1-3-1,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957482.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,Uncultured Endozoicomonas sp. clone KS4-1-1C,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957483.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS4-1-2C,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957484.1,Taiwan,OL957,Stylophora pistillata,Kenting,420,Uncultured Endozoicomonas sp. clone KS4-2-N2C,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957485.1,Taiwan,OL957,Stylophora pistillata,Kenting,420,Uncultured Endozoicomonas sp. clone KS4-2-N9C,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957486.1,Taiwan,OL957,Stylophora pistillata,Kenting,419,Uncultured Endozoicomonas sp. clone KS4-3-1,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957487.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,Uncultured Endozoicomonas sp. clone KS4-3-2,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957488.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS4-3-3,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957489.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS4-4-1,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957490.1,Taiwan,OL957,Stylophora pistillata,Kenting,420,Uncultured Endozoicomonas sp. clone KS4-4-2,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957491.1,Taiwan,OL957,Stylophora pistillata,Kenting,419,Uncultured Endozoicomonas sp. clone KS4-5-1,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957492.1,Taiwan,OL957,Stylophora pistillata,Kenting,422,Uncultured Endozoicomonas sp. clone KS7-2-3,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957493.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,Uncultured Endozoicomonas sp. clone KS7-2-4,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957494.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,Uncultured Endozoicomonas sp. clone KS7-2-5,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957495.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS7-3-2,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957496.1,Taiwan,OL957,Stylophora pistillata,Kenting,422,Uncultured Endozoicomonas sp. clone KS7-3-3,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957497.1,Taiwan,OL957,Stylophora pistillata,Kenting,422,Uncultured Endozoicomonas sp. clone KS7-3-L2,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957498.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS7-4-1,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957499.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS7-4-2,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957500.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,Uncultured Endozoicomonas sp. clone KS7-4-3,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957501.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS7-4-4,2017-09-01,"21˚56'20.2''N, 120˚44'44.6''E",21.938944444444445,120.74572222222223
-OL957502.1,Japan,OL957,Stylophora pistillata,Okinawa,420,Uncultured Endozoicomonas sp. clone OS2-1-2,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957503.1,Japan,OL957,Stylophora pistillata,Okinawa,422,Uncultured Endozoicomonas sp. clone OS2-1-3,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957504.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS2-2-1,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957505.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS2-2-2,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957506.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS2-2-3,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957507.1,Japan,OL957,Stylophora pistillata,Okinawa,436,Uncultured Endozoicomonas sp. clone OS2-2-6,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957508.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS2-3-1,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957509.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS2-3-2,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957510.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS2-4-1,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957511.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS2-4-2,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957512.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS2-5-2,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957513.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS2-5-3,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957514.1,Japan,OL957,Stylophora pistillata,Okinawa,434,Uncultured Endozoicomonas sp. clone OS3-1-1,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957515.1,Japan,OL957,Stylophora pistillata,Okinawa,422,Uncultured Endozoicomonas sp. clone OS3-1-3,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957516.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS3-1-4,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957517.1,Japan,OL957,Stylophora pistillata,Okinawa,423,Uncultured Endozoicomonas sp. clone OS3-1-5,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957518.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-1-6,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957519.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS3-2-1,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957520.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS3-2-2,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957521.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-1,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957522.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-5,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957523.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-10,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957524.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-12,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957525.1,Japan,OL957,Stylophora pistillata,Okinawa,415,Uncultured Endozoicomonas sp. clone OS3-3-13,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957526.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-14,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957527.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-1-2,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957528.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-1-5,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957529.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-1-6,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957530.1,Japan,OL957,Stylophora pistillata,Okinawa,415,Uncultured Endozoicomonas sp. clone OS8-1-7,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957531.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-1-8,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957532.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-1,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957533.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-2,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957534.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-3,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957535.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-2-4,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957536.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-5,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957537.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-6,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957538.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-3-1,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957539.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-3-2,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OL957540.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-3-3,2017-10-01,"26˚37'42.2''N, 127˚51'35.6''E",26.62838888888889,127.85988888888889
-OM273412.1,USA,OM273,Eunicea flexuosa,"Florida Keys, Florida",1284,Endozoicomonas gorgoniicola strain GFK69,2019-10-01,"25°11.9''N, 80°30.2''W",25.198333333333334,-80.50333333333333
-OM273416.1,USA,OM273,Eunicea flexuosa,"Florida Keys, Florida",1144,Endozoicomonas euniceicola strain GFK78,2019-10-01,"25°11.9''N, 80°30.2''W",25.198333333333334,-80.50333333333333
+KF428127.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C2-52B,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428128.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C2-44C,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428129.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C2-47D,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428138.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-29H,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428139.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-I,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428146.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH5-75K1,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428149.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-45M,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428153.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-LH5-O2,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428154.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-77P,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428156.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-P,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428157.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-Q,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428158.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-31R,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428159.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH5-71R,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428160.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-38S,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428165.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-3T,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428166.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-67T,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428174.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-C5-Y,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428180.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-09AB,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428182.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-36AD,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428183.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",288,Uncultured Endozoicomonas sp. clone PH-LH7-AE,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428185.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-AF,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428186.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-AG,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428199.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-H-14AT1,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428205.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-L-67AW2,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KF428209.1,USA,KF428,Plexaura homomalla,"Summerland Key, Florida",289,Uncultured Endozoicomonas sp. clone PH-LH7-L-AX,2010-06-01,"24°56'08.0""N, 81°50'14.3""W",24.935555555555556,-81.83730555555555
+KJ372479.1,Brazil,KJ372,Arenosclera brasiliensis,"João Fernandinho Beach, Búzios, Rio de Janeiro",949,Endozoicomonas montiporae strain Ab112,2011-01-01,"22°44′49″S, 41°52′54″W",-22.746944444444445,-41.88166666666667
+KM360453.1,Australia,KM360,Lobophytum compactum,Orpheus Island Great Barrier Reef,1128,Endozoicomonas sp. LC205,2010-05-01,"18°36'33.8""S, 146°29'12.4""E",-18.60938888888889,146.48677777777777
+KM360460.1,Australia,KM360,Lobophytum compactum,Orpheus Island Great Barrier Reef,733,Endozoicomonas sp. SF102,2010-05-01,"18°36'33.8""S, 146°29'12.4""E",-18.60938888888889,146.48677777777777
+KM360464.1,Australia,KM360,Lobophytum compactum,Orpheus Island Great Barrier Reef,1023,Endozoicomonas sp. SF204,2010-05-01,"18°36'33.8""S, 146°29'12.4""E",-18.60938888888889,146.48677777777777
+KT964903.1,France,KT964,Corallium rubrum,"Porticcio, Corsica Island",327,Uncultured Endozoicomonas sp. clone denovo13612,2013-04-01,"41°50""N, 8°45""E",41.833333333333336,8.75
+KX611231.1,Germany,KX611,Sponge haliclona sp.,Justus-Liebig-University Giessen,1447,Endozoicomonas sp. strain S-B4-1U,2016-01-14,"50°34′08""N, 8°40′22""E",50.56888888888889,8.672777777777776
+KY798517.1,Germany,KY798,Sponge,Sponge fragment,1436,Parendozoicomonas haliclonae strain JOB-63a,2016-01-14,"50°34′08""N, 8°40′22""E",50.56888888888889,8.672777777777776
+LN875493.1,Taiwan,LN875,Acropora  sp.,Kenting,1452,Endozoicomonas sp. Acr-14 partial,2015-07-01,"21°52'35""N, 120°43'29""E",21.87638888888889,120.72472222222223
+LN879492.1,Taiwan,LN879,Acropora  sp.,Kenting,1450,Endozoicomonas sp. Acr-12 partial,2015-07-01,"21°52'35""N, 120°43'29""E",21.87638888888889,120.72472222222223
+MG725756.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00001,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725757.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00002,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725758.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,294,Uncultured bacterium clone Otu00006,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725759.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,288,Uncultured bacterium clone Otu00015,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725760.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,299,Uncultured bacterium clone Otu00017,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725761.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,289,Uncultured bacterium clone Otu00019,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725762.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,294,Uncultured bacterium clone Otu00020,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725763.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,290,Uncultured bacterium clone Otu00021,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725764.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,296,Uncultured bacterium clone Otu00023,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725765.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,289,Uncultured bacterium clone Otu00024,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725766.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,290,Uncultured bacterium clone Otu00025,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725767.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,297,Uncultured bacterium clone Otu00029,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725768.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00031,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725769.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,289,Uncultured bacterium clone Otu00032,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725770.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,294,Uncultured bacterium clone Otu00040,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725771.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,290,Uncultured bacterium clone Otu00045,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725772.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,294,Uncultured bacterium clone Otu00047,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725773.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,290,Uncultured bacterium clone Otu00048,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725774.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,300,Uncultured bacterium clone Otu00050,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725775.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,294,Uncultured bacterium clone Otu00052,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725776.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,295,Uncultured bacterium clone Otu00053,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725777.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,297,Uncultured bacterium clone Otu00055,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725778.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,297,Uncultured bacterium clone Otu00058,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725779.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,302,Uncultured bacterium clone Otu00060,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725780.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00062,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725781.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,297,Uncultured bacterium clone Otu00063,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725782.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,289,Uncultured bacterium clone Otu00065,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725783.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,287,Uncultured bacterium clone Otu00067,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725784.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,296,Uncultured bacterium clone Otu00068,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725785.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,292,Uncultured bacterium clone Otu00071,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725786.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00074,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725787.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00075,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725788.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,297,Uncultured bacterium clone Otu00076,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725789.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,298,Uncultured bacterium clone Otu00077,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725790.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,287,Uncultured bacterium clone Otu00078,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725791.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,296,Uncultured bacterium clone Otu00084,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725792.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,300,Uncultured bacterium clone Otu00086,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725793.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00091,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725794.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,294,Uncultured bacterium clone Otu00093,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725795.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,297,Uncultured bacterium clone Otu00094,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725796.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,289,Uncultured bacterium clone Otu00096,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725797.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,295,Uncultured bacterium clone Otu00099,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725798.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,296,Uncultured bacterium clone Otu00102,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725799.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00105,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725800.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,288,Uncultured bacterium clone Otu00108,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725801.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,287,Uncultured bacterium clone Otu00109,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725802.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00112,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725803.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,296,Uncultured bacterium clone Otu00113,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725804.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,294,Uncultured bacterium clone Otu00114,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725805.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,297,Uncultured bacterium clone Otu00116,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725806.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,302,Uncultured bacterium clone Otu00117,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725807.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,297,Uncultured bacterium clone Otu00118,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725808.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,296,Uncultured bacterium clone Otu00124,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725809.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00130,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725810.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,289,Uncultured bacterium clone Otu00133,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725811.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,290,Uncultured bacterium clone Otu00135,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725812.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,293,Uncultured bacterium clone Otu00136,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG725813.1,Saudi Arabia,MG725,P. verrucosa,Al-Fahal reef,285,Uncultured bacterium clone Otu00138,2014-11-01,"22°18'19.98""N, 38°57'46.08""E",22.30555,38.9628
+MG896169.1,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1407,Endozoicomonas sp. strain UMTGB101,2012-10-01,"5°37'08.0""N, 103°03'15.6""E",5.61888888888889,103.05433333333333
+MG896171.1,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1409,Endozoicomonas sp. strain UMTGB103,2012-10-01,"5°37'08.0""N, 103°03'15.6""E",5.61888888888889,103.05433333333333
+MG896176.1,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1391,Endozoicomonas sp. strain UMTGB108,2012-10-01,"5°37'08.0""N, 103°03'15.6""E",5.61888888888889,103.05433333333333
+MG896185.1,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1450,Endozoicomonas sp. strain UMTGB117,2012-10-01,"5°37'08.0""N, 103°03'15.6""E",5.61888888888889,103.05433333333333
+MG896199.1,Malaysia,MG896,Clavelina coerulea,"Bidong Island, Terengganu",1393,Endozoicomonas sp. strain UMTGB213,2012-10-01,"5°37'08.0""N, 103°03'15.6""E",5.61888888888889,103.05433333333333
+MW540618.1,Saudi Arabia,MW540,Acropora cytherea,Red Sea,1016,Endozoicomonas sp. strain G2_1,2018-05-15,"22°15.10.0""N, 38°57'38.6""E",22.251666666666665,38.96072222222222
+MW540619.1,Saudi Arabia,MW540,Acropora hemprichii,Red Sea,999,Endozoicomonas sp. strain G2_2,2018-05-15,"22°15'10.0""N, 38°57'38.6""E",22.252777777777776,38.96072222222222
+OL957474.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS1-1-1,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957475.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS1-1-2,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957476.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS1-1-3,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957477.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,Uncultured Endozoicomonas sp. clone KS1-1-10,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957478.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,Uncultured Endozoicomonas sp. clone KS1-2-1,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957479.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,Uncultured Endozoicomonas sp. clone KS1-2-2,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957480.1,Taiwan,OL957,Stylophora pistillata,Kenting,423,Uncultured Endozoicomonas sp. clone KS1-2-4,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957481.1,Taiwan,OL957,Stylophora pistillata,Kenting,419,Uncultured Endozoicomonas sp. clone KS1-3-1,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957482.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,Uncultured Endozoicomonas sp. clone KS4-1-1C,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957483.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS4-1-2C,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957484.1,Taiwan,OL957,Stylophora pistillata,Kenting,420,Uncultured Endozoicomonas sp. clone KS4-2-N2C,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957485.1,Taiwan,OL957,Stylophora pistillata,Kenting,420,Uncultured Endozoicomonas sp. clone KS4-2-N9C,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957486.1,Taiwan,OL957,Stylophora pistillata,Kenting,419,Uncultured Endozoicomonas sp. clone KS4-3-1,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957487.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,Uncultured Endozoicomonas sp. clone KS4-3-2,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957488.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS4-3-3,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957489.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS4-4-1,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957490.1,Taiwan,OL957,Stylophora pistillata,Kenting,420,Uncultured Endozoicomonas sp. clone KS4-4-2,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957491.1,Taiwan,OL957,Stylophora pistillata,Kenting,419,Uncultured Endozoicomonas sp. clone KS4-5-1,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957492.1,Taiwan,OL957,Stylophora pistillata,Kenting,422,Uncultured Endozoicomonas sp. clone KS7-2-3,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957493.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,Uncultured Endozoicomonas sp. clone KS7-2-4,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957494.1,Taiwan,OL957,Stylophora pistillata,Kenting,421,Uncultured Endozoicomonas sp. clone KS7-2-5,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957495.1,Taiwan,OL957,Stylophora pistillata,Kenting,417,Uncultured Endozoicomonas sp. clone KS7-3-2,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957496.1,Taiwan,OL957,Stylophora pistillata,Kenting,422,Uncultured Endozoicomonas sp. clone KS7-3-3,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957497.1,Taiwan,OL957,Stylophora pistillata,Kenting,422,Uncultured Endozoicomonas sp. clone KS7-3-L2,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957498.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS7-4-1,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957499.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS7-4-2,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957500.1,Taiwan,OL957,Stylophora pistillata,Kenting,416,Uncultured Endozoicomonas sp. clone KS7-4-3,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957501.1,Taiwan,OL957,Stylophora pistillata,Kenting,415,Uncultured Endozoicomonas sp. clone KS7-4-4,2017-09-01,"21˚56'20.2""N, 120˚44'44.6""E",21.938944444444445,120.74572222222223
+OL957502.1,Japan,OL957,Stylophora pistillata,Okinawa,420,Uncultured Endozoicomonas sp. clone OS2-1-2,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957503.1,Japan,OL957,Stylophora pistillata,Okinawa,422,Uncultured Endozoicomonas sp. clone OS2-1-3,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957504.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS2-2-1,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957505.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS2-2-2,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957506.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS2-2-3,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957507.1,Japan,OL957,Stylophora pistillata,Okinawa,436,Uncultured Endozoicomonas sp. clone OS2-2-6,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957508.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS2-3-1,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957509.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS2-3-2,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957510.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS2-4-1,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957511.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS2-4-2,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957512.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS2-5-2,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957513.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS2-5-3,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957514.1,Japan,OL957,Stylophora pistillata,Okinawa,434,Uncultured Endozoicomonas sp. clone OS3-1-1,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957515.1,Japan,OL957,Stylophora pistillata,Okinawa,422,Uncultured Endozoicomonas sp. clone OS3-1-3,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957516.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS3-1-4,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957517.1,Japan,OL957,Stylophora pistillata,Okinawa,423,Uncultured Endozoicomonas sp. clone OS3-1-5,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957518.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-1-6,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957519.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS3-2-1,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957520.1,Japan,OL957,Stylophora pistillata,Okinawa,437,Uncultured Endozoicomonas sp. clone OS3-2-2,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957521.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-1,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957522.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-5,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957523.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-10,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957524.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-12,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957525.1,Japan,OL957,Stylophora pistillata,Okinawa,415,Uncultured Endozoicomonas sp. clone OS3-3-13,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957526.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS3-3-14,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957527.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-1-2,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957528.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-1-5,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957529.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-1-6,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957530.1,Japan,OL957,Stylophora pistillata,Okinawa,415,Uncultured Endozoicomonas sp. clone OS8-1-7,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957531.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-1-8,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957532.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-1,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957533.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-2,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957534.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-3,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957535.1,Japan,OL957,Stylophora pistillata,Okinawa,416,Uncultured Endozoicomonas sp. clone OS8-2-4,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957536.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-5,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957537.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-2-6,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957538.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-3-1,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957539.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-3-2,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OL957540.1,Japan,OL957,Stylophora pistillata,Okinawa,419,Uncultured Endozoicomonas sp. clone OS8-3-3,2017-10-01,"26˚37'42.2""N, 127˚51'35.6""E",26.62838888888889,127.85988888888889
+OM273412.1,USA,OM273,Eunicea flexuosa,Florida Keys,1284,Endozoicomonas gorgoniicola strain GFK69,2019-10-01,"25°11.9""N, 80°30.2""W",25.198333333333334,-80.50333333333333
+OM273416.1,USA,OM273,Eunicea flexuosa,Florida Keys,1144,Endozoicomonas euniceicola strain GFK78,2019-10-01,"25°11.9""N, 80°30.2""W",25.198333333333334,-80.50333333333333
