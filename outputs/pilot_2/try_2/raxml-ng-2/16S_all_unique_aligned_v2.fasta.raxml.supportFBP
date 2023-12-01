@@ -1,0 +1,117 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=15;
+	taxlabels
+	'AB196667.1'[&!name="Endozoicimonas elysicola from Elysia ornata (sea slug) in  Izu-Miyake Island, Japan",!color=#ff6600]
+	'AB695088.1'[&!name="Endozoicomonas numazuensis from Haplosclerida gen. et sp. in Shizuoka, Numazu, Japan",!color=#ff6600]
+	'FJ347758.1'[&!name="Endozoicomonas montiporae CL-33 from Montipora aequituberculata in Kenting, Taiwan"]
+	'JX488684.2'[&!name="Endozoicomonas euniceicola from Eunicea fusca in Florida, USA"]
+	'JX488685.1'[&!name="Endozoicomonas gorgoniicola from Plexaura sp. in Bimini, Tuna Alley, Bahamas"]
+	'KC878324.1'[&!name="Endozoicomonas atrinae from Atrina pectinata (comb pen) in South Korea"]
+	'KJ372452.1'[&!name="Endozoicomonas montiporae from Arenosclera brasiliensis (marine sponge) in Rio de Janeiro, Brazil",!color=#ff6600]
+	'KT364257.1'[&!name="Endozoicomonas ascidiicola from Ascidiella sp. In Gullmarsfjorden, Sweden"]
+	'KX780138.1'[&!name="Endozoicomonas sp. from Pecten maximus (king scallop) in United Kingdom"]
+	'LN626318.1'[&!name="Endozoicomonas sp. from Diplodus puntazzo larva in eastern Mediterranean sea"]
+	'LN875493.1'[&!name="Endozoicomonas sp. Acr-14 from Acropora  sp. in Kenting, Taiwan",!color=#ff0000]
+	'LN879492.1'[&!name="Endozoicomonas sp. Acr-14 from Acropora  sp. in Kenting, Taiwan",!color=#ff6600]
+	'MH201322.1'[&!name="Endozoicomonas sp. from a sea cucumber pond in China"]
+	'MK633876.1'[&!name="Endozoicomonas sp. from Halichondria panicea in South-West Iceland",!color=#ff6600]
+	'OQ618154.1'[&!name="Endozoicomonas sp. From China",!color=#ff6600]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((('MH201322.1'[&!rotate=false]:0.144814,'KX780138.1'[&!rotate=false]:0.05685)[&"Felsenstein Boostrap"=37,!rotate=false]:0.024007,((('MK633876.1'[&!color=#ff6600,!rotate=false]:0.036377,'AB695088.1'[&!color=#ff6600,!rotate=false]:0.002191)[&"Felsenstein Boostrap"=96,!color=#ff6600,!rotate=false]:0.00479,'KJ372452.1'[&!color=#ff6600,!rotate=true]:0.013996)[&"Felsenstein Boostrap"=98,!color=#ff6600,!rotate=true]:0.010653,('AB196667.1'[&!color=#ff6600,!rotate=false]:7.56E-4,(('KT364257.1'[&!rotate=false]:0.018481,(('LN875493.1'[&!color=#ff0000,!rotate=false]:0.013489,('LN879492.1'[&!color=#ff6600,!rotate=false]:1.0E-6,'OQ618154.1'[&!color=#ff6600,!rotate=false]:1.0E-6)[&"Felsenstein Boostrap"=99,!color=#ff6600,!rotate=false]:0.004007)[&"Felsenstein Boostrap"=100,!color=#ff0000,!rotate=false]:0.024397,'KC878324.1'[&!rotate=true]:0.003248)[&"Felsenstein Boostrap"=71,!rotate=true]:0.002089)[&"Felsenstein Boostrap"=75,!rotate=false]:0.009624,'LN626318.1'[&!rotate=true]:0.004804)[&"Felsenstein Boostrap"=52,!rotate=true]:0.003642)[&"Felsenstein Boostrap"=92,!color=#ff6600,!rotate=false]:0.020879)[&"Felsenstein Boostrap"=44,!rotate=false]:0.006237)[&"Felsenstein Boostrap"=20,!rotate=false]:1.79E-4,('FJ347758.1'[&!rotate=true]:0.007373,'JX488684.2'[&!rotate=true]:0.029976)[&"Felsenstein Boostrap"=37,!rotate=true]:0.003782,'JX488685.1'[&!rotate=true]:0.023708)[&!rotate=true];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=2.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=true;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Felsenstein Boostrap";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=11;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="Felsenstein Boostrap";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=false;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.02;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=13;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
